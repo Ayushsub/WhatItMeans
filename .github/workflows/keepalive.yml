@@ -1,0 +1,41 @@
+name: keepalive
+
+# GitHub DISABLES scheduled workflows on repos with 60 days of no activity, and
+# commits made by the built-in GITHUB_TOKEN do not reliably reset that clock
+# (plan Part 3, known risk). Without this, the site silently stops updating
+# after two quiet months.
+#
+# SETUP REQUIRED: create a fine-grained PAT with "Contents: read and write" on
+# this repo and save it as the KEEPALIVE_TOKEN secret. Commits authored with a
+# PAT count as user activity. Without the secret this workflow is a no-op and
+# the 60-day risk remains.
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"     # 06:00 UTC on the 1st of every month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.KEEPALIVE_TOKEN || github.token }}
+
+      - name: Touch heartbeat
+        run: |
+          if [ -z "${{ secrets.KEEPALIVE_TOKEN }}" ]; then
+            echo "::warning::KEEPALIVE_TOKEN is not set. This commit may not"
+            echo "::warning::reset the 60-day scheduled-workflow timer."
+          fi
+          mkdir -p .github
+          date -u +"last heartbeat: %Y-%m-%dT%H:%M:%SZ" > .github/HEARTBEAT
+          git config user.name  "newsx-bot"
+          git config user.email "newsx-bot@users.noreply.github.com"
+          git add .github/HEARTBEAT
+          git commit -m "chore: monthly keepalive" || exit 0
+          git push

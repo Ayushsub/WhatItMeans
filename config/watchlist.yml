@@ -1,0 +1,312 @@
+# Deterministic watchlist. No LLM involved (plan Part 4, step 5).
+#
+# Matching is alias-based over title + snippet, word-boundary anchored and
+# case-insensitive. Aliases exist because feeds are inconsistent: "HDFC Bank",
+# "HDFCBANK", "HDFC Bk" are the same entity.
+#
+# This file both TAGS clusters and feeds the ranking score, so weights here
+# directly control which stories get an LLM call. Tune weight, not thresholds.
+
+# Macro themes are the highest-value signal: they have the longest transmission
+# chains, which is exactly what this site explains.
+macro_themes:
+  - id: policy_rate
+    label: Interest Rates
+    weight: 10
+    aliases: [repo rate, reverse repo, policy rate, MPC, monetary policy, rate cut,
+              rate hike, CRR, SLR, basis points, bps, FOMC, fed funds, Federal Reserve,
+              interest rate, easing cycle, tightening cycle, VRRR, LAF]
+  - id: inflation
+    label: Inflation
+    weight: 9
+    aliases: [CPI, WPI, inflation, retail inflation, core inflation, food inflation,
+              deflation, price rise, PCE]
+  - id: currency
+    label: Currency
+    weight: 8
+    aliases: [rupee, USDINR, USD/INR, dollar index, DXY, forex reserves, currency
+              depreciation, currency appreciation, exchange rate]
+  - id: crude
+    label: Crude & Energy
+    weight: 8
+    aliases: [crude oil, Brent, WTI, OPEC, oil price, natural gas, LPG, petrol price,
+              diesel price, energy prices]
+  - id: fiscal
+    label: Fiscal & Budget
+    weight: 8
+    aliases: [fiscal deficit, budget, Union Budget, government borrowing, capex,
+              divestment, disinvestment, GST, tax rate, customs duty, subsidy]
+  - id: trade
+    label: Trade & Tariffs
+    weight: 7
+    aliases: [tariff, trade deficit, exports, imports, FTA, trade pact, trade deal,
+              WTO, sanctions, export ban, import duty]
+  - id: flows
+    label: Institutional Flows
+    weight: 6
+    aliases: [FII, FPI, DII, foreign inflows, foreign outflows, mutual fund inflows,
+              SIP inflows, institutional buying, institutional selling]
+  - id: credit
+    label: Credit & Liquidity
+    weight: 7
+    aliases: [bond yield, G-sec, gilt, credit growth, deposit growth, NPA, asset
+              quality, liquidity, bank credit, corporate bond, yield curve]
+  - id: gdp
+    label: Growth
+    weight: 7
+    aliases: [GDP, GVA, economic growth, IIP, industrial production, PMI, recession,
+              slowdown, unemployment, jobs report, payrolls]
+
+# Regulators and policy bodies. A story naming these is usually a trigger event.
+institutions:
+  - id: rbi
+    label: RBI
+    weight: 10
+    aliases: [RBI, Reserve Bank of India, Reserve Bank, Governor Malhotra]
+  - id: sebi
+    label: SEBI
+    weight: 8
+    aliases: [SEBI, Securities and Exchange Board]
+  - id: govt
+    label: Government
+    weight: 6
+    aliases: [Finance Ministry, Ministry of Finance, MoF, Nirmala Sitharaman,
+              CBDT, CBIC, NITI Aayog, Cabinet, PMO]
+  - id: fed
+    label: US Fed
+    weight: 9
+    aliases: [Federal Reserve, Fed Chair, Jerome Powell, FOMC, US Fed]
+  - id: other_regulators
+    label: Regulators
+    weight: 5
+    aliases: [IRDAI, TRAI, CCI, Competition Commission, NCLT, NCLAT, DGFT, PFRDA]
+
+# Sectors. Used for the sector chips on cards and for grouping.
+sectors:
+  - id: banking
+    label: Banking & Financials
+    weight: 5
+    aliases: [bank, banking, NBFC, lender, private bank, PSU bank, housing finance,
+              microfinance, fintech, insurance, AMC, broking]
+  - id: it
+    label: IT & Tech
+    weight: 4
+    aliases: [IT services, software, SaaS, tech stocks, semiconductor, chip, data
+              centre, data center, cloud, AI]
+  - id: auto
+    label: Auto
+    weight: 4
+    aliases: [auto, automobile, passenger vehicle, two-wheeler, EV, electric vehicle,
+              car sales, commercial vehicle, auto ancillary]
+  - id: pharma
+    label: Pharma & Healthcare
+    weight: 4
+    aliases: [pharma, pharmaceutical, drug, USFDA, API, hospital, healthcare,
+              CDMO, biosimilar]
+  - id: energy
+    label: Energy & Utilities
+    weight: 4
+    aliases: [oil marketing, refinery, refining, power, renewable, solar, wind,
+              coal, discom, transmission, city gas]
+  - id: metals
+    label: Metals & Mining
+    weight: 4
+    aliases: [steel, aluminium, aluminum, copper, zinc, iron ore, mining, metals]
+  - id: fmcg
+    label: FMCG & Consumer
+    weight: 4
+    aliases: [FMCG, consumer goods, staples, rural demand, urban demand, quick
+              commerce, retail sales, discretionary]
+  - id: realty
+    label: Real Estate & Infra
+    weight: 4
+    aliases: [real estate, realty, housing, cement, infrastructure, roads, EPC,
+              construction, capital goods]
+  - id: telecom
+    label: Telecom
+    weight: 4
+    aliases: [telecom, ARPU, spectrum, 5G, tariff hike, subscriber]
+
+# Large caps whose news moves indices. Kept deliberately short — this is a
+# relevance signal, not a company database. Add names as coverage demands.
+companies:
+  - id: reliance
+    label: Reliance Industries
+    ticker: RELIANCE
+    aliases: [Reliance Industries, RIL, Reliance Jio, Jio]
+  - id: tcs
+    label: TCS
+    ticker: TCS
+    aliases: [TCS, Tata Consultancy]
+  - id: hdfcbank
+    label: HDFC Bank
+    ticker: HDFCBANK
+    aliases: [HDFC Bank, HDFCBANK]
+  - id: icicibank
+    label: ICICI Bank
+    ticker: ICICIBANK
+    aliases: [ICICI Bank, ICICIBANK]
+  - id: sbi
+    label: State Bank of India
+    ticker: SBIN
+    aliases: [State Bank of India, SBI]
+  - id: infosys
+    label: Infosys
+    ticker: INFY
+    aliases: [Infosys, INFY]
+  - id: bhartiairtel
+    label: Bharti Airtel
+    ticker: BHARTIARTL
+    aliases: [Bharti Airtel, Airtel]
+  - id: itc
+    label: ITC
+    ticker: ITC
+    aliases: [ITC Ltd, ITC]
+  - id: lt
+    label: Larsen & Toubro
+    ticker: LT
+    aliases: [Larsen & Toubro, Larsen and Toubro, L&T]
+  - id: adani
+    label: Adani Group
+    ticker: ADANIENT
+    aliases: [Adani, Adani Enterprises, Adani Ports, Adani Green, Adani Power]
+  - id: tatamotors
+    label: Tata Motors
+    ticker: TATAMOTORS
+    aliases: [Tata Motors, JLR, Jaguar Land Rover]
+  - id: maruti
+    label: Maruti Suzuki
+    ticker: MARUTI
+    aliases: [Maruti Suzuki, Maruti]
+  - id: hul
+    label: Hindustan Unilever
+    ticker: HINDUNILVR
+    aliases: [Hindustan Unilever, HUL]
+  - id: bajajfinance
+    label: Bajaj Finance
+    ticker: BAJFINANCE
+    aliases: [Bajaj Finance, Bajaj Finserv]
+
+# Indices — presence signals a market-wide story rather than a single stock.
+indices:
+  - id: nifty
+    label: Nifty
+    weight: 5
+    aliases: [Nifty, Nifty 50, Nifty50, Bank Nifty, Nifty Bank]
+  - id: sensex
+    label: Sensex
+    weight: 5
+    aliases: [Sensex, BSE Sensex]
+  - id: global_indices
+    label: Global Indices
+    weight: 3
+    aliases: [S&P 500, Nasdaq, Dow Jones, Nikkei, Hang Seng, FTSE]
+
+# HARD EXCLUDE — dropped at normalize, never enters a cluster.
+#
+# These are broker recommendation articles ("Buy HDFC Bank; target of Rs 1,850").
+# Ingesting them is a compliance hazard: the source material IS a recommendation,
+# so every downstream stage would be fighting to scrub it back out. Cheaper and
+# safer to never let them in. Treated as regex, case-insensitive.
+# Real example seen on moneycontrol_latest during feed probing.
+hard_exclude_patterns:
+  - '^\s*(buy|sell|hold|accumulate|reduce|add)\b.{0,60}\btarget\b'
+  - '\btarget (price|of)\b'
+  - '\b(buy|sell) call\b'
+  - '\bstocks? to (buy|sell)\b'
+  - '\btop (stock )?picks?\b'
+  - '\bbuy or sell\b'
+  - '\bshould you (buy|sell|invest)\b'
+  - '\bmultibagger\b'
+  - '\b(brokerage|analyst)s? (say|says|recommend)\b'
+  - '\bstop loss\b'
+  - '\bintraday (pick|call|trade|stock)'
+  - '\btrade setup\b'
+  - '\bmuhurat\b'
+  # IPO subscription-advice framing. "Apply or not?" and "Should you subscribe"
+  # are recommendations in headline form; GMP (grey market premium) coverage is
+  # both low-value and adjacent to unregulated price speculation.
+  - '\bapply or not\b'
+  - '\bshould you (subscribe|apply)\b'
+  - '\bIPO Day \d'
+  - '\bGMP\b'
+  - '\bgrey market premium\b'
+  # RBI OPERATIONAL NOTICES — routine daily liquidity plumbing, not news.
+  # These scored #1 on the first real run purely because rbi_press is a wire
+  # source and the text matches rate/liquidity themes. They are data releases.
+  # Deliberately narrow so genuine policy decisions (repo rate changes, MPC
+  # statements) still pass through.
+  - '\bMoney Market Operations as on\b'
+  - '\bVariable Rate (Reverse )?Repo\b'
+  - '\bVRRR\b'
+  - '\bauction under LAF\b'
+  - '^Result of the .{0,40}auction\b'
+  - '\b(91|182|364)[- ]day Treasury Bills?\b'
+  - '\bAuction of State Government Securities\b'
+  - '\bUnderwriting Auction\b'
+  - '\bDaily Reference Rate\b'
+  # Auto-generated ticker pages. One outlet emits ~14 of these per run
+  # ("Bajaj Finserv Share Price Live Updates: ... Stock Details"); they carry no
+  # story, cluster together into a large meaningless blob, and crowd the feed.
+  - '\bShare Price Live Updates\b'
+  - '\bStock (Details|Price Overview)\b'
+  - "\\bMarket Engagement\\b"
+  # Market PREDICTION framing. Compliance-adjacent: a headline forecasting index
+  # levels is the kind of forward call the site must never carry.
+  - '\b(Nifty|Sensex|market).{0,30}\bprediction\b'
+  - '\bhow .{0,30}(is|are) expected to trade\b'
+  - '\bwhat lies ahead\b'
+  # SEBI ENFORCEMENT PAPERWORK. The SEBI feed is carried for its circulars and
+  # policy decisions, but most recent items are orders against individuals
+  # ("Release Order - <name> [Defaulter]"). Those are legal notices, not market
+  # news: no transmission mechanism, and naming private individuals on a news
+  # site invites a takedown request for zero editorial value.
+  - '\b(Release|Adjudication|Settlement|Prohibitive|Attachment) Order\b'
+  - '\bRecovery Certificate\b'
+  - '\bOrder in the matter of\b'
+  - '\bshow cause notice\b'
+  # DAILY PRICE-TICKER FILLER from the consumer-facing desks. Auto-generated,
+  # no cause to explain, and it clusters into one large meaningless blob.
+  - '\b(gold|silver) (rate|price) today\b'
+  - '\b(petrol|diesel) price(s)? today\b'
+  - '\bprice prediction\b'
+  - '\bclosing bell\b'
+  # Listicles and clickbait — no transmission mechanism to explain.
+  - '\bamong \d+ (stocks|shares|companies)\b'
+  - '\b\d+ (key )?things (you|to) (must|should) know\b'
+  - '\byou must know\b'
+  - '\bheatmap\b'
+
+# SOFT NOISE — kept, but scored down in rank.py. A big story can still outweigh
+# a noisy headline pattern, so this is a weight and not a filter.
+noise_patterns:
+  # DAILY MARKET WRAPS. Soft, not hard, and that distinction is deliberate:
+  # "Sensex ends 43 points higher" is worthless every day of the year EXCEPT
+  # the day it is "Sensex ends 1,400 points lower", which is a real story with
+  # a real mechanism. A hard exclude would drop the one day that matters.
+  # Scored down instead, so a genuinely large move can still outweigh it.
+  # Measured: these merge into a single 21-article blob that topped the ranking.
+  - "stock market today"
+  - "sensex today"
+  - "stock market live"
+  - "market wrap"
+  - "sensex ends"
+  - "nifty ends"
+  - "markets end"
+  - "benchmarks flatline"
+  - horoscope
+  - astrology
+  - "IPO GMP"
+  - "grey market premium"
+  - "stocks to watch"
+  - "technical view"
+  - "F&O ban"
+  - "gold rate today"
+  - "silver rate today"
+  - "petrol and diesel price today"
+  - "sponsored"
+  - "partnered content"
+  - "live updates"
+  - "LIVE blog"
+  - "day in pics"
+  - "photos"

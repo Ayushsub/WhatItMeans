@@ -1,0 +1,28 @@
+# Build output — regenerated every run, published to gh-pages, never to main.
+site/
+.test-site/
+
+# Inspection artifacts from --dump. These contain article text, so they must
+# never be committed to main (plan Part 3: main holds source code only).
+out/
+
+# Publish worktree
+.pages-worktree/
+
+# API keys. NEVER commit. CI uses GitHub Actions secrets instead.
+.env
+.env.*
+!.env.example
+
+# Internal/private notes — never push. Public README.md replaces this.
+EXPLAINED.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Model cache
+.cache/

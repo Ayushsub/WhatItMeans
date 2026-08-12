@@ -1,0 +1,392 @@
+# RSS/Atom sources. India-first + global macro that transmits into India.
+#
+# COMPLIANCE CONTRACT (plan Part 6): every source records where its terms live
+# and how much text we may reproduce. A source whose terms are unclear, or that
+# actively blocks automated access, is excluded — not worked around. We take
+# headline + short snippet + link only, never full article text: Indian fair
+# dealing (Copyright Act s.52) is narrower than US fair use.
+#
+# snippet_max_words is enforced in pipeline/normalize.py, not by convention.
+#
+# ---------------------------------------------------------------------------
+# id vs publisher vs name — these are three different things, on purpose.
+#
+#   id         the FEED. Unique per row. Used for the conditional-GET cache.
+#   publisher  the MASTHEAD. Shared across every feed one newsroom operates.
+#   name       what a READER sees in the attribution line — the masthead, not
+#              the desk, because "reported by Economic Times Markets and
+#              Economic Times Stocks" reads as two outlets when it is one.
+#
+# publisher is load-bearing. Corroboration (the largest term in the ranking
+# score) and the reader-facing "N sources" count are both computed per
+# publisher. Get it wrong and one newsroom's editorial focus decides which
+# stories get an LLM call. Feeds of the same newsroom MUST share a publisher.
+# ---------------------------------------------------------------------------
+#
+# EXCLUDED after probing (do not re-add without checking robots/terms):
+#
+#   Refuse automated access (HTTP 403) — a 403 to a self-identifying bot is a
+#   clear "no", and evading it would breach the terms this pipeline exists to
+#   respect:
+#     business-standard.com  pib.gov.in  ndtvprofit.com  firstpost.com
+#     bls.gov  imf.org  home.treasury.gov
+#
+#   Broken or empty:
+#     financialexpress.com   WordPress feeds disabled (HTML/410)
+#     bankofengland.co.uk    404
+#     zeebiz.com             404
+#     deccanherald.com       500
+#     rbi.org.in speeches    200 but zero entries
+#
+#   Excluded on TERMS — these redistribute other outlets' reporting and their
+#   terms restrict onward redistribution. Unclear terms means excluded, not
+#   assumed fine:
+#     finance.yahoo.com  investing.com  seekingalpha.com
+#
+#   Excluded on QUALITY — thin feeds dominated by ticker filler ("gold price
+#   prediction today"), which would consume the per-feed budget with noise:
+#     timesofindia.indiatimes.com/business  hindustantimes.com/business
+#
+# default_tz matters: several Indian feeds emit RFC-822 dates with NO timezone.
+# Assuming UTC would backdate them 5.5h and age them out of the 24h window early.
+
+defaults:
+  snippet_max_words: 40
+  attribution_required: true
+  timeout_seconds: 20
+  default_tz: Asia/Kolkata
+  # Per-feed ceiling. Indian Express and News18 return 200 entries each;
+  # uncapped, two feeds would supply a third of the corpus and skew clustering
+  # toward whatever those desks cover. Feeds are newest-first, so this keeps
+  # the most recent items.
+  max_entries: 40
+
+sources:
+  # ================= India: Economic Times =================
+  - id: et_markets
+    name: Economic Times
+    publisher: economic_times
+    url: https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms
+    tier: major
+    region: india
+    terms_url: https://economictimes.indiatimes.com/terms-conditions
+
+  - id: et_economy
+    name: Economic Times
+    publisher: economic_times
+    url: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+    tier: major
+    region: india
+    terms_url: https://economictimes.indiatimes.com/terms-conditions
+
+  - id: et_industry
+    name: Economic Times
+    publisher: economic_times
+    url: https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms
+    tier: major
+    region: india
+    terms_url: https://economictimes.indiatimes.com/terms-conditions
+
+  - id: et_stocks
+    name: Economic Times
+    publisher: economic_times
+    url: https://economictimes.indiatimes.com/markets/stocks/rssfeeds/2146842.cms
+    tier: major
+    region: india
+    terms_url: https://economictimes.indiatimes.com/terms-conditions
+
+  - id: et_banking
+    name: Economic Times
+    publisher: economic_times
+    url: https://economictimes.indiatimes.com/industry/banking/finance/rssfeeds/13358319.cms
+    tier: major
+    region: india
+    terms_url: https://economictimes.indiatimes.com/terms-conditions
+
+  - id: et_tech
+    name: Economic Times
+    publisher: economic_times
+    url: https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
+    tier: major
+    region: india
+    terms_url: https://economictimes.indiatimes.com/terms-conditions
+
+  # ================= India: Mint =================
+  - id: mint_markets
+    name: Mint
+    publisher: mint
+    url: https://www.livemint.com/rss/markets
+    tier: major
+    region: india
+    terms_url: https://www.livemint.com/Info/TermsofUse
+
+  - id: mint_economy
+    name: Mint
+    publisher: mint
+    url: https://www.livemint.com/rss/economy
+    tier: major
+    region: india
+    terms_url: https://www.livemint.com/Info/TermsofUse
+
+  - id: mint_companies
+    name: Mint
+    publisher: mint
+    url: https://www.livemint.com/rss/companies
+    tier: major
+    region: india
+    terms_url: https://www.livemint.com/Info/TermsofUse
+
+  - id: mint_industry
+    name: Mint
+    publisher: mint
+    url: https://www.livemint.com/rss/industry
+    tier: major
+    region: india
+    terms_url: https://www.livemint.com/Info/TermsofUse
+
+  - id: mint_money
+    name: Mint
+    publisher: mint
+    url: https://www.livemint.com/rss/money
+    tier: major
+    region: india
+    terms_url: https://www.livemint.com/Info/TermsofUse
+
+  # ================= India: Moneycontrol =================
+  - id: moneycontrol_business
+    name: Moneycontrol
+    publisher: moneycontrol
+    url: https://www.moneycontrol.com/rss/business.xml
+    tier: major
+    region: india
+    terms_url: https://www.moneycontrol.com/india/tools/termsofuse
+
+  - id: moneycontrol_markets
+    name: Moneycontrol
+    publisher: moneycontrol
+    url: https://www.moneycontrol.com/rss/marketreports.xml
+    tier: major
+    region: india
+    terms_url: https://www.moneycontrol.com/india/tools/termsofuse
+
+  - id: moneycontrol_economy
+    name: Moneycontrol
+    publisher: moneycontrol
+    url: https://www.moneycontrol.com/rss/economy.xml
+    tier: major
+    region: india
+    terms_url: https://www.moneycontrol.com/india/tools/termsofuse
+
+  - id: moneycontrol_results
+    name: Moneycontrol
+    publisher: moneycontrol
+    url: https://www.moneycontrol.com/rss/results.xml
+    tier: major
+    region: india
+    terms_url: https://www.moneycontrol.com/india/tools/termsofuse
+
+  - id: moneycontrol_top
+    name: Moneycontrol
+    publisher: moneycontrol
+    url: https://www.moneycontrol.com/rss/MCtopnews.xml
+    tier: major
+    region: india
+    terms_url: https://www.moneycontrol.com/india/tools/termsofuse
+
+  - id: moneycontrol_latest
+    name: Moneycontrol
+    publisher: moneycontrol
+    url: https://www.moneycontrol.com/rss/latestnews.xml
+    tier: aggregator
+    region: india
+    terms_url: https://www.moneycontrol.com/india/tools/termsofuse
+
+  # ================= India: The Hindu group =================
+  - id: hbl_markets
+    name: The Hindu BusinessLine
+    publisher: hindu_businessline
+    url: https://www.thehindubusinessline.com/markets/feeder/default.rss
+    tier: major
+    region: india
+    terms_url: https://www.thehindubusinessline.com/terms-of-use/
+
+  - id: hbl_economy
+    name: The Hindu BusinessLine
+    publisher: hindu_businessline
+    url: https://www.thehindubusinessline.com/economy/feeder/default.rss
+    tier: major
+    region: india
+    terms_url: https://www.thehindubusinessline.com/terms-of-use/
+
+  - id: hbl_companies
+    name: The Hindu BusinessLine
+    publisher: hindu_businessline
+    url: https://www.thehindubusinessline.com/companies/feeder/default.rss
+    tier: major
+    region: india
+    terms_url: https://www.thehindubusinessline.com/terms-of-use/
+
+  - id: hbl_money
+    name: The Hindu BusinessLine
+    publisher: hindu_businessline
+    url: https://www.thehindubusinessline.com/money-and-banking/feeder/default.rss
+    tier: major
+    region: india
+    terms_url: https://www.thehindubusinessline.com/terms-of-use/
+
+  # A separate masthead from BusinessLine, so a separate publisher: a story
+  # carried by both is genuine corroboration, not one newsroom twice.
+  - id: thehindu_business
+    name: The Hindu
+    publisher: the_hindu
+    url: https://www.thehindu.com/business/feeder/default.rss
+    tier: major
+    region: india
+    terms_url: https://www.thehindu.com/terms-of-use/
+
+  - id: thehindu_economy
+    name: The Hindu
+    publisher: the_hindu
+    url: https://www.thehindu.com/business/Economy/feeder/default.rss
+    tier: major
+    region: india
+    terms_url: https://www.thehindu.com/terms-of-use/
+
+  # ================= India: other newsrooms =================
+  - id: indianexpress_business
+    name: The Indian Express
+    publisher: indian_express
+    url: https://indianexpress.com/section/business/feed/
+    tier: major
+    region: india
+    terms_url: https://indianexpress.com/terms-and-conditions/
+
+  - id: news18_business
+    name: News18
+    publisher: news18
+    url: https://www.news18.com/commonfeeds/v1/eng/rss/business.xml
+    tier: aggregator
+    region: india
+    terms_url: https://www.news18.com/terms_use.html
+
+  # ================= India: policy & regulators =================
+  # Highest-value sources for transmission-mechanism explainers — these are the
+  # trigger events that propagate into every sector.
+  - id: rbi_press
+    name: Reserve Bank of India
+    publisher: rbi
+    url: https://www.rbi.org.in/pressreleases_rss.xml
+    tier: wire
+    region: india
+    terms_url: https://www.rbi.org.in/Scripts/Disclaimer.aspx
+    # Emits 'Tue, 11 Aug 2026 10:30:00' with no tz -> needs default_tz + the
+    # fallback date parser in normalize.py. feedparser returns None here.
+
+  - id: sebi_updates
+    name: SEBI
+    publisher: sebi
+    url: https://www.sebi.gov.in/sebirss.xml
+    tier: wire
+    region: india
+    terms_url: https://www.sebi.gov.in/terms-of-use.html
+    # Emits NO dates at all (probed: 0/30 entries dated) — every item flows
+    # through normalize.py's undated->now path. Also overwhelmingly enforcement
+    # paperwork; the "Release/Adjudication/Settlement Order" hard-excludes in
+    # watchlist.yml are what make this feed worth carrying for its circulars.
+    max_entries: 25
+    timeout_seconds: 35   # slow origin; timed out at the 20s default
+
+  # ================= Global macro (transmits into India) =================
+  - id: fed_press
+    name: US Federal Reserve
+    publisher: federal_reserve
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    tier: wire
+    region: global
+    default_tz: America/New_York
+    terms_url: https://www.federalreserve.gov/aboutthefed/legal.htm
+
+  - id: bea_releases
+    name: US Bureau of Economic Analysis
+    publisher: bea
+    url: https://apps.bea.gov/rss/rss.xml
+    tier: wire
+    region: global
+    default_tz: America/New_York
+    terms_url: https://www.bea.gov/help/policies
+    # Official GDP / trade-balance releases: pure trigger events with no
+    # editorial framing, which is exactly what a mechanism explainer wants.
+
+  - id: ecb_press
+    name: European Central Bank
+    publisher: ecb
+    url: https://www.ecb.europa.eu/rss/press.html
+    tier: wire
+    region: global
+    default_tz: Europe/Berlin
+    terms_url: https://www.ecb.europa.eu/services/disclaimer/html/index.en.html
+
+  - id: eia_energy
+    name: US Energy Information Administration
+    publisher: eia
+    url: https://www.eia.gov/rss/todayinenergy.xml
+    tier: wire
+    region: global
+    default_tz: America/New_York
+    terms_url: https://www.eia.gov/about/copyrights_reuse.php
+    # Crude and gas sit at the top of India's most-used transmission chain
+    # (crude -> rupee -> import bill -> fuel inflation -> CPI).
+
+  - id: cnbc_world
+    name: CNBC
+    publisher: cnbc
+    url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135
+    tier: major
+    region: global
+    default_tz: America/New_York
+    terms_url: https://www.nbcuniversal.com/terms
+
+  - id: cnbc_economy
+    name: CNBC
+    publisher: cnbc
+    url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258
+    tier: major
+    region: global
+    default_tz: America/New_York
+    terms_url: https://www.nbcuniversal.com/terms
+
+  - id: cnbc_finance
+    name: CNBC
+    publisher: cnbc
+    url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664
+    tier: major
+    region: global
+    default_tz: America/New_York
+    terms_url: https://www.nbcuniversal.com/terms
+
+  - id: marketwatch_pulse
+    name: MarketWatch
+    publisher: marketwatch
+    url: https://feeds.content.dowjones.io/public/rss/mw_marketpulse
+    tier: major
+    region: global
+    default_tz: America/New_York
+    terms_url: https://www.dowjones.com/terms-of-use/
+
+  - id: marketwatch_top
+    name: MarketWatch
+    publisher: marketwatch
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+    tier: major
+    region: global
+    default_tz: America/New_York
+    terms_url: https://www.dowjones.com/terms-of-use/
+
+  - id: bbc_business
+    name: BBC Business
+    publisher: bbc
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    tier: major
+    region: global
+    default_tz: Europe/London
+    terms_url: https://www.bbc.co.uk/usingthebbc/terms

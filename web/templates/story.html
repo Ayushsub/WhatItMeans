@@ -1,0 +1,129 @@
+{% extends "base.html" %}
+{% block title %}{{ item.analysis.headline }} — {{ site_name }}{% endblock %}
+{% block description %}{{ item.analysis.gist|join(' ') }}{% endblock %}
+
+{% block content %}
+<article class="story">
+
+  <p class="back"><a href="{{ rel }}index.html">← All stories</a></p>
+
+  <div class="card-head">
+    <span class="conf conf-{{ a.confidence }}">{{ a.confidence }} confidence</span>
+    <time datetime="{{ item.published_at.isoformat() }}">{{ item.published_human }}</time>
+  </div>
+
+  <h1>{{ a.headline }}</h1>
+  <p class="hook big">{{ a.hook }}</p>
+
+  <!-- Tier 2 repeated at the top of the story: a reader arriving from search
+       gets the same 30-second version as a reader arriving from the feed. -->
+  <ul class="gist">
+    {% for g in a.gist %}<li>{{ g }}</li>{% endfor %}
+  </ul>
+
+  <div class="chips">
+    {% for s in a.sectors %}<span class="chip dir-{{ s.direction }}">{{ s.sector }}</span>{% endfor %}
+    {% for t in item.tags.macro_themes %}<span class="chip theme">{{ t }}</span>{% endfor %}
+  </div>
+
+  <!-- Tier 3: the fixed 7-section order. The consistency IS the feature —
+       after three stories the reader has an internal template. -->
+  <section>
+    <h2>What happened</h2>
+    <p>{{ a.what_happened }}</p>
+  </section>
+
+  <section>
+    <h2>Who is affected</h2>
+    <dl class="affected">
+      {% for w in a.who_is_affected %}
+      <dt>{{ w.group }}</dt><dd>{{ w.effect }}</dd>
+      {% endfor %}
+    </dl>
+  </section>
+
+  <section>
+    <h2>Which sectors</h2>
+    <ul class="sectors">
+      {% for s in a.sectors %}
+      <li><span class="chip dir-{{ s.direction }}">{{ s.sector }}</span>
+          <span class="dirlabel">{{ s.direction }}</span> — {{ s.why }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="mechanism">
+    <h2>The transmission mechanism</h2>
+    <p class="horizon">Plays out over <strong>{{ a.transmission_mechanism.time_horizon }}</strong></p>
+    <ol class="chain">
+      {% for step in a.transmission_mechanism.chain %}<li>{{ step }}</li>{% endfor %}
+    </ol>
+    <p>{{ a.transmission_mechanism.explanation }}</p>
+  </section>
+
+  <section>
+    <h2>Market reaction</h2>
+    <p>{{ a.market_reaction }}</p>
+  </section>
+
+  <!-- Bull/bear are ATTRIBUTED, never the site's view. The label text is part
+       of the compliance posture, not decoration (plan Part 6). -->
+  <section class="cases">
+    <div class="case bull">
+      <h2>The bull case</h2>
+      <p class="attrib">What optimists are arguing</p>
+      <p>{{ a.bull_case.argument }}</p>
+      {% if a.bull_case.depends_on %}
+      <p class="depends">Depends on:</p>
+      <ul>{% for d in a.bull_case.depends_on %}<li>{{ d }}</li>{% endfor %}</ul>
+      {% endif %}
+    </div>
+    <div class="case bear">
+      <h2>The bear case</h2>
+      <p class="attrib">What pessimists are arguing</p>
+      <p>{{ a.bear_case.argument }}</p>
+      {% if a.bear_case.depends_on %}
+      <p class="depends">Depends on:</p>
+      <ul>{% for d in a.bear_case.depends_on %}<li>{{ d }}</li>{% endfor %}</ul>
+      {% endif %}
+    </div>
+  </section>
+
+  <section>
+    <h2>Key variables to watch</h2>
+    <ul class="watch">
+      {% for v in a.variables_to_watch %}
+      <li><strong>{{ v.variable }}</strong><span class="when">{{ v.when }}</span>
+          <br>{{ v.why_it_matters }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  {% if a.jargon %}
+  <section class="jargon">
+    <h2>Jargon, in plain words</h2>
+    <dl>
+      {% for j in a.jargon %}<dt>{{ j.term }}</dt><dd>{{ j.plain_meaning }}</dd>{% endfor %}
+    </dl>
+  </section>
+  {% endif %}
+
+  <section class="confidence-note">
+    <h2>How confident is this?</h2>
+    <p><span class="conf conf-{{ a.confidence }}">{{ a.confidence }}</span> — {{ a.confidence_reason }}</p>
+  </section>
+
+  <!-- Attribution is mandatory: headline + short excerpt + link only. -->
+  <section class="sources">
+    <h2>Sources</h2>
+    <ul>
+      {% for s in item.sources %}
+      <li><a href="{{ s.url }}" rel="noopener nofollow" target="_blank">{{ s.headline }}</a>
+          <span class="src">{{ s.name }}</span></li>
+      {% endfor %}
+    </ul>
+    <p class="meta">Excerpts are limited and link back to the original publisher.</p>
+  </section>
+
+</article>
+{% endblock %}

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site_name }}{% endblock %}</title>
+<meta name="description" content="{% block description %}Plain-language explanations of Indian market news: what happened, who it affects, and how it transmits through the economy.{% endblock %}">
+<link rel="stylesheet" href="{{ rel }}static/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>">
+{% block head %}{% endblock %}
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="{{ rel }}index.html">{{ site_name }}</a>
+    <nav>
+      <a href="{{ rel }}about.html">About</a>
+      <a href="{{ rel }}contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<!-- Ad slot: intentionally empty. Monetization is not built, but not designed
+     out either (plan Part 7). -->
+<div class="ad-slot" data-slot="header" aria-hidden="true"></div>
+
+<main id="main" class="wrap">
+{% block content %}{% endblock %}
+</main>
+
+<div class="ad-slot" data-slot="footer" aria-hidden="true"></div>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p class="disclaimer"><strong>{{ disclaimer.short }}</strong> {{ disclaimer.full }}</p>
+    <p class="ai-notice">{{ disclaimer.ai_notice }}</p>
+    <p class="meta">
+      Updated {{ updated_human }} ·
+      <a href="{{ rel }}about.html">About</a> ·
+      <a href="{{ rel }}contact.html">Grievance contact</a> ·
+      <a href="{{ rel }}api/v1/feed.json">JSON feed</a>
+    </p>
+    <p class="meta">All headlines and excerpts belong to their original publishers and link back to the source.</p>
+  </div>
+</footer>
+</body>
+</html>

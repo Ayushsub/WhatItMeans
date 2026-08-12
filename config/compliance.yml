@@ -1,0 +1,181 @@
+# Compliance gate configuration (plan Part 6).
+#
+# POSTURE: explainer, never a view. The site is NOT registered with SEBI as a
+# Research Analyst or Investment Adviser. SEBI's Research Analyst regulations
+# are triggered by RECOMMENDATIONS, not by explanation — so the entire design
+# goal is to stay unambiguously on the explanation side of that line.
+#
+# Layer 1 (this file, deterministic) runs BEFORE the LLM reviewer and is a hard
+# fail. A regex that rejects the build is more reliable than any model, so the
+# deterministic layer is the real guarantee and the LLM is the safety net.
+#
+# Patterns are case-insensitive regex, matched against every string field of
+# the generated Analysis JSON.
+
+# ---------------------------------------------------------------------------
+# BLOCKING — cluster is dropped entirely. No rewrite attempted.
+# ---------------------------------------------------------------------------
+blocking_patterns:
+  # Direct recommendations.
+  #
+  # IMPERATIVE MOOD IS THE TELL, and anchoring to it is what makes this pattern
+  # safe. A recommendation is a bare verb at the head of a clause with no
+  # subject ("Buy this now"). The identical verb WITH a subject is ordinary
+  # market reporting that this site must be able to explain:
+  #   "the RBI will buy the bonds through open market operations"
+  #   "trackers buy it in proportion to index weight"
+  # The unanchored version blocked both. Advice aimed at a person is covered
+  # separately by the second-person and first-person patterns below, so nothing
+  # is lost by requiring clause position here.
+  - pattern: '(^|[.!?;]\s+)(buy|sell|short|accumulate)\s+(this|these|the|it|now|at)\b'
+    rule: "direct recommendation"
+  - pattern: '\bbook (profits?|losses?)\b'
+    rule: "direct recommendation"
+  - pattern: '\b(we|our|i)\s+(recommend|suggest|advise|would (buy|sell|avoid))\b'
+    rule: "first-person advice"
+  - pattern: '\byou should (buy|sell|hold|invest|avoid|exit|book|consider buying)\b'
+    rule: "second-person instruction"
+  # Imperative recommendation, anchored to WHO is being told to buy.
+  #
+  # The bare '(must|should)[- ]buy' pattern blocked a real story on a live run:
+  # an index-rejig explainer saying passive funds tracking the Nifty 50 "must
+  # buy" ~$695m of BSE shares. That is a description of how index tracking
+  # mechanically works — forced flows are one of the cleanest transmission
+  # mechanisms this site exists to explain — not a recommendation to anyone.
+  #
+  # So: block when a PERSON is being instructed, and separately block the
+  # listicle headline sense ("must-buy stocks"). A fund under a mandate is
+  # neither.
+  - pattern: '\b(you|investors?|traders?|shareholders?|readers?|one)\s+(must|should)\s+buy\b'
+    rule: "imperative recommendation"
+  - pattern: '\bmust[- ]buy\s+(stocks?|shares?|picks?|counters?)\b'
+    rule: "imperative recommendation"
+
+  # Price levels — the clearest RA-regulated output
+  - pattern: '\btarget (price|of)\b'
+    rule: "price target"
+  - pattern: '\bprice target\b'
+    rule: "price target"
+  - pattern: '\bstop[- ]loss\b'
+    rule: "stop loss"
+  - pattern: '\b(entry|exit) (point|level|price)\b'
+    rule: "entry/exit level"
+  - pattern: '\b(support|resistance) (at|level of)\s*(rs\.?|₹|inr)?\s*[\d,]+'
+    rule: "technical level"
+
+  # Guarantees
+  # "risk-free RATE" is excluded: it is standard terminology for the government
+  # -bond baseline, not a promise. Blocking it cost a real story on the first
+  # live run ("risk-free rate" inside a jargon definition). "risk-free way",
+  # "risk-free returns" etc. are still caught.
+  - pattern: '\b(guaranteed?|assured|sure[- ]shot|no[- ]risk)\b'
+    rule: "guarantee language"
+  - pattern: '\brisk[- ]free\b(?!\s+rate\b)'
+    rule: "guarantee language"
+  - pattern: '\bmultibagger\b'
+    rule: "guarantee language"
+  - pattern: '\bwill (definitely|certainly|surely)\b'
+    rule: "certainty language"
+
+  # Allocation advice.
+  # Anchored to an INVESTMENT noun, not to the bare percentage — otherwise
+  # "the government will allocate 15% of the budget to capex" is blocked, which
+  # is ordinary fiscal-policy reporting this site exists to explain.
+  - pattern: '\ballocate\s+\d{1,3}\s*%\s+(of\s+)?(your|their|the\s+)?\s*(portfolio|capital|corpus|holdings|investments?)\b'
+    rule: "allocation advice"
+  - pattern: '\b\d{1,3}\s*% of your (portfolio|capital|corpus|holdings)\b'
+    rule: "allocation advice"
+
+# ---------------------------------------------------------------------------
+# MINOR — the LLM reviewer may rewrite the field. Two strikes and it is dropped.
+# ---------------------------------------------------------------------------
+minor_patterns:
+  # Unattributed prediction — the fix is attribution, not deletion, so these
+  # are rewritable rather than fatal.
+  - pattern: '\b(this|the stock|the sector|the market) (will|is going to) (rise|fall|rally|crash|surge|drop)\b'
+    rule: "unattributed prediction"
+  - pattern: '\blooks (attractive|cheap|expensive|compelling)\b'
+    rule: "implied valuation call"
+  - pattern: '\b(undervalued|overvalued)\b'
+    rule: "implied valuation call"
+  - pattern: '\bhard to ignore\b'
+    rule: "implied recommendation"
+  - pattern: '\bworth (a look|considering|watching closely for entry)\b'
+    rule: "implied recommendation"
+  - pattern: '\bgood (time|opportunity) to\b'
+    rule: "implied timing call"
+
+# ---------------------------------------------------------------------------
+# Required attribution — bull/bear cases must be framed as someone else's view.
+# Checked positively: bull_case.argument and bear_case.argument must contain at
+# least one of these. This is what keeps the site's most valuable feature on the
+# right side of the line.
+# ---------------------------------------------------------------------------
+attribution_markers:
+  - argue
+  - argues
+  - arguing
+  - contend
+  - contends
+  - "point to"
+  - "points to"
+  - expect
+  - expects
+  - "according to"
+  - analysts
+  - bulls
+  - bears
+  - optimists
+  - pessimists
+  - investors
+  - "market participants"
+  # "case rests" without the leading article: the model writes "the BEAR case
+  # rests on…", which the narrower "the case rests" missed, causing the
+  # attribution repair to prepend a redundant "Bears argue that the bear case
+  # rests on…".
+  - "case rests"
+  - "case hinges"
+  - "case is that"
+  - "case for"
+  - "case against"
+  - "those who"
+  - proponents
+  - skeptics
+  - sceptics
+
+# ---------------------------------------------------------------------------
+# Static text rendered on every page (plan Part 6, Layer 3).
+# ---------------------------------------------------------------------------
+disclaimer:
+  short: >-
+    Educational content, not investment advice.
+  full: >-
+    This page explains publicly reported financial news for educational
+    purposes only. It is not investment advice, a research report, or a
+    recommendation to buy, sell, or hold any security. We are not registered
+    with SEBI as a Research Analyst or an Investment Adviser. Bull and bear
+    arguments described here are attributed to market participants and are not
+    the views of this site. Analysis is generated with automated assistance and
+    may contain errors. Always verify against the original sources linked on
+    every item, and consult a SEBI-registered adviser before making any
+    investment decision.
+  ai_notice: >-
+    Summaries and explanations on this site are generated with automated
+    assistance from the linked source reporting, and reviewed by automated
+    compliance checks. They may contain errors or omissions.
+
+# Grievance contact, per IT Rules 2021 expectations for digital publishers.
+#
+# The regulatory argument is real but secondary. The PRACTICAL argument is that
+# this is the takedown channel for publishers whose headlines we excerpt. With
+# a contact, an unhappy publisher emails us and we drop their feed in one line
+# of YAML. Without one, their only escalation is a copyright complaint to
+# GitHub — and GitHub disables the Pages site first and asks questions later.
+# A working email is cheap insurance against losing the whole site.
+#
+# A dedicated address (e.g. contact@yourdomain) is better than a personal inbox
+# once there is a custom domain — it can be rotated without editing the site.
+grievance:
+  officer_name: "Ayush"
+  email: "ayushpk21i@gmail.com"
+  response_days: 15

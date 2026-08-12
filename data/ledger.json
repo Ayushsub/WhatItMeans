@@ -1,0 +1,142 @@
+[
+ {
+  "date": "2026-08-11",
+  "event_type": "currency_move",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "b6698305fd88"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "energy_price",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "b6698305fd88"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "09e18f616157"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "trade_action",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "09e18f616157"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "energy_price",
+  "entity": "Bharti Airtel",
+  "value": null,
+  "cluster_id": "f35e245b4a54"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "fiscal_action",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "de038c0fc6b1"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "policy_rate",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "c6bfb5152d8b"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "b9a0bdd9c30f"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "cc2eb7a9c339"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "energy_price",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "cc2eb7a9c339"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "inflation_print",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "43be19b00813"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "fiscal_action",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "43be19b00813"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "fiscal_action",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "b54163e4bed7"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹11,900 crore",
+  "cluster_id": "35d8d47129ca"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.25%",
+  "cluster_id": "beeacb42fac1"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "92e929ea3445"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "0a4109f6cc45"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "policy_rate",
+  "entity": "HDFC Bank",
+  "value": null,
+  "cluster_id": "2f34fd741de2"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "6cc6d0bf2a7c"
+ },
+ {
+  "date": "2026-08-11",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "4.5%",
+  "cluster_id": "e5ccf28cc0a1"
+ }
+]

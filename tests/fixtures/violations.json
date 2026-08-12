@@ -1,0 +1,163 @@
+{
+  "_comment": "Hand-written analyses that MUST be rejected by the deterministic regex layer (plan Part 10). Every real violation the LLM reviewer catches in production should be added here so Layer 1 gets strictly stronger over time.",
+  "cases": [
+    {
+      "name": "explicit buy recommendation",
+      "field": "bull_case.argument",
+      "text": "Given the margin expansion, we recommend buying this stock before the results.",
+      "expect": "blocking"
+    },
+    {
+      "name": "price target",
+      "field": "what_happened",
+      "text": "The stock closed at 1,240 with a target price of 1,450 over twelve months.",
+      "expect": "blocking"
+    },
+    {
+      "name": "target of phrasing",
+      "field": "market_reaction",
+      "text": "Brokerages set a target of Rs 1,850 on the counter after the results.",
+      "expect": "blocking"
+    },
+    {
+      "name": "stop loss",
+      "field": "variables_to_watch[0].why_it_matters",
+      "text": "Traders are placing a stop-loss near the 20-day average.",
+      "expect": "blocking"
+    },
+    {
+      "name": "book profits instruction",
+      "field": "bear_case.argument",
+      "text": "It may be wise to book profits now that the rally has extended.",
+      "expect": "blocking"
+    },
+    {
+      "name": "second person instruction",
+      "field": "who_is_affected[0].effect",
+      "text": "You should sell banking exposure ahead of the policy decision.",
+      "expect": "blocking"
+    },
+    {
+      "name": "guarantee language",
+      "field": "confidence_reason",
+      "text": "This is a risk-free way to play the rate cycle.",
+      "expect": "blocking"
+    },
+    {
+      "name": "multibagger",
+      "field": "headline",
+      "text": "Why this multibagger still has room to run",
+      "expect": "blocking"
+    },
+    {
+      "name": "allocation advice",
+      "field": "transmission_mechanism.explanation",
+      "text": "Investors should allocate 15% of your portfolio to this theme.",
+      "expect": "blocking"
+    },
+    {
+      "name": "first person advice",
+      "field": "bull_case.argument",
+      "text": "We would buy the dip here given the policy support.",
+      "expect": "blocking"
+    },
+    {
+      "name": "entry level",
+      "field": "market_reaction",
+      "text": "The entry level most desks are watching is just below the breakout.",
+      "expect": "blocking"
+    },
+    {
+      "name": "certainty language",
+      "field": "bear_case.argument",
+      "text": "Margins will definitely compress over the next two quarters.",
+      "expect": "blocking"
+    },
+    {
+      "name": "implied valuation call",
+      "field": "bull_case.argument",
+      "text": "Bulls argue the sector looks attractive after the correction.",
+      "expect": "minor"
+    },
+    {
+      "name": "undervalued",
+      "field": "bear_case.argument",
+      "text": "Bears contend the stock is still overvalued on forward earnings.",
+      "expect": "minor"
+    },
+    {
+      "name": "unattributed prediction",
+      "field": "market_reaction",
+      "text": "The market will rally once the inflation print lands.",
+      "expect": "minor"
+    },
+    {
+      "name": "implied timing call",
+      "field": "what_happened",
+      "text": "Analysts note it is a good time to revisit the sector.",
+      "expect": "minor"
+    },
+    {
+      "name": "imperative recommendation to a reader",
+      "field": "what_happened",
+      "text": "Given the valuation reset, you must buy this counter before the index rebalance settles.",
+      "expect": "blocking"
+    },
+    {
+      "name": "must-buy listicle framing",
+      "field": "what_happened",
+      "text": "The note circulated a list of must-buy stocks ahead of the index rejig.",
+      "expect": "blocking"
+    },
+    {
+      "name": "bare imperative at clause start",
+      "field": "what_happened",
+      "text": "The setup is clean. Buy this now before the rebalance.",
+      "expect": "blocking"
+    }
+  ],
+  "clean": [
+    {
+      "name": "properly attributed bull case",
+      "text": "Bulls argue that if crude stays below $85, the import bill eases and margin pressure on oil marketing companies reverses within two quarters."
+    },
+    {
+      "name": "properly attributed bear case",
+      "text": "The bear case rests on the assumption that rupee weakness persists, which analysts point to as the main channel for imported inflation."
+    },
+    {
+      "name": "neutral mechanism",
+      "text": "A weaker rupee raises the landed cost of crude, which widens under-recoveries for state fuel retailers, which in turn increases the government's subsidy burden."
+    },
+    {
+      "name": "factual market reaction",
+      "text": "The Sensex closed 312 points lower and the Nifty ended below 24,550, according to the source reporting."
+    },
+    {
+      "name": "risk-free rate is standard terminology, not a guarantee",
+      "_note": "REGRESSION: this blocked a real story on the first live run. The phrase appeared inside a jargon definition. 'risk-free rate' means the government-bond baseline.",
+      "text": "The risk-free rate is the return on government securities, used as the baseline against which other assets are compared."
+    },
+    {
+      "name": "government budget allocation is not investment advice",
+      "_note": "REGRESSION: a bare 'allocate NN%' pattern blocks ordinary fiscal reporting.",
+      "text": "The government will allocate 15% of the budget to capital expenditure this year."
+    },
+    {
+      "name": "percentage of output, not of a portfolio",
+      "text": "Refiners allocate 40% of throughput to diesel, which is why crude swings reach pump prices."
+    },
+    {
+      "name": "index funds under a tracking mandate (regression: blocked a real story)",
+      "text": "Passive funds tracking the Nifty 50 must buy roughly $695 million of BSE shares to match the new index weights, which is why the stock rose before inclusion."
+    },
+    {
+      "name": "ETF mechanics, not advice",
+      "text": "When a stock enters the index, every tracker should buy it in proportion to its weight regardless of price."
+    },
+    {
+      "name": "central bank purchasing bonds (regression: 'buy the' fired mid-sentence)",
+      "text": "Under open market operations the RBI will buy the bonds outright, injecting durable liquidity into the banking system."
+    }
+  ]
+}

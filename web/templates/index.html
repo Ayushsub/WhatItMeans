@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="intro">
+  <h1>What the market news actually means</h1>
+  <p>Every story below is broken down the same way: what happened, who it affects,
+     how it transmits through the economy, and what to watch next. Read the
+     30-second version, or open the full breakdown.</p>
+</div>
+
+{% if not items %}
+<div class="empty">
+  <p>No stories have cleared the pipeline in the last {{ retention_hours }} hours.
+     This page rebuilds every 20 minutes during market hours.</p>
+</div>
+{% endif %}
+
+<ol class="feed">
+{% for item in items %}
+  <li class="card">
+    <!-- Tier 1: headline + hook. The hook names the STAKE and withholds the
+         MECHANISM — an honest curiosity gap, not clickbait (plan Part 5). -->
+    <div class="card-head">
+      <span class="conf conf-{{ item.analysis.confidence }}" title="{{ item.analysis.confidence_reason }}">{{ item.analysis.confidence }} confidence</span>
+      <time datetime="{{ item.published_at.isoformat() }}">{{ item.published_human }}</time>
+    </div>
+
+    <h2><a href="{{ rel }}story/{{ item.cluster_id }}.html">{{ item.analysis.headline }}</a></h2>
+    <p class="hook">{{ item.analysis.hook }}</p>
+
+    <!-- Tier 2: the 30-second read. Inline, no click — most readers stop here,
+         so it must stand alone. -->
+    <ul class="gist">
+      {% for g in item.analysis.gist %}<li>{{ g }}</li>{% endfor %}
+    </ul>
+
+    <div class="chips">
+      {% for s in item.analysis.sectors[:4] %}
+        <span class="chip dir-{{ s.direction }}">{{ s.sector }}</span>
+      {% endfor %}
+      {% for t in item.tags.macro_themes[:3] %}
+        <span class="chip theme">{{ t }}</span>
+      {% endfor %}
+    </div>
+
+    <p class="card-foot">
+      <a class="more" href="{{ rel }}story/{{ item.cluster_id }}.html">Full breakdown →</a>
+      <span class="srccount">{{ item.sources|length }} source{{ '' if item.sources|length == 1 else 's' }}</span>
+    </p>
+  </li>
+{% endfor %}
+</ol>
+{% endblock %}

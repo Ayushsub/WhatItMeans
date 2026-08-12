@@ -1,0 +1,105 @@
+name: pipeline
+
+# Runs on GitHub Actions because public repos get UNLIMITED free minutes and a
+# real VM with no CPU-time cap — which is what the clustering stage needs
+# (plan Part 3).
+#
+# Cadence: every 20 min, all day, every day. GitHub cron can fire 5-20 min
+# late under load; irrelevant at this granularity.
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"   # every 20 minutes, 24/7
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: "Force-push the built site to gh-pages"
+        type: boolean
+        default: true
+      limit:
+        description: "Max clusters to analyze this run"
+        default: "10"
+
+permissions:
+  contents: write        # required to force-push gh-pages
+
+concurrency:
+  # Never let two runs publish at once — the publish step force-pushes.
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # publish.py needs to create an orphan branch
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # The embedding model is ~130MB and takes ~2 min to download cold.
+      # Caching it turns that into a few seconds on every subsequent run.
+      - name: Cache embedding model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/fastembed
+          key: fastembed-bge-small-en-v1.5
+
+      # Compliance gate runs BEFORE anything is generated or published. If the
+      # deterministic layer regresses, nothing ships.
+      - name: Compliance tests
+        run: python tests/test_compliance.py
+
+      - name: Render tests
+        run: python tests/test_render.py
+
+      # Ledger rows feed future analysis prompts as prior context, so a
+      # mis-scoped number propagates into published copy. This also asserts the
+      # committed ledger itself is clean, not just the extraction code.
+      - name: Ledger tests
+        run: python tests/test_ledger.py
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          PUBLISH: ${{ (github.event_name == 'schedule' || inputs.publish) && '1' || '0' }}
+          PYTHONIOENCODING: utf-8
+        run: |
+          python -m pipeline.run \
+            --dump out/ \
+            ${{ inputs.limit && format('--limit {0}', inputs.limit) || '' }}
+
+      # The derived-facts ledger is the ONLY thing that outlives a run. It
+      # contains no article text, so committing it does not breach retention.
+      - name: Commit derived-facts ledger
+        if: success()
+        run: |
+          if [ -n "$(git status --porcelain data/ledger.json 2>/dev/null)" ]; then
+            git config user.name  "newsx-bot"
+            git config user.email "newsx-bot@users.noreply.github.com"
+            git add data/ledger.json
+            git commit -m "ledger: derived facts $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "ledger unchanged"
+          fi
+
+      # Diagnostics only — retained 3 days, never contains published content.
+      - name: Upload run artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-inspection
+          path: out/
+          retention-days: 3
