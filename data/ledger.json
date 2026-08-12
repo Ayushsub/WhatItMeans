@@ -194,5 +194,12 @@
   "entity": "Growth",
   "value": "27.5%",
   "cluster_id": "231726b93cc9"
+ },
+ {
+  "date": "2026-08-12",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "33a6475956c6"
  }
 ]
