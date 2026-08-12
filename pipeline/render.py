@@ -32,7 +32,7 @@ WEB = ROOT / "web"
 _DEFAULT_SITE = ROOT / "site"
 SITE = _DEFAULT_SITE  # published output location
 
-SITE_NAME = "Newsx"
+SITE_NAME = "WhatItMeans"
 
 _PLATFORM_FORMATS = {
     "linkedin": "1200-1500 chars, line breaks between sections, max 3 hashtags at the end",

@@ -25,7 +25,7 @@ India-first, with global macro that transmits into India.
 
 Most financial news tells you *what* happened. Very little tells you *why it
 matters* or *who it affects* — without slipping into "buy this, sell that"
-territory. Newsx is built to explain, not recommend.
+territory. WhatItMeans is built to explain, not recommend.
 
 > **Disclaimer:** WhatItMeans is an explanatory news product, not investment advice.
 > Nothing on this site is a recommendation to buy, sell, or hold any security.

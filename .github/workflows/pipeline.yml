@@ -86,8 +86,8 @@ jobs:
         if: success()
         run: |
           if [ -n "$(git status --porcelain data/ledger.json 2>/dev/null)" ]; then
-            git config user.name  "newsx-bot"
-            git config user.email "newsx-bot@users.noreply.github.com"
+            git config user.name  "whatitmeans-bot"
+            git config user.email "whatitmeans-bot@users.noreply.github.com"
             git add data/ledger.json
             git commit -m "ledger: derived facts $(date -u +%Y-%m-%dT%H:%MZ)"
             git push

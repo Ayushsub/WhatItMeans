@@ -1,34 +1,19 @@
 {% extends "base.html" %}
-{% block title %}Contact & Grievance — {{ site_name }}{% endblock %}
+{% block title %}Contact — {{ site_name }}{% endblock %}
 
 {% block content %}
 <article class="page">
-<h1>Contact &amp; grievance redressal</h1>
+<h1>Contact</h1>
 
-<p>If you believe something on this site is inaccurate, misattributed, or
-infringes your rights, contact the grievance officer below. This includes
-publishers who want an excerpt or link removed.</p>
+<p>Spotted something inaccurate or misattributed, or want a story removed —
+including publishers who'd prefer their feed not be included? Email us and
+we'll take care of it.</p>
 
-<dl class="contactinfo">
-  <dt>Grievance Officer</dt><dd>{{ grievance.officer_name }}</dd>
-  <dt>Email</dt><dd>{{ grievance.email }}</dd>
-  <dt>Response time</dt><dd>Acknowledged within 24 hours; resolved within {{ grievance.response_days }} days</dd>
-</dl>
+<p><strong>Email:</strong> <a href="mailto:{{ grievance.email }}">{{ grievance.email }}</a></p>
 
-<h2>For publishers</h2>
-<p>We display only a headline and a short excerpt, always with attribution and a
-link to your original article. If you would prefer your feed not be included,
-email the address above and we will remove it — no explanation needed.</p>
-
-<h2>Corrections</h2>
-<p>Explanations here are generated automatically from source reporting. If an
-explanation misstates something, tell us which story and what is wrong. Because
-content is rebuilt continuously and discarded within {{ retention_hours }} hours,
-the fastest remedy is usually removal of the affected item.</p>
-
-<h2>What we cannot help with</h2>
-<p>We cannot answer questions about what to invest in. We are not registered with
-SEBI as a Research Analyst or an Investment Adviser, and we do not give
-individual financial advice. For that, consult a SEBI-registered adviser.</p>
+<p>This site explains publicly reported financial news for educational
+purposes. It is not registered with SEBI as a Research Analyst or an
+Investment Adviser and does not give individual financial advice — for that,
+consult a SEBI-registered adviser.</p>
 </article>
 {% endblock %}

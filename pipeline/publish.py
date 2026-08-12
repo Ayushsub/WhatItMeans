@@ -133,8 +133,8 @@ def publish(site_dir: Path, push: bool = False, cwd: Path | None = None) -> bool
             log.info("no changes to publish")
             return True
 
-        env_name = os.environ.get("GIT_AUTHOR_NAME", "newsx-bot")
-        env_email = os.environ.get("GIT_AUTHOR_EMAIL", "newsx-bot@users.noreply.github.com")
+        env_name = os.environ.get("GIT_AUTHOR_NAME", "whatitmeans-bot")
+        env_email = os.environ.get("GIT_AUTHOR_EMAIL", "whatitmeans-bot@users.noreply.github.com")
         _run(["git", "-c", f"user.name={env_name}", "-c", f"user.email={env_email}",
               "commit", "-m", f"site: {stamp}"], worktree)
 

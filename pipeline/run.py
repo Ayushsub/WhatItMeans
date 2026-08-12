@@ -200,7 +200,7 @@ def _dump(out: Path, results, articles, ranked, selected, started) -> None:
 
 
 def main() -> int:
-    p = argparse.ArgumentParser(description="Newsx pipeline")
+    p = argparse.ArgumentParser(description="WhatItMeans pipeline")
     p.add_argument("--no-llm", action="store_true", help="stop after ranking")
     p.add_argument("--dump", type=Path, help="write inspection artifacts here")
     p.add_argument("--limit", type=int, help="override max clusters analyzed")

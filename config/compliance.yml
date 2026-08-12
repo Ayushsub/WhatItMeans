@@ -176,6 +176,4 @@ disclaimer:
 # A dedicated address (e.g. contact@yourdomain) is better than a personal inbox
 # once there is a custom domain — it can be rotated without editing the site.
 grievance:
-  officer_name: "Ayush"
   email: "ayushpk21i@gmail.com"
-  response_days: 15

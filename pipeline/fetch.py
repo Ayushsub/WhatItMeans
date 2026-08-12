@@ -20,7 +20,7 @@ import httpx
 log = logging.getLogger(__name__)
 
 USER_AGENT = (
-    "NewsxBot/0.1 (+https://github.com/newsx; financial news explainer; "
+    "WhatItMeansBot/0.1 (+https://github.com/Ayushsub/WhatItMeans; financial news explainer; "
     "respects robots.txt; contact via repository)"
 )
 
