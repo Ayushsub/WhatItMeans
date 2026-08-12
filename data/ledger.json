@@ -180,5 +180,19 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "b4d605e9806a"
+ },
+ {
+  "date": "2026-08-12",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "090c2e81f934"
+ },
+ {
+  "date": "2026-08-12",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "27.5%",
+  "cluster_id": "231726b93cc9"
  }
 ]
