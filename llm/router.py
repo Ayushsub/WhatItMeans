@@ -33,6 +33,28 @@ class AllProvidersFailed(RuntimeError):
     """Every provider in the tier refused or errored."""
 
 
+# Providers that returned 429 in THIS process. A daily token quota does not
+# refill mid-run, so re-asking an exhausted provider on every subsequent call
+# buys nothing and costs a full round-trip each time. Observed live: with both
+# Gemini entries quota-exhausted, every analysis call paid two dead requests
+# before reaching a working provider — roughly 40 wasted round-trips per run.
+#
+# Deliberately in-process only, and deliberately 429-only:
+#   - a fresh CI run starts clean, so a quota that reset overnight is picked up
+#     again without any persistence or clock logic
+#   - 5xx means transient capacity, which CAN recover within a run, so those
+#     still advance without being remembered
+#
+# This is still "react to 429s, do not pre-count quota" — it just declines to
+# make the same failing request twenty times.
+_EXHAUSTED: set[str] = set()
+
+
+def reset_exhausted() -> None:
+    """Clear the 429 memo. For tests, and for long-lived callers."""
+    _EXHAUSTED.clear()
+
+
 def _repair_json(text: str) -> str:
     """Escape double quotes that appear INSIDE a JSON string value.
 
@@ -179,8 +201,15 @@ def complete(
         )
 
     errors: list[str] = []
+    live = [p for p in providers if p.name not in _EXHAUSTED]
+    if not live:
+        raise AllProvidersFailed(
+            f"all providers already quota-exhausted this run for {label}: "
+            + ", ".join(sorted(_EXHAUSTED))
+        )
+
     with httpx.Client() as client:
-        for provider in providers:
+        for provider in live:
             for attempt in (1, 2):
                 try:
                     t0 = time.monotonic()
@@ -208,6 +237,15 @@ def complete(
                             provider.name, code, provider.key_env,
                         )
                         errors.append(f"{provider.name}: auth {code}")
+                        break
+                    if code == 429:
+                        # Quota, not congestion. Stop asking for this run.
+                        _EXHAUSTED.add(provider.name)
+                        log.warning(
+                            "llm %s 429 -> next provider (skipping it for the "
+                            "rest of this run)", provider.name,
+                        )
+                        errors.append(f"{provider.name}: 429")
                         break
                     if code in _RETRY_STATUSES:
                         log.warning(

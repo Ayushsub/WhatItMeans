@@ -75,7 +75,33 @@ def main() -> int:
     except Exception as e:  # noqa: BLE001
         failures.append(f"429 failover raised {type(e).__name__}: {e}")
 
+    # --- 1b. a 429'd provider is not asked again in the same run ---------
+    # The quota does not refill mid-run, so re-asking costs a dead round-trip
+    # per call. p1 is already marked exhausted by the previous case.
+    calls.clear()
+    install(h_429)
+    try:
+        router.complete_json([P1, P2], "sys", "user", label="t1b")
+        if "p1.test" in calls:
+            failures.append("exhausted provider was retried within the same run")
+    except Exception as e:  # noqa: BLE001
+        failures.append(f"post-429 skip raised {type(e).__name__}: {e}")
+
+    # Every provider exhausted -> fail fast rather than re-probing them all.
+    calls.clear()
+    try:
+        router.complete_json([P1], "sys", "user", label="t1c")
+        failures.append("all-exhausted tier did not raise")
+    except router.AllProvidersFailed as e:
+        if "exhausted" not in str(e):
+            failures.append(f"unclear all-exhausted error: {e}")
+        if calls:
+            failures.append(f"all-exhausted tier still made {len(calls)} request(s)")
+    except Exception as e:  # noqa: BLE001
+        failures.append(f"all-exhausted raised {type(e).__name__}")
+
     # --- 2. auth failure advances and does NOT retry the same provider ---
+    router.reset_exhausted()
     calls.clear()
 
     def h_401(request: httpx.Request) -> httpx.Response:
@@ -93,6 +119,8 @@ def main() -> int:
         failures.append(f"401 failover raised {type(e).__name__}: {e}")
 
     # --- 3. every provider down -> AllProvidersFailed, not a crash -------
+    # 503 is transient capacity, NOT quota, so it must not be memoized.
+    router.reset_exhausted()
     install(lambda r: httpx.Response(503, text="down"))
     try:
         router.complete_json([P1, P2, P3], "sys", "user", label="t3")
@@ -114,6 +142,7 @@ def main() -> int:
     os.environ.update({"TEST_K1": "k1", "TEST_K2": "k2"})
 
     # --- 5. tolerant JSON extraction -------------------------------------
+    router.reset_exhausted()
     for label, body, expect in [
         ("fenced", '```json\n{"a": 1}\n```', {"a": 1}),
         ("bare fence", '```\n{"a": 2}\n```', {"a": 2}),

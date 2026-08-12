@@ -4,12 +4,25 @@ name: pipeline
 # real VM with no CPU-time cap — which is what the clustering stage needs
 # (plan Part 3).
 #
-# Cadence: every 20 min, all day, every day. GitHub cron can fire 5-20 min
-# late under load; irrelevant at this granularity.
+# Cadence: every 20 min through the Indian day, hourly overnight. The overnight
+# drop is a TOKEN budget decision, not a load one — free-tier caps are per-day
+# tokens (see llm/providers.py), and a 20-minute window at 3am India time rarely
+# contains a genuinely new story, so most of those runs paid a triage call to
+# analyse nothing.
+#
+# GitHub cron is UTC and IST is UTC+5:30, so the half-hour offset means these
+# windows land 30 minutes off the exact clock hour. That is close enough:
+#   UTC 01:00-18:59  ->  IST 06:30-00:29   every 20 min   (54 runs)
+#   UTC 19:00-00:59  ->  IST 00:30-06:29   hourly         (6 runs)
+# 60 runs/day, down from 72.
+#
+# GitHub cron can also fire 5-20 min late under load; irrelevant at this
+# granularity.
 
 on:
   schedule:
-    - cron: "*/20 * * * *"   # every 20 minutes, 24/7
+    - cron: "*/20 1-18 * * *"   # daytime IST: every 20 minutes
+    - cron: "0 0,19-23 * * *"   # overnight IST: hourly
   workflow_dispatch:
     inputs:
       publish:
@@ -72,6 +85,8 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           PUBLISH: ${{ (github.event_name == 'schedule' || inputs.publish) && '1' || '0' }}
           PYTHONIOENCODING: utf-8

@@ -12,7 +12,9 @@ out/
 # Social media tooling. LOCAL ONLY — deliberately not part of the public
 # repo or the automated pipeline. Never committed, never pushed.
 /social_prompts/
+/social_drafts/
 /local_social_prompts.py
+/local_social.py
 
 # API keys. NEVER commit. CI uses GitHub Actions secrets instead.
 .env
