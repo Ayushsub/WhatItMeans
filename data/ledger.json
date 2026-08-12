@@ -208,5 +208,12 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "aec080d9526b"
+ },
+ {
+  "date": "2026-08-12",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "167b6d8280e4"
  }
 ]
