@@ -201,5 +201,12 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "33a6475956c6"
+ },
+ {
+  "date": "2026-08-12",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "aec080d9526b"
  }
 ]
