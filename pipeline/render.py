@@ -1,12 +1,14 @@
-"""[Stage 11] Render the static site, the JSON API, and social prompts.
+"""[Stage 11] Render the static site and the JSON API.
 
-Three consumers, one source of truth:
+Two consumers, one source of truth:
   web pages        humans, published to gh-pages
   /api/v1/*.json   a future paid API (plan Part 7) — versioned path from day one
-  social_prompts/  LOCAL-ONLY draft LinkedIn/Instagram post prompts, written to
-                   ROOT/social_prompts (gitignored) — never inside SITE, never
-                   committed, never published. Read and used only on whatever
-                   machine actually runs the pipeline locally.
+
+Social media post generation is intentionally NOT part of this module or this
+repo. It isn't needed for the site to run, and this repo is public — a prompt
+template revealing posting strategy has no reason to be visible to anyone
+browsing the source. That tool lives entirely outside this repository, on
+whichever machine you choose to run it from.
 """
 
 from __future__ import annotations
@@ -19,7 +21,6 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from llm import load_prompt
 from models import Analysis, Cluster, PublishedItem
 
 from . import archive, config
@@ -32,11 +33,6 @@ _DEFAULT_SITE = ROOT / "site"
 SITE = _DEFAULT_SITE  # published output location
 
 SITE_NAME = "WhatItMeans"
-
-_PLATFORM_FORMATS = {
-    "linkedin": "1200-1500 chars, line breaks between sections, max 3 hashtags at the end",
-    "instagram": "<=2200 chars, tighter lines, 5-8 hashtags",
-}
 
 
 def _env() -> Environment:
@@ -90,20 +86,6 @@ def build_items(approved: list[tuple[Cluster, Analysis]]) -> list[PublishedItem]
     return items
 
 
-def _social_prompt(item: PublishedItem, platform: str) -> str:
-    """Fill the stored template. NOT executed here — this is an artifact for a
-    separate system to consume later."""
-    return (
-        load_prompt("social_template.txt")
-        .replace("{PLATFORM}", platform)
-        .replace("{FORMAT_SPEC}", _PLATFORM_FORMATS[platform])
-        .replace(
-            "{ANALYSIS_JSON}",
-            json.dumps(item.analysis.model_dump(), ensure_ascii=False, indent=2),
-        )
-    )
-
-
 def render_site(
     approved: list[tuple[Cluster, Analysis]],
     all_clusters: list[Cluster] | None = None,
@@ -136,16 +118,6 @@ def render_site(
     (SITE / "story").mkdir(parents=True)
     (SITE / "api" / "v1" / "clusters").mkdir(parents=True)
     shutil.copytree(WEB / "static", SITE / "static")
-
-    # Social prompts are a LOCAL-ONLY artifact — never published, never
-    # committed. publish.py copies the whole SITE tree to gh-pages, so this
-    # must live outside SITE in production or it would become public. Test
-    # renders (out_dir given) keep it under the scratch SITE for assertion
-    # convenience; that path is never published.
-    SOCIAL_DIR = SITE / "social_prompts" if out_dir is not None else ROOT / "social_prompts"
-    if SOCIAL_DIR.exists():
-        shutil.rmtree(SOCIAL_DIR)
-    SOCIAL_DIR.mkdir(parents=True)
 
     base_ctx = {
         "site_name": SITE_NAME,
@@ -209,25 +181,6 @@ def render_site(
     for item in items:
         (SITE / "api" / "v1" / "clusters" / f"{item.cluster_id}.json").write_text(
             json.dumps(item.model_dump(mode="json"), indent=2, ensure_ascii=False),
-            encoding="utf-8",
-        )
-
-    # --- Social prompts (local-only artifact, never published) -----------
-    for item in items:
-        (SOCIAL_DIR / f"{item.cluster_id}.json").write_text(
-            json.dumps(
-                {
-                    "cluster_id": item.cluster_id,
-                    "headline": item.analysis.headline,
-                    "generated_at": now.isoformat(),
-                    "prompts": {
-                        p: _social_prompt(item, p) for p in _PLATFORM_FORMATS
-                    },
-                    "analysis": item.analysis.model_dump(),
-                },
-                indent=2,
-                ensure_ascii=False,
-            ),
             encoding="utf-8",
         )
 

@@ -1,8 +1,8 @@
 """Offline render smoke test.
 
 Renders the full site from synthetic analyses joined to REAL clusters, so the
-templates, JSON API, and social-prompt emitter can be verified without spending
-any inference. Run: python tests/test_render.py
+templates and JSON API can be verified without spending any inference.
+Run: python tests/test_render.py
 """
 
 from __future__ import annotations
@@ -208,7 +208,6 @@ def main() -> int:
     for i in range(1, 4):
         must_exist(f"story/cluster{i:02d}.html")
         must_exist(f"api/v1/clusters/cluster{i:02d}.json")
-        must_exist(f"social_prompts/cluster{i:02d}.json")
 
     # --- content checks ---------------------------------------------------
     if index:
@@ -254,19 +253,6 @@ def main() -> int:
             failures.append("feed.json missing disclaimer")
         if data["items"] and data["items"][0].get("tier") != "free":
             failures.append("feed.json items missing the monetization tier field")
-
-    social = site / "social_prompts" / "cluster01.json"
-    if social.exists():
-        data = json.loads(social.read_text(encoding="utf-8"))
-        for platform in ("linkedin", "instagram"):
-            if platform not in data.get("prompts", {}):
-                failures.append(f"social prompt missing {platform}")
-                continue
-            prompt = data["prompts"][platform]
-            if "{ANALYSIS_JSON}" in prompt or "{PLATFORM}" in prompt:
-                failures.append(f"social prompt for {platform} has unfilled placeholders")
-            if "Educational content, not investment advice" not in prompt:
-                failures.append(f"social prompt for {platform} missing the disclaimer rule")
 
     print(f"rendered test site to {OUT}")
     if failures:

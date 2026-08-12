@@ -9,9 +9,10 @@ out/
 # Publish worktree
 .pages-worktree/
 
-# Draft LinkedIn/Instagram post prompts. LOCAL ONLY — must never be committed
-# or published. Kept private on purpose.
+# Social media tooling. LOCAL ONLY — deliberately not part of the public
+# repo or the automated pipeline. Never committed, never pushed.
 /social_prompts/
+/local_social_prompts.py
 
 # API keys. NEVER commit. CI uses GitHub Actions secrets instead.
 .env
