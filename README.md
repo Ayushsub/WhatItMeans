@@ -1,4 +1,4 @@
-# Newsx
+# WhatItMeans
 
 A free, auto-updating site that explains what financial news **means** — not
 just what happened.
