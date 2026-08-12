@@ -1,13 +1,12 @@
 """[Stage 11] Render the static site, the JSON API, and social prompts.
 
 Three consumers, one source of truth:
-  web pages        humans
+  web pages        humans, published to gh-pages
   /api/v1/*.json   a future paid API (plan Part 7) — versioned path from day one
-  social_prompts/  the separate LinkedIn/Instagram system (plan Part 7)
-
-Keeping analysis (data) strictly separate from presentation (HTML) is the ONLY
-design rule the future social pipeline imposes today, and it is satisfied here:
-the social system reads a published artifact and never imports this codebase.
+  social_prompts/  LOCAL-ONLY draft LinkedIn/Instagram post prompts, written to
+                   ROOT/social_prompts (gitignored) — never inside SITE, never
+                   committed, never published. Read and used only on whatever
+                   machine actually runs the pipeline locally.
 """
 
 from __future__ import annotations
@@ -136,8 +135,17 @@ def render_site(
         shutil.rmtree(SITE)
     (SITE / "story").mkdir(parents=True)
     (SITE / "api" / "v1" / "clusters").mkdir(parents=True)
-    (SITE / "social_prompts").mkdir(parents=True)
     shutil.copytree(WEB / "static", SITE / "static")
+
+    # Social prompts are a LOCAL-ONLY artifact — never published, never
+    # committed. publish.py copies the whole SITE tree to gh-pages, so this
+    # must live outside SITE in production or it would become public. Test
+    # renders (out_dir given) keep it under the scratch SITE for assertion
+    # convenience; that path is never published.
+    SOCIAL_DIR = SITE / "social_prompts" if out_dir is not None else ROOT / "social_prompts"
+    if SOCIAL_DIR.exists():
+        shutil.rmtree(SOCIAL_DIR)
+    SOCIAL_DIR.mkdir(parents=True)
 
     base_ctx = {
         "site_name": SITE_NAME,
@@ -204,9 +212,9 @@ def render_site(
             encoding="utf-8",
         )
 
-    # --- Social prompts (artifact only; nothing is generated now) --------
+    # --- Social prompts (local-only artifact, never published) -----------
     for item in items:
-        (SITE / "social_prompts" / f"{item.cluster_id}.json").write_text(
+        (SOCIAL_DIR / f"{item.cluster_id}.json").write_text(
             json.dumps(
                 {
                     "cluster_id": item.cluster_id,
