@@ -313,5 +313,19 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "7d5bd437c617"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "b420d842fd05"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "fiscal_action",
+  "entity": "Tata Motors",
+  "value": null,
+  "cluster_id": "65242690bbb3"
  }
 ]
