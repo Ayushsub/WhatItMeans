@@ -257,5 +257,19 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "1caae5492ded"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "policy_rate",
+  "entity": "Sensex",
+  "value": null,
+  "cluster_id": "6e8faa23465e"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "91c436555f67"
  }
 ]
