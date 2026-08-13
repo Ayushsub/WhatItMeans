@@ -222,5 +222,40 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "c333b912412e"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "b26510d0dde0"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "4.45%",
+  "cluster_id": "b26510d0dde0"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "b9e2a1f50162"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "22e5c1e61020"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "1caae5492ded"
  }
 ]
