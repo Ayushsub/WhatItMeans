@@ -327,5 +327,12 @@
   "entity": "Tata Motors",
   "value": null,
   "cluster_id": "65242690bbb3"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "policy_rate",
+  "entity": "Tata Motors",
+  "value": "80%",
+  "cluster_id": "a345122a820d"
  }
 ]
