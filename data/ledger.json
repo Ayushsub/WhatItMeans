@@ -271,5 +271,12 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "91c436555f67"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "4fc8d927901f"
  }
 ]
