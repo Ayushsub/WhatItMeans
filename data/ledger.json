@@ -292,5 +292,12 @@
   "entity": "State Bank of India",
   "value": null,
   "cluster_id": "7cc8b78fc91f"
+ },
+ {
+  "date": "2026-08-13",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "390bc8dd95b4"
  }
 ]
