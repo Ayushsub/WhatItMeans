@@ -390,5 +390,12 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "31672bb83222"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "policy_rate",
+  "entity": "ICICI Bank",
+  "value": null,
+  "cluster_id": "905b4849298b"
  }
 ]
