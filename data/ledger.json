@@ -432,5 +432,12 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "5382ea53114c"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "72128ad9c1b5"
  }
 ]
