@@ -348,5 +348,40 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "6903161068e0"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "d98f2c653bb0"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "f243392df978"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": "4.45%",
+  "cluster_id": "171869740ee1"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "4.45%",
+  "cluster_id": "171869740ee1"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "7fcb5b9ec245"
  }
 ]
