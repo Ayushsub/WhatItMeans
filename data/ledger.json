@@ -411,5 +411,12 @@
   "entity": "SEBI",
   "value": "₹3,143 crore",
   "cluster_id": "2f130ed99541"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "f5402015df38"
  }
 ]
