@@ -397,5 +397,19 @@
   "entity": "ICICI Bank",
   "value": null,
   "cluster_id": "905b4849298b"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "policy_rate",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "ca9a2bcd975b"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": "₹3,143 crore",
+  "cluster_id": "2f130ed99541"
  }
 ]
