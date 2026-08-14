@@ -418,5 +418,19 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "f5402015df38"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "policy_rate",
+  "entity": "Tata Motors",
+  "value": "80%",
+  "cluster_id": "399ca48862c0"
+ },
+ {
+  "date": "2026-08-14",
+  "event_type": "credit_conditions",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "5382ea53114c"
  }
 ]
