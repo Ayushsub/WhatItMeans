@@ -509,5 +509,12 @@
   "entity": "Credit & Liquidity",
   "value": "₹5 lakh",
   "cluster_id": "73aa564298a1"
+ },
+ {
+  "date": "2026-08-15",
+  "event_type": "credit_conditions",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "85fafb148376"
  }
 ]
