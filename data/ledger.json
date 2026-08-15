@@ -495,5 +495,19 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "c06c2e1f08b0"
+ },
+ {
+  "date": "2026-08-15",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "cd85b8b695c4"
+ },
+ {
+  "date": "2026-08-15",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "₹5 lakh",
+  "cluster_id": "73aa564298a1"
  }
 ]
