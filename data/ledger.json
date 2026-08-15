@@ -453,5 +453,19 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "4c527eec8c73"
+ },
+ {
+  "date": "2026-08-15",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "b45ccc0ebda4"
+ },
+ {
+  "date": "2026-08-15",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "277798e27547"
  }
 ]
