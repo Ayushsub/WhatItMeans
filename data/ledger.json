@@ -481,5 +481,12 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "b707014042f0"
+ },
+ {
+  "date": "2026-08-15",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": "₹3,143 crore",
+  "cluster_id": "9ebf1ca09c19"
  }
 ]
