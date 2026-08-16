@@ -565,5 +565,12 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "7f3836ddcc1d"
+ },
+ {
+  "date": "2026-08-16",
+  "event_type": "credit_conditions",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "70310f2ee302"
  }
 ]
