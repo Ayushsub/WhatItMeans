@@ -572,5 +572,12 @@
   "entity": "State Bank of India",
   "value": null,
   "cluster_id": "70310f2ee302"
+ },
+ {
+  "date": "2026-08-16",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "9b642e6f1568"
  }
 ]
