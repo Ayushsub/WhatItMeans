@@ -516,5 +516,26 @@
   "entity": "State Bank of India",
   "value": null,
   "cluster_id": "85fafb148376"
+ },
+ {
+  "date": "2026-08-16",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "fcf75b396549"
+ },
+ {
+  "date": "2026-08-16",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "fcf75b396549"
+ },
+ {
+  "date": "2026-08-16",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "9.78%",
+  "cluster_id": "3827d6c96385"
  }
 ]
