@@ -684,5 +684,12 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "d5837c729822"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "credit_conditions",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "9aa87638daf9"
  }
 ]
