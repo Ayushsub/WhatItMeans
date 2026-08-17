@@ -705,5 +705,12 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "933effc83c96"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "3ec66a6115e6"
  }
 ]
