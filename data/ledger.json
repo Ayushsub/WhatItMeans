@@ -663,5 +663,19 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "3dd524cc8075"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "5db5bede7c4b"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "582075822b32"
  }
 ]
