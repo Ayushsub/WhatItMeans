@@ -691,5 +691,12 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "9aa87638daf9"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "credit_conditions",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "669df439b73c"
  }
 ]
