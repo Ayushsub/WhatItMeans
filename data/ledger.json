@@ -698,5 +698,12 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "669df439b73c"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "933effc83c96"
  }
 ]
