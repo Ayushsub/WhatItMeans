@@ -677,5 +677,12 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "582075822b32"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "d5837c729822"
  }
 ]
