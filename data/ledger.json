@@ -712,5 +712,12 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "3ec66a6115e6"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "policy_rate",
+  "entity": "ICICI Bank",
+  "value": null,
+  "cluster_id": "37821510febc"
  }
 ]
