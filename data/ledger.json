@@ -600,5 +600,40 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "5a1a450b30d5"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "3dea69f5a1ab"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "3dea69f5a1ab"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "e10355dfcb98"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "74fe7bd5e7cf"
+ },
+ {
+  "date": "2026-08-17",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "cde44fcd5733"
  }
 ]
