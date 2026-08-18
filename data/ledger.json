@@ -747,5 +747,26 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "d8b224d04cbb"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "11bd7e90b107"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "4f3bc151eaf0"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "4f3bc151eaf0"
  }
 ]
