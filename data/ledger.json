@@ -796,5 +796,12 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "fcd671a682b9"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "62508da66169"
  }
 ]
