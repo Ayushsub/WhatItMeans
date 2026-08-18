@@ -768,5 +768,19 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "4f3bc151eaf0"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "9e255a7153d7"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "bec2005cfe1c"
  }
 ]
