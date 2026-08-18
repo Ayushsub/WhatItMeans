@@ -733,5 +733,19 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "e326c68e30d1"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "969d2737d46e"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "d8b224d04cbb"
  }
 ]
