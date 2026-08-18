@@ -803,5 +803,19 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "62508da66169"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "a7f47d1480df"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "credit_conditions",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "a7f47d1480df"
  }
 ]
