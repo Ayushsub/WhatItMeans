@@ -824,5 +824,12 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "adf10d21c234"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "aca3d4346728"
  }
 ]
