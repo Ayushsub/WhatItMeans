@@ -719,5 +719,19 @@
   "entity": "ICICI Bank",
   "value": null,
   "cluster_id": "37821510febc"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "c9b585435fc7"
+ },
+ {
+  "date": "2026-08-18",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "e326c68e30d1"
  }
 ]
