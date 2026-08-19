@@ -894,5 +894,19 @@
   "entity": "Adani Group",
   "value": null,
   "cluster_id": "64153f751490"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "37058a2b5cc6"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "422534358a96"
  }
 ]
