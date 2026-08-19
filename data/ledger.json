@@ -873,5 +873,26 @@
   "entity": "Nifty",
   "value": null,
   "cluster_id": "cf94db74393a"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "ab31ffcb4569"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "1b37ab1420e4"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "fiscal_action",
+  "entity": "Adani Group",
+  "value": null,
+  "cluster_id": "64153f751490"
  }
 ]
