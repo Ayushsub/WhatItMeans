@@ -852,5 +852,12 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "d75ec85bc7d4"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "648e99362140"
  }
 ]
