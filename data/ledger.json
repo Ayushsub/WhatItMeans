@@ -845,5 +845,12 @@
   "entity": "Credit & Liquidity",
   "value": "15%",
   "cluster_id": "828937e012c3"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "d75ec85bc7d4"
  }
 ]
