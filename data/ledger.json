@@ -922,5 +922,12 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "b4046ebf2665"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "fiscal_action",
+  "entity": "Bharti Airtel",
+  "value": null,
+  "cluster_id": "d464576a40be"
  }
 ]
