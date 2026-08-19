@@ -929,5 +929,12 @@
   "entity": "Bharti Airtel",
   "value": null,
   "cluster_id": "d464576a40be"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "policy_rate",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "ec343fca5d6a"
  }
 ]
