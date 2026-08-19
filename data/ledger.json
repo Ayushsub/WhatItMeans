@@ -908,5 +908,12 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "422534358a96"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "7243a6813f55"
  }
 ]
