@@ -915,5 +915,12 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "7243a6813f55"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "b4046ebf2665"
  }
 ]
