@@ -859,5 +859,12 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "648e99362140"
+ },
+ {
+  "date": "2026-08-19",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "24c6da4f14f3"
  }
 ]
