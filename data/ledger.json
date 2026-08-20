@@ -978,5 +978,26 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "e75329fbdf39"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "7846228152fc"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "72817c36930c"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "408ad739ad42"
  }
 ]
