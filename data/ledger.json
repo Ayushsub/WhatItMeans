@@ -950,5 +950,19 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "eec2dfea3769"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "48eed8a1af3a"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "5.9%",
+  "cluster_id": "48eed8a1af3a"
  }
 ]
