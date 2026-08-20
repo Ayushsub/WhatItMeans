@@ -964,5 +964,19 @@
   "entity": "Inflation",
   "value": "5.9%",
   "cluster_id": "48eed8a1af3a"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "dfbe9db9ceba"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "e75329fbdf39"
  }
 ]
