@@ -1055,5 +1055,12 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "1d257756f522"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "fiscal_action",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "0b207132e51e"
  }
 ]
