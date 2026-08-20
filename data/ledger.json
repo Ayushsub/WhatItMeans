@@ -1027,5 +1027,12 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "0859b2a671b6"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "af57e29b910a"
  }
 ]
