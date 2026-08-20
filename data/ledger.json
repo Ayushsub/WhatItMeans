@@ -999,5 +999,26 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "408ad739ad42"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "a7410cdcf512"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "credit_conditions",
+  "entity": "Nifty",
+  "value": null,
+  "cluster_id": "b28f10356bb0"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "credit_conditions",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "c8511d261204"
  }
 ]
