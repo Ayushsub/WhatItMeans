@@ -1020,5 +1020,12 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "c8511d261204"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "0859b2a671b6"
  }
 ]
