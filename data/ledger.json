@@ -1041,5 +1041,12 @@
   "entity": "Institutional Flows",
   "value": "₹3.68 crore",
   "cluster_id": "654fb7a1566b"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "88037546ea0a"
  }
 ]
