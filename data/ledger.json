@@ -943,5 +943,12 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "5b01a25e29e7"
+ },
+ {
+  "date": "2026-08-20",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "eec2dfea3769"
  }
 ]
