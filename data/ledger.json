@@ -1111,5 +1111,19 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "4e550f9396fb"
+ },
+ {
+  "date": "2026-08-21",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "16e0f48d905c"
+ },
+ {
+  "date": "2026-08-21",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "2%",
+  "cluster_id": "16e0f48d905c"
  }
 ]
