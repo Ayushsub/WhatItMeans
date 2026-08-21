@@ -1125,5 +1125,12 @@
   "entity": "Inflation",
   "value": "2%",
   "cluster_id": "16e0f48d905c"
+ },
+ {
+  "date": "2026-08-21",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "bbfcd899ce83"
  }
 ]
