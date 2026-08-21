@@ -1132,5 +1132,12 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "bbfcd899ce83"
+ },
+ {
+  "date": "2026-08-21",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "68e7e49493d1"
  }
 ]
