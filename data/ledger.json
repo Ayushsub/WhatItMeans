@@ -1062,5 +1062,26 @@
   "entity": "State Bank of India",
   "value": null,
   "cluster_id": "0b207132e51e"
+ },
+ {
+  "date": "2026-08-21",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "4f413b4f9b1d"
+ },
+ {
+  "date": "2026-08-21",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "cff9fae3efd0"
+ },
+ {
+  "date": "2026-08-21",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "cff9fae3efd0"
  }
 ]
