@@ -1083,5 +1083,26 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "cff9fae3efd0"
+ },
+ {
+  "date": "2026-08-21",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "6570070d7e9d"
+ },
+ {
+  "date": "2026-08-21",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "6bd2f3241c46"
+ },
+ {
+  "date": "2026-08-21",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "6.52%",
+  "cluster_id": "9df9f831bbf5"
  }
 ]
