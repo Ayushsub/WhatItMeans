@@ -1188,5 +1188,12 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "ed9662d039b6"
+ },
+ {
+  "date": "2026-08-22",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "f1dc9a69321c"
  }
 ]
