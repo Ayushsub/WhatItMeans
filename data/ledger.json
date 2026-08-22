@@ -1160,5 +1160,19 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "44d56992302d"
+ },
+ {
+  "date": "2026-08-22",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "f0f15aaaf4b7"
+ },
+ {
+  "date": "2026-08-22",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "f0f15aaaf4b7"
  }
 ]
