@@ -1,0 +1,594 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-22T23:15:10.205804+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 39,
+  "items": [
+    {
+      "cluster_id": "713b368dfb42",
+      "headline": "SEBI releases study on retail trends in equity derivatives trading",
+      "hook": "Individual traders face scrutiny as the market regulator tracks equity derivative profitability.",
+      "gist": [
+        "SEBI released new studies tracking retail participation and profitability in equity derivatives.",
+        "Understanding these trends helps highlight the financial risks retail traders face in derivatives.",
+        "Watch for potential regulatory actions or policy changes aimed at protecting retail investors."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T22:14:29.746652+00:00",
+      "url": "story/713b368dfb42.html",
+      "api": "api/v1/clusters/713b368dfb42.json"
+    },
+    {
+      "cluster_id": "d0d17dc4a7ac",
+      "headline": "SEBI permits digitally signed Power of Attorney to ease onboarding for FPIs",
+      "hook": "Foreign portfolio investors face lower documentation friction entering Indian capital markets.",
+      "gist": [
+        "SEBI allows digitally signed Power of Attorney documents for foreign portfolio investors.",
+        "Digital signatures eliminate physical paperwork delays and reduce operational friction for global funds.",
+        "Watch new FPI registration pace and custodian onboarding turnaround times."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-08-22T21:14:46.066209+00:00",
+      "url": "story/d0d17dc4a7ac.html",
+      "api": "api/v1/clusters/d0d17dc4a7ac.json"
+    },
+    {
+      "cluster_id": "77ebea1ba561",
+      "headline": "Indian retail sugar prices hit record highs despite falling tender rates",
+      "hook": "Solapur mills sold sugar at ₹5,850 a quintal while household budgets faced record costs.",
+      "gist": [
+        "Sugar tender rates fell by ₹500 a quintal but retail prices reached record highs.",
+        "Household budgets face higher costs despite falling wholesale prices at the mill level.",
+        "Government intervention or investigations into the disconnect between wholesale and retail pricing."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T14:15:39+00:00",
+      "url": "story/77ebea1ba561.html",
+      "api": "api/v1/clusters/77ebea1ba561.json"
+    },
+    {
+      "cluster_id": "634b8f705d42",
+      "headline": "India targets $50 billion telecom equipment exports, up from $1 billion",
+      "hook": "Export goal jumps from $1 bn to $50 bn, reshaping trade outlook",
+      "gist": [
+        "Telecom equipment exports currently $0.6‑1 bn",
+        "Aim is to reach $50 bn export value",
+        "Watch policy support and global demand"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T12:24:12+00:00",
+      "url": "story/634b8f705d42.html",
+      "api": "api/v1/clusters/634b8f705d42.json"
+    },
+    {
+      "cluster_id": "9154e40293ce",
+      "headline": "SEBI proposes tighter advertising rules for online bond platforms",
+      "hook": "Retail investors buying debt on online bond platforms face highly standardized product disclosures.",
+      "gist": [
+        "SEBI proposed stricter advertising rules for online bond platforms to protect retail investors.",
+        "Platforms can no longer market debt using simplified or misleading fixed return claims.",
+        "Watch how these platforms adapt their marketing and if retail bond volumes decline."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-08-22T12:21:46+00:00",
+      "url": "story/9154e40293ce.html",
+      "api": "api/v1/clusters/9154e40293ce.json"
+    },
+    {
+      "cluster_id": "6b3fd5680940",
+      "headline": "India's alternative investment market could reach $2 trillion by 2034",
+      "hook": "Indian family offices are shifting their massive wealth into private equity funds.",
+      "gist": [
+        "A report projects India's alternative investment market will reach two trillion dollars by 2034.",
+        "Wealthy investors are aggressively shifting capital from traditional assets to high-yield private markets.",
+        "Whether regulatory frameworks adapt smoothly to the massive influx of private capital."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-08-22T11:46:30+00:00",
+      "url": "story/6b3fd5680940.html",
+      "api": "api/v1/clusters/6b3fd5680940.json"
+    },
+    {
+      "cluster_id": "7f4bdd9e725b",
+      "headline": "AI volumes expected to outpace revenue deflation in Indian IT by FY30",
+      "hook": "CLSA projects AI-driven project volumes to exceed revenue shrinkage by FY30",
+      "gist": [
+        "CLSA sees AI volumes offsetting revenue decline",
+        "AI could boost IT earnings despite headwinds",
+        "Watch AI adoption pace and revenue trends"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T11:41:47+00:00",
+      "url": "story/7f4bdd9e725b.html",
+      "api": "api/v1/clusters/7f4bdd9e725b.json"
+    },
+    {
+      "cluster_id": "78bf44ba2edd",
+      "headline": "Jaishankar to visit Russia as Trump threatens 100% secondary tariffs",
+      "hook": "India's access to discounted Russian crude oil faces a 100% US tariff threat.",
+      "gist": [
+        "India's External Affairs Minister is visiting Russia amid US tariff threats.",
+        "Secondary US tariffs could disrupt India's cheap energy imports and bilateral trade.",
+        "Watch for diplomatic negotiations and potential exemptions or alternative payment mechanisms."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T11:35:31+00:00",
+      "url": "story/78bf44ba2edd.html",
+      "api": "api/v1/clusters/78bf44ba2edd.json"
+    },
+    {
+      "cluster_id": "f6eba1dd5727",
+      "headline": "SEBI reviews issue proceeds reporting and moves to stop duplicate fines",
+      "hook": "Dual-listed firms face streamlined penalties under a planned regulatory overhaul.",
+      "gist": [
+        "SEBI is reviewing disclosure rules on how companies spend issue proceeds.",
+        "The regulator also plans to eliminate duplicate penalties across multiple exchanges.",
+        "Official consultation papers and implementation guidelines from SEBI."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-08-22T10:32:58+00:00",
+      "url": "story/f6eba1dd5727.html",
+      "api": "api/v1/clusters/f6eba1dd5727.json"
+    },
+    {
+      "cluster_id": "fccc077efc64",
+      "headline": "Zee entertainment allots 20.94 crore convertible warrants to promoter entity",
+      "hook": "Sunbright Mauritius secured Rs 659.76 crore through the new warrants",
+      "gist": [
+        "Zee entertainment issued 20.94 crore convertible warrants at Rs 126 each",
+        "Capital raise could affect share dilution and regulatory scrutiny",
+        "Track conversion rate, SEBI actions and share price movement"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T09:50:43+00:00",
+      "url": "story/fccc077efc64.html",
+      "api": "api/v1/clusters/fccc077efc64.json"
+    },
+    {
+      "cluster_id": "303b5ee70e5e",
+      "headline": "Auto NBFC loan disbursements jump 20.7% yoy in q1 fy27",
+      "hook": "Non‑commercial vehicle loans fuel a 20.7% rise in Q1 FY27",
+      "gist": [
+        "Auto NBFCs disbursed 20.7% more loans YoY in Q1 FY27.",
+        "Higher financing supports non‑commercial vehicle sales.",
+        "Watch NBFC credit quality and auto demand trends."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T09:45:36+00:00",
+      "url": "story/303b5ee70e5e.html",
+      "api": "api/v1/clusters/303b5ee70e5e.json"
+    },
+    {
+      "cluster_id": "3d7a3bacf623",
+      "headline": "BSE Closing Auction Session triggers liquidity drop in options, Nuvama reports",
+      "hook": "Falling option premium volumes on BSE threaten derivatives market depth and participation.",
+      "gist": [
+        "BSE's new Closing Auction Session triggered sharp declines in option volumes.",
+        "Thin liquidity risks creating a self-reinforcing cycle of falling derivatives activity.",
+        "Watch for regulatory clarity and exchange steps to improve closing auction participation."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T09:28:53+00:00",
+      "url": "story/3d7a3bacf623.html",
+      "api": "api/v1/clusters/3d7a3bacf623.json"
+    },
+    {
+      "cluster_id": "2d265e9c3cb4",
+      "headline": "India eyes 45-50 GW annual renewable additions amid rising power demand",
+      "hook": "Unsigned power purchase agreements stand between developers and 50 GW yearly targets.",
+      "gist": [
+        "India projects 45-50 GW annual renewable additions over next two years.",
+        "Rising power demand increases plant utilization while pipeline conversion remains critical.",
+        "Watch signing timelines for pending power purchase agreements."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T09:19:11+00:00",
+      "url": "story/2d265e9c3cb4.html",
+      "api": "api/v1/clusters/2d265e9c3cb4.json"
+    },
+    {
+      "cluster_id": "dd099d0bc60a",
+      "headline": "Uniflow expands control-valve capacity fivefold to cut import delays",
+      "hook": "Indian industrial projects face wait times of up to 40 weeks for imported valves.",
+      "gist": [
+        "Uniflow is expanding its control-valve manufacturing capacity fivefold to meet domestic demand.",
+        "High import dependence of forty percent currently delays Indian industrial projects by ten months.",
+        "Whether domestic expansion successfully reduces lead times and lowers capital expenditure costs."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-08-22T09:05:37+00:00",
+      "url": "story/dd099d0bc60a.html",
+      "api": "api/v1/clusters/dd099d0bc60a.json"
+    },
+    {
+      "cluster_id": "e3ba42434b59",
+      "headline": "RBI releases data on forex inflows from special dollar-rupee swap window",
+      "hook": "Indian banks face an August 31 deadline for a special RBI dollar-swapping window.",
+      "gist": [
+        "RBI published data on foreign currency inflows under its special swap facility.",
+        "The facility helps Indian banks secure stable foreign currency deposits and manage rupee liquidity.",
+        "Total inflows gathered before the FCNR(B) swap window closes on August 31, 2026."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-08-22T08:25:00+00:00",
+      "url": "story/e3ba42434b59.html",
+      "api": "api/v1/clusters/e3ba42434b59.json"
+    },
+    {
+      "cluster_id": "1ae08e83c86e",
+      "headline": "India clears ₹7,000 crore LPG pipeline expansion across six states",
+      "hook": "Highway transport operators face a major shift as 1,800 kilometres of pipelines bypass roads.",
+      "gist": [
+        "India approved a ₹7,000 crore, 1,800-kilometre LPG pipeline expansion across six states.",
+        "Moving fuel via pipelines instead of roads lowers distribution costs and improves supply reliability.",
+        "Watch project execution timelines and the impact on road logistics companies handling fuel transport."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T08:19:44+00:00",
+      "url": "story/1ae08e83c86e.html",
+      "api": "api/v1/clusters/1ae08e83c86e.json"
+    },
+    {
+      "cluster_id": "e6dd0c8205ca",
+      "headline": "Nvidia invests in data center developer Cloverleaf Infrastructure",
+      "hook": "Chip giant Nvidia backs Cloverleaf to secure physical sites for AI data centers.",
+      "gist": [
+        "Nvidia invested in Cloverleaf Infrastructure to develop sites for AI data centers.",
+        "AI expansion requires massive physical infrastructure, land, and power access to function.",
+        "How quickly these physical sites can secure power grids for AI computing."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T07:42:50+00:00",
+      "url": "story/e6dd0c8205ca.html",
+      "api": "api/v1/clusters/e6dd0c8205ca.json"
+    },
+    {
+      "cluster_id": "6fc4b7745ad9",
+      "headline": "Mid-size suvs gain market share in india as buyers shift to larger cars",
+      "hook": "Buyers now value space and premium features over compact cars",
+      "gist": [
+        "Mid-size suvs gaining share in India",
+        "Shift from compact to larger vehicles",
+        "Watch SUV demand and pricing trends"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T07:30:48+00:00",
+      "url": "story/6fc4b7745ad9.html",
+      "api": "api/v1/clusters/6fc4b7745ad9.json"
+    },
+    {
+      "cluster_id": "31afff25324d",
+      "headline": "India crude import bill jumps 41 percent in July on West Asia crisis",
+      "hook": "Indian oil refiners paid 41 percent more for crude shipments during July.",
+      "gist": [
+        "India's crude oil import bill surged by 41 percent in July.",
+        "Higher import costs put pressure on the rupee and trade deficit.",
+        "Geopolitical tensions in West Asia and global Brent crude price movements."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-08-22T06:24:27+00:00",
+      "url": "story/31afff25324d.html",
+      "api": "api/v1/clusters/31afff25324d.json"
+    },
+    {
+      "cluster_id": "644fbdee13fb",
+      "headline": "Indian banks eye FCNR deposits to fuel 15 percent credit growth in FY27",
+      "hook": "Indian banks target a 15 percent credit expansion using foreign currency deposits.",
+      "gist": [
+        "Indian banks are increasingly using foreign currency deposits to fund credit growth.",
+        "This strategy is expected to boost net interest income and earnings in FY27.",
+        "Whether systemic credit growth can sustain the projected 15 percent year-on-year pace."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T06:00:37+00:00",
+      "url": "story/644fbdee13fb.html",
+      "api": "api/v1/clusters/644fbdee13fb.json"
+    },
+    {
+      "cluster_id": "782e7f9c70fa",
+      "headline": "Boris Johnson highlights Scotch whisky tariff cuts in India-UK trade talks",
+      "hook": "Indian premium liquor distributors face a major tax shift on imported Scotch.",
+      "gist": [
+        "Boris Johnson welcomed the reduction of Scotch whisky import tariffs to 75%.",
+        "Lower tariffs reduce the cost of importing premium British spirits into India.",
+        "The final implementation timeline of the India-UK Free Trade Agreement."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T05:59:52+00:00",
+      "url": "story/782e7f9c70fa.html",
+      "api": "api/v1/clusters/782e7f9c70fa.json"
+    },
+    {
+      "cluster_id": "8ecb565be66a",
+      "headline": "Sugar stocks touch 52-week highs before import duty relief cools rally",
+      "hook": "Duty-free raw sugar imports arrived just as festival demand pushed several millers to yearly peaks.",
+      "gist": [
+        "Sugar millers hit 52-week highs on festive demand before duty-free imports cooled gains.",
+        "Cheaper overseas raw sugar increases domestic supply and caps local spot price spikes.",
+        "Monitor import volumes and festival-season wholesale sugar prices across major consuming states."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T05:49:34+00:00",
+      "url": "story/8ecb565be66a.html",
+      "api": "api/v1/clusters/8ecb565be66a.json"
+    },
+    {
+      "cluster_id": "a8563e535ea1",
+      "headline": "SEBI study finds 88% of retail F&O traders lost money in FY26",
+      "hook": "Options made up 92% of retail futures‑and‑options losses",
+      "gist": [
+        "88% of retail F&O traders lost money in FY26.",
+        "High loss rates could trigger tighter regulator oversight.",
+        "Watch for SEBI policy changes and trading volume trends."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T05:22:29+00:00",
+      "url": "story/a8563e535ea1.html",
+      "api": "api/v1/clusters/a8563e535ea1.json"
+    },
+    {
+      "cluster_id": "1346323854e0",
+      "headline": "Advisors outline asset allocation strategies for NRIs investing in India",
+      "hook": "Non-Resident Indians face complex choices when deploying a Rs 1 crore portfolio.",
+      "gist": [
+        "An investment advisor outlined asset allocation frameworks for Non-Resident Indians.",
+        "NRIs must balance global portfolios, tax implications, and repatriation needs before investing.",
+        "How changing tax laws and currency fluctuations affect NRI investment flows into India."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-08-22T05:11:45+00:00",
+      "url": "story/1346323854e0.html",
+      "api": "api/v1/clusters/1346323854e0.json"
+    },
+    {
+      "cluster_id": "f1dc9a69321c",
+      "headline": "FPI return to Indian equities is tactical rather than structural, says HSBC Mutual Fund",
+      "hook": "Foreign portfolio investors are returning to Indian equities but demand stronger corporate earnings first.",
+      "gist": [
+        "Foreign portfolio investors are cautiously returning to Indian stock markets.",
+        "The inflows are short-term tactical moves rather than long-term structural shifts.",
+        "Future corporate earnings growth and stock valuations must sustain these inflows."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T04:52:22+00:00",
+      "url": "story/f1dc9a69321c.html",
+      "api": "api/v1/clusters/f1dc9a69321c.json"
+    },
+    {
+      "cluster_id": "1643776407ff",
+      "headline": "Gold prices surge 5% to $4,603 as dollar weakens and indian demand rises",
+      "hook": "Indian jewellery buyers boost gold demand ahead of August weddings",
+      "gist": [
+        "Gold rose about 5% to $4,603 per ounce",
+        "Higher demand could lift jewellery and loan revenues",
+        "Watch dollar strength and festive-season sales data"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T04:18:50+00:00",
+      "url": "story/1643776407ff.html",
+      "api": "api/v1/clusters/1643776407ff.json"
+    },
+    {
+      "cluster_id": "5e43b18f84c6",
+      "headline": "India's Bloomberg Global Aggregate Index entry delayed over market access",
+      "hook": "Potential $15‑25 billion inflow stalls as market access remains unresolved",
+      "gist": [
+        "India's BGAI inclusion delayed",
+        "Foreign inflows may be postponed",
+        "Watch bond index decision and yield spreads"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T04:12:32+00:00",
+      "url": "story/5e43b18f84c6.html",
+      "api": "api/v1/clusters/5e43b18f84c6.json"
+    },
+    {
+      "cluster_id": "6104ae1d6ee4",
+      "headline": "Bandhan Life executive expects diverse corporate earnings to attract foreign investors",
+      "hook": "Foreign investors sold Indian equities for two years over high valuations.",
+      "gist": [
+        "Foreign institutional investors remained net sellers in India over the past two years.",
+        "A return of foreign capital could support domestic equity valuations and market liquidity.",
+        "What to watch is whether corporate earnings diversify and accelerate to justify premium valuations."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T04:03:20+00:00",
+      "url": "story/6104ae1d6ee4.html",
+      "api": "api/v1/clusters/6104ae1d6ee4.json"
+    },
+    {
+      "cluster_id": "ed9662d039b6",
+      "headline": "RBI watches geopolitical, oil and global policy risks, says bond analyst",
+      "hook": "RBI’s watchful stance on crude oil price swings could shape bonds",
+      "gist": [
+        "RBI signals caution over oil and geopolitics",
+        "Bond market may adjust to perceived risk",
+        "Watch oil prices and RBI policy cues"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T03:59:47+00:00",
+      "url": "story/ed9662d039b6.html",
+      "api": "api/v1/clusters/ed9662d039b6.json"
+    },
+    {
+      "cluster_id": "9d981f0520aa",
+      "headline": "Nvidia earnings and Jackson Hole symposium to test global market rally",
+      "hook": "Global bond yields are rising just as Nvidia prepares to report its quarterly earnings.",
+      "gist": [
+        "Global markets face crucial tests from Nvidia earnings and the Fed Jackson Hole symposium.",
+        "Rising bond yields and high oil prices are threatening to stall the stock rally.",
+        "Central bank commentary on inflation and Nvidia's updates on artificial intelligence spending trends."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-08-22T03:47:28+00:00",
+      "url": "story/9d981f0520aa.html",
+      "api": "api/v1/clusters/9d981f0520aa.json"
+    },
+    {
+      "cluster_id": "f0f15aaaf4b7",
+      "headline": "Global AI capex slowdown risks hurting India growth recovery, says Nuvama",
+      "hook": "A slowdown in global AI spending threatens India's domestic corporate revenue growth.",
+      "gist": [
+        "Nuvama warned that a global AI capex slowdown could hurt India's cyclical recovery.",
+        "Weaker global demand may depress Indian corporate revenues and slow down credit growth.",
+        "Global technology spending trends and domestic credit growth indicators are key to watch."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T03:35:16+00:00",
+      "url": "story/f0f15aaaf4b7.html",
+      "api": "api/v1/clusters/f0f15aaaf4b7.json"
+    },
+    {
+      "cluster_id": "8123c7f044f7",
+      "headline": "RBI sets october‑2026 to march‑2027 sgb premature redemption window",
+      "hook": "32 gold‑bond tranches can be redeemed before maturity from oct 2026",
+      "gist": [
+        "RBI announced early redemption dates for SGBs",
+        "Investors can exit holdings before maturity",
+        "Watch redemption volumes and cash impact"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T03:14:56+00:00",
+      "url": "story/8123c7f044f7.html",
+      "api": "api/v1/clusters/8123c7f044f7.json"
+    },
+    {
+      "cluster_id": "da2102abf927",
+      "headline": "Chhattisgarh signs PM GatiShakti pacts to boost logistics and digital planning",
+      "hook": "Chhattisgarh integrates 35 state departments into digital logistics mapping systems.",
+      "gist": [
+        "Chhattisgarh signed pacts with BISAG-N and NLDSL under PM GatiShakti.",
+        "Digital mapping across 35 departments aims to cut logistics planning delays.",
+        "Track industrial investment flows and project clearance timelines across the state."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T03:11:22+00:00",
+      "url": "story/da2102abf927.html",
+      "api": "api/v1/clusters/da2102abf927.json"
+    },
+    {
+      "cluster_id": "d56f330f6d8a",
+      "headline": "NBFC growth outlook remains steady amid margin pressures and new gold loan rules",
+      "hook": "Vehicle financiers see accelerated asset growth while gold loan companies face regulatory moderation.",
+      "gist": [
+        "Indian NBFCs report resilient credit demand and stable asset quality for the quarter.",
+        "Margin pressures and regulatory changes are unevenly impacting vehicle and gold finance segments.",
+        "Future profitability trends depend on borrowing costs and asset quality monitoring."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T03:05:08+00:00",
+      "url": "story/d56f330f6d8a.html",
+      "api": "api/v1/clusters/d56f330f6d8a.json"
+    },
+    {
+      "cluster_id": "de4e49add755",
+      "headline": "ITAT Ahmedabad deletes ₹3.41 crore tax on fraudulent land sale",
+      "hook": "An Ahmedabad landowner was billed ₹3.41 crore for a transaction he never authorized.",
+      "gist": [
+        "ITAT Ahmedabad cleared a landowner of a ₹3.41 crore tax demand on a forged sale.",
+        "It establishes that tax cannot be levied on fraudulent transactions where no income was received.",
+        "How tax authorities handle similar cases of identity theft and forged property transactions."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-08-22T02:42:34+00:00",
+      "url": "story/de4e49add755.html",
+      "api": "api/v1/clusters/de4e49add755.json"
+    },
+    {
+      "cluster_id": "366042ae5058",
+      "headline": "Memory stocks face headwinds as smart money walks out",
+      "hook": "Sandisk’s pullback signals shifting sentiment in AI‑driven memory market",
+      "gist": [
+        "Memory stocks dip amid AI demand worries",
+        "Valuation pressure could curb funding for chip makers",
+        "Watch AI server orders and inventory trends"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T02:32:09+00:00",
+      "url": "story/366042ae5058.html",
+      "api": "api/v1/clusters/366042ae5058.json"
+    },
+    {
+      "cluster_id": "98e2fe43aa04",
+      "headline": "SEBI to launch channel partner network for retail bond access",
+      "hook": "Retail investors in smaller cities gain new bond distribution channels",
+      "gist": [
+        "SEBI announced a channel partner network for retail bonds",
+        "It aims to broaden bond access beyond major metros",
+        "Watch rollout speed and investor uptake"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T02:23:57+00:00",
+      "url": "story/98e2fe43aa04.html",
+      "api": "api/v1/clusters/98e2fe43aa04.json"
+    },
+    {
+      "cluster_id": "ccacb8c9b6ef",
+      "headline": "Nifty stays around 24,250 as West Asia tensions lift crude prices",
+      "hook": "Nifty hovered at 24,252 amid 0.47% dip and rising oil",
+      "gist": [
+        "Nifty slipped 0.47% to 24,252",
+        "Rangebound trading limits upside potential",
+        "Watch oil price and key support‑resistance levels"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T02:03:48+00:00",
+      "url": "story/ccacb8c9b6ef.html",
+      "api": "api/v1/clusters/ccacb8c9b6ef.json"
+    },
+    {
+      "cluster_id": "454755dae2e4",
+      "headline": "RBI minutes turn hawkish amid drought warning",
+      "hook": "RBI minutes turn hawkish as drought warning looms over agriculture",
+      "gist": [
+        "RBI minutes signal a hawkish stance",
+        "Drought warning raises concerns for rural economy",
+        "Potential policy tightening could affect borrowing costs"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-08-22T01:30:40+00:00",
+      "url": "story/454755dae2e4.html",
+      "api": "api/v1/clusters/454755dae2e4.json"
+    }
+  ]
+}

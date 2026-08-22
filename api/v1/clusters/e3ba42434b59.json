@@ -1,0 +1,105 @@
+{
+  "cluster_id": "e3ba42434b59",
+  "analysis": {
+    "headline": "RBI releases data on forex inflows from special dollar-rupee swap window",
+    "hook": "Indian banks face an August 31 deadline for a special RBI dollar-swapping window.",
+    "gist": [
+      "RBI published data on foreign currency inflows under its special swap facility.",
+      "The facility helps Indian banks secure stable foreign currency deposits and manage rupee liquidity.",
+      "Total inflows gathered before the FCNR(B) swap window closes on August 31, 2026."
+    ],
+    "what_happened": "On August 22, 2026, the Reserve Bank of India released data on foreign exchange inflows coming through its special USD-INR swap facility. This facility, which was introduced on June 08, 2026, covers Foreign Currency Non-Resident (Bank) deposits, External Commercial Borrowings, and Overseas Foreign Currency Borrowings. The special window for FCNR(B) deposits is scheduled to remain open until August 31, 2026.",
+    "who_is_affected": [
+      {
+        "group": "Indian commercial banks",
+        "effect": "They gain access to a structured mechanism to swap foreign currency deposits into rupees, reducing their hedging costs until August 31, 2026."
+      },
+      {
+        "group": "Non-Resident Indians (NRIs)",
+        "effect": "They may receive more attractive interest rates on FCNR(B) accounts as domestic banks compete to attract foreign currency before the deadline."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Banking & Financials",
+        "direction": "tailwind",
+        "why": "The swap window allows banks to convert foreign currency deposits into rupees at favorable rates, lowering their overall funding costs and boosting liquidity."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "RBI offers a special USD-INR swap facility to commercial banks",
+        "Banks aggressively solicit foreign currency deposits like FCNR(B) from non-residents",
+        "Banks swap these dollars with the RBI for rupees at a predetermined rate",
+        "Rupee liquidity in the domestic banking system increases, lowering short-term borrowing costs"
+      ],
+      "explanation": "When the RBI opens a swap window, it incentivizes banks to bring in foreign currency by offering a cheaper way to hedge exchange rate risk. For an investor with banking exposure, this triggers a push by banks to attract NRI deposits, which typically takes a few weeks to show up in deposit growth numbers. Once these funds are swapped with the RBI, the banking system receives a direct injection of rupee liquidity, easing domestic credit conditions. The final impact on bank net interest margins and lending rates usually materializes over one to two quarters.",
+      "time_horizon": "months"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Optimists argue that the swap facility successfully bolsters India's foreign exchange reserves and stabilizes the rupee by attracting steady, long-term NRI deposits.",
+      "depends_on": [
+        "strong participation from non-resident Indians",
+        "stable global interest rate differentials"
+      ]
+    },
+    "bear_case": {
+      "argument": "Pessimists point out that relying on temporary swap windows to boost liquidity can mask underlying structural deficits in domestic deposit growth once the window closes on August 31, 2026.",
+      "depends_on": [
+        "a sharp drop in foreign inflows post-August deadline",
+        "rising cost of foreign currency funding globally"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Total FCNR(B) deposit mobilization data",
+        "why_it_matters": "Validates whether the swap window successfully attracted significant foreign capital before closing.",
+        "when": "Post-August 31, 2026"
+      },
+      {
+        "variable": "Banking system liquidity deficit or surplus",
+        "why_it_matters": "Shows if the swapped rupees have successfully eased domestic credit conditions.",
+        "when": "Ongoing"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "The information is sourced directly from an official Reserve Bank of India press release detailing the operational dates of the swap facility.",
+    "jargon": [
+      {
+        "term": "FCNR(B) deposits",
+        "plain_meaning": "Foreign Currency Non-Resident (Bank) deposits, which are bank accounts held in India by non-resident Indians denominated in foreign currencies like US dollars."
+      },
+      {
+        "term": "Forex Swap",
+        "plain_meaning": "A transaction where two parties exchange currencies for a certain period and agree to reverse the transaction at a later date."
+      },
+      {
+        "term": "External Commercial Borrowings (ECBs)",
+        "plain_meaning": "Loans secured by Indian companies from foreign lenders in foreign currencies."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [
+      "RBI"
+    ],
+    "tickers": [],
+    "sectors": [
+      "Banking & Financials"
+    ],
+    "macro_themes": []
+  },
+  "sources": [
+    {
+      "name": "Reserve Bank of India",
+      "headline": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63426",
+      "published_at": "2026-08-22T08:25:00+00:00"
+    }
+  ],
+  "published_at": "2026-08-22T08:25:00Z",
+  "updated_at": "2026-08-22T08:43:49.261754Z",
+  "confidence": "high",
+  "tier": "free"
+}

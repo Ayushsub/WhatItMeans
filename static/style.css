@@ -1,0 +1,261 @@
+/* WhatItMeans — single stylesheet, mobile-first, no framework, no webfonts.
+   System fonts only: a webfont would be a render-blocking round trip on a
+   phone on mobile data, which is the primary reading context. */
+
+:root {
+  --bg: #fbfaf8;
+  --surface: #ffffff;
+  --ink: #1a1a1a;
+  --ink-soft: #55524d;
+  --ink-faint: #8a857e;
+  --line: #e5e1db;
+  --accent: #1c4b8a;
+  --bull-fixed: #16653f;
+  --bear: #a02c2c;
+  --neutral: #6b6560;
+  --radius: 10px;
+  --wrap: 46rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14150f;
+    --surface: #1d1e18;
+    --ink: #ece9e3;
+    --ink-soft: #b3aea6;
+    --ink-faint: #857f77;
+    --line: #33342c;
+    --accent: #86b3f0;
+    --bull-fixed: #6cc295;
+    --bear: #e88c8c;
+    --neutral: #9a948c;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 400 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, sans-serif;
+  overflow-wrap: break-word;
+}
+
+.wrap { width: 100%; max-width: var(--wrap); margin: 0 auto; padding: 0 1rem; }
+
+.skip {
+  position: absolute; left: -9999px;
+}
+.skip:focus {
+  left: 1rem; top: 1rem; z-index: 10; background: var(--surface);
+  padding: .5rem .8rem; border-radius: var(--radius);
+}
+
+a { color: var(--accent); }
+
+/* ---------- header / footer ---------- */
+.site-header {
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+  position: sticky; top: 0; z-index: 5;
+}
+.header-inner {
+  display: flex; align-items: center; justify-content: space-between;
+  min-height: 3.25rem; gap: 1rem;
+}
+.brand {
+  font-weight: 700; font-size: 1.15rem; letter-spacing: -.02em;
+  color: var(--ink); text-decoration: none;
+}
+.site-header nav a {
+  margin-left: .9rem; font-size: .9rem; color: var(--ink-soft);
+  text-decoration: none;
+}
+.site-header nav a:hover { color: var(--accent); }
+
+.site-footer {
+  margin-top: 3rem; padding: 1.5rem 0 2.5rem;
+  border-top: 1px solid var(--line); background: var(--surface);
+  font-size: .82rem; color: var(--ink-faint);
+}
+.disclaimer { color: var(--ink-soft); }
+.disclaimer strong { color: var(--ink); }
+.ai-notice, .meta { margin: .6rem 0 0; }
+
+/* Empty ad slots: reserve nothing, take no space, break no layout. */
+.ad-slot:empty { display: none; }
+
+/* ---------- index ---------- */
+.intro { padding: 2rem 0 .5rem; }
+.intro h1 {
+  font-size: 1.7rem; line-height: 1.2; letter-spacing: -.02em; margin: 0 0 .5rem;
+}
+.intro p { color: var(--ink-soft); margin: 0; font-size: .98rem; }
+
+.empty {
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 1.5rem; color: var(--ink-soft);
+}
+
+.feed { list-style: none; padding: 0; margin: 1.5rem 0 0; }
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.1rem;
+  margin-bottom: 1rem;
+}
+.card h2 { font-size: 1.22rem; line-height: 1.3; margin: .1rem 0 .4rem; letter-spacing: -.015em; }
+.card h2 a { color: var(--ink); text-decoration: none; }
+.card h2 a:hover { color: var(--accent); }
+
+.card-head {
+  display: flex; align-items: center; gap: .6rem;
+  font-size: .74rem; color: var(--ink-faint); margin-bottom: .5rem;
+}
+.card-head time { margin-left: auto; }
+
+/* The hook: names the stake, withholds the mechanism. */
+.hook {
+  margin: 0 0 .75rem; color: var(--ink-soft);
+  font-size: 1rem; font-style: italic;
+}
+.hook.big { font-size: 1.1rem; margin-bottom: 1rem; }
+
+/* The 30-second read. */
+.gist {
+  list-style: none; padding: .7rem .9rem; margin: 0 0 .85rem;
+  background: var(--bg); border-left: 3px solid var(--accent);
+  border-radius: 0 6px 6px 0;
+}
+.gist li {
+  font-size: .93rem; color: var(--ink-soft); padding-left: 1rem;
+  position: relative; margin: .2rem 0;
+}
+.gist li::before {
+  content: "→"; position: absolute; left: 0; color: var(--accent);
+}
+
+.chips { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: .6rem; }
+.chip {
+  font-size: .72rem; padding: .16rem .5rem; border-radius: 20px;
+  border: 1px solid var(--line); color: var(--ink-soft); white-space: nowrap;
+}
+.chip.theme { background: var(--bg); }
+.dir-tailwind { border-color: var(--bull-fixed); color: var(--bull-fixed); }
+.dir-headwind { border-color: var(--bear); color: var(--bear); }
+.dir-mixed, .dir-neutral { color: var(--neutral); }
+
+.conf { font-size: .7rem; text-transform: uppercase; letter-spacing: .04em; font-weight: 600; }
+.conf-high { color: var(--bull-fixed); }
+.conf-medium { color: #9a7b1f; }
+.conf-low { color: var(--bear); }
+
+.card-foot {
+  display: flex; align-items: center; justify-content: space-between;
+  margin: .5rem 0 0; font-size: .85rem;
+}
+.more { font-weight: 600; text-decoration: none; }
+.more:hover { text-decoration: underline; }
+.srccount { color: var(--ink-faint); font-size: .78rem; }
+
+/* ---------- story ---------- */
+.story, .page { padding: 1.5rem 0 0; }
+.back { font-size: .85rem; margin: 0 0 1rem; }
+.back a { text-decoration: none; }
+
+.story h1, .page h1 {
+  font-size: 1.75rem; line-height: 1.22; letter-spacing: -.022em; margin: 0 0 .5rem;
+}
+.story section { margin: 1.9rem 0; }
+.story h2, .page h2 {
+  font-size: 1.05rem; letter-spacing: .01em; margin: 0 0 .6rem;
+  padding-bottom: .3rem; border-bottom: 1px solid var(--line);
+}
+.story p, .page p { margin: 0 0 .8rem; }
+
+.affected { margin: 0; }
+.affected dt { font-weight: 600; margin-top: .7rem; }
+.affected dd { margin: .15rem 0 0; color: var(--ink-soft); }
+
+.sectors { list-style: none; padding: 0; margin: 0; }
+.sectors li { margin: .55rem 0; color: var(--ink-soft); font-size: .95rem; }
+.dirlabel { font-size: .78rem; color: var(--ink-faint); text-transform: uppercase; }
+
+/* The mechanism is the product. Give it visual weight. */
+.mechanism {
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 1.1rem;
+}
+.mechanism h2 { border-bottom: none; margin-bottom: .2rem; }
+.horizon { font-size: .8rem; color: var(--ink-faint); margin-bottom: .9rem !important; }
+.chain { margin: 0 0 1rem; padding-left: 0; list-style: none; counter-reset: step; }
+.chain li {
+  counter-increment: step; position: relative;
+  padding: 0 0 .9rem 2rem; margin: 0;
+  border-left: 2px solid var(--line); margin-left: .8rem;
+  color: var(--ink-soft); font-size: .95rem;
+}
+.chain li:last-child { border-left-color: transparent; padding-bottom: 0; }
+.chain li::before {
+  content: counter(step);
+  position: absolute; left: -.85rem; top: 0;
+  width: 1.6rem; height: 1.6rem; border-radius: 50%;
+  background: var(--accent); color: #fff;
+  font-size: .78rem; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+}
+
+.cases { display: grid; gap: 1rem; }
+.case {
+  border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 1rem; background: var(--surface);
+}
+.case h2 { border-bottom: none; margin-bottom: .1rem; }
+.case.bull { border-top: 3px solid var(--bull-fixed); }
+.case.bear { border-top: 3px solid var(--bear); }
+/* The attribution label is a compliance element, not decoration. */
+.attrib {
+  font-size: .74rem; text-transform: uppercase; letter-spacing: .04em;
+  color: var(--ink-faint); margin-bottom: .5rem !important;
+}
+.depends { font-size: .8rem; color: var(--ink-faint); margin-bottom: .2rem !important; }
+.case ul { margin: 0; padding-left: 1.1rem; font-size: .9rem; color: var(--ink-soft); }
+
+.watch { list-style: none; padding: 0; margin: 0; }
+.watch li {
+  padding: .6rem 0; border-bottom: 1px solid var(--line);
+  font-size: .93rem; color: var(--ink-soft);
+}
+.watch li:last-child { border-bottom: none; }
+.watch strong { color: var(--ink); }
+.when {
+  float: right; font-size: .75rem; color: var(--ink-faint);
+  background: var(--bg); padding: .1rem .45rem; border-radius: 4px;
+}
+
+.jargon dt { font-weight: 600; margin-top: .6rem; }
+.jargon dd { margin: .1rem 0 0; color: var(--ink-soft); font-size: .93rem; }
+
+.sources ul { list-style: none; padding: 0; margin: 0; }
+.sources li { padding: .45rem 0; border-bottom: 1px solid var(--line); font-size: .92rem; }
+.sources li:last-child { border-bottom: none; }
+.src { display: block; font-size: .75rem; color: var(--ink-faint); }
+
+.contactinfo dt { font-weight: 600; margin-top: .7rem; font-size: .85rem; color: var(--ink-faint); }
+.contactinfo dd { margin: .1rem 0 0; }
+
+/* ---------- wider screens ---------- */
+@media (min-width: 40rem) {
+  body { font-size: 18px; }
+  .intro h1 { font-size: 2.1rem; }
+  .story h1, .page h1 { font-size: 2.15rem; }
+  .card { padding: 1.35rem; }
+  .card h2 { font-size: 1.35rem; }
+  .cases { grid-template-columns: 1fr 1fr; }
+}
