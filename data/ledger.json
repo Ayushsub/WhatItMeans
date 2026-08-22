@@ -1195,5 +1195,12 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "f1dc9a69321c"
+ },
+ {
+  "date": "2026-08-22",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "6104ae1d6ee4"
  }
 ]
