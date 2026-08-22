@@ -1202,5 +1202,12 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "6104ae1d6ee4"
+ },
+ {
+  "date": "2026-08-22",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "1643776407ff"
  }
 ]
