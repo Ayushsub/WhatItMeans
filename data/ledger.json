@@ -1174,5 +1174,19 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "f0f15aaaf4b7"
+ },
+ {
+  "date": "2026-08-22",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "ed9662d039b6"
+ },
+ {
+  "date": "2026-08-22",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "ed9662d039b6"
  }
 ]
