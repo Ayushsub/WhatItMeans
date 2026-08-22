@@ -1146,5 +1146,12 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "73f4ba4e75ea"
+ },
+ {
+  "date": "2026-08-22",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "c5ebe7a68674"
  }
 ]
