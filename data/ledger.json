@@ -1153,5 +1153,12 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "c5ebe7a68674"
+ },
+ {
+  "date": "2026-08-22",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "44d56992302d"
  }
 ]
