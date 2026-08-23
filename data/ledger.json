@@ -1272,5 +1272,12 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "a1d6d6f98ed5"
+ },
+ {
+  "date": "2026-08-23",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "1d556b9ed8cd"
  }
 ]
