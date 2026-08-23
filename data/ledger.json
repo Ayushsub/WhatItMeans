@@ -1258,5 +1258,12 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "897dc22f1ffb"
+ },
+ {
+  "date": "2026-08-23",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "2dad616b9dd6"
  }
 ]
