@@ -1223,5 +1223,12 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "6b1a1a8e7564"
+ },
+ {
+  "date": "2026-08-23",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "51877be24956"
  }
 ]
