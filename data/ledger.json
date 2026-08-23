@@ -1237,5 +1237,26 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "26a02cf234e1"
+ },
+ {
+  "date": "2026-08-23",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "0191f8e0999d"
+ },
+ {
+  "date": "2026-08-23",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "e71bd25eb38d"
+ },
+ {
+  "date": "2026-08-23",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "897dc22f1ffb"
  }
 ]
