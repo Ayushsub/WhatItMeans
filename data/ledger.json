@@ -1265,5 +1265,12 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "2dad616b9dd6"
+ },
+ {
+  "date": "2026-08-23",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "a1d6d6f98ed5"
  }
 ]
