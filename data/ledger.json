@@ -1342,5 +1342,19 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "2c0dc66c1eea"
+ },
+ {
+  "date": "2026-08-24",
+  "event_type": "credit_conditions",
+  "entity": "Nifty",
+  "value": null,
+  "cluster_id": "7fd953e5702e"
+ },
+ {
+  "date": "2026-08-24",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "b609d435a588"
  }
 ]
