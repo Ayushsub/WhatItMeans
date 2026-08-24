@@ -1293,5 +1293,40 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "bd7759ae0463"
+ },
+ {
+  "date": "2026-08-24",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "675a691a4d98"
+ },
+ {
+  "date": "2026-08-24",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "675a691a4d98"
+ },
+ {
+  "date": "2026-08-24",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "d53d49c2f3be"
+ },
+ {
+  "date": "2026-08-24",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "50a06c80d47f"
+ },
+ {
+  "date": "2026-08-24",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "50a06c80d47f"
  }
 ]
