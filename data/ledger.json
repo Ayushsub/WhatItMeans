@@ -1328,5 +1328,12 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "50a06c80d47f"
+ },
+ {
+  "date": "2026-08-24",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "bce7e38df4b6"
  }
 ]
