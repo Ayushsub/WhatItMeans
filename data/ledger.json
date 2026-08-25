@@ -1370,5 +1370,26 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "bf71576213b4"
+ },
+ {
+  "date": "2026-08-25",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "5837448a01d1"
+ },
+ {
+  "date": "2026-08-25",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "7.1%",
+  "cluster_id": "3631858072e1"
+ },
+ {
+  "date": "2026-08-25",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "88e456f9fa48"
  }
 ]
