@@ -1391,5 +1391,12 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "88e456f9fa48"
+ },
+ {
+  "date": "2026-08-25",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "fee705bd2752"
  }
 ]
