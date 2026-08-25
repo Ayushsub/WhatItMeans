@@ -1398,5 +1398,12 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "fee705bd2752"
+ },
+ {
+  "date": "2026-08-25",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "4fabdb63967e"
  }
 ]
