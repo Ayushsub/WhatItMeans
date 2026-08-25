@@ -1356,5 +1356,12 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "b609d435a588"
+ },
+ {
+  "date": "2026-08-25",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "83ccf383f53a"
  }
 ]
