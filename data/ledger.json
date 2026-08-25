@@ -1405,5 +1405,12 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "4fabdb63967e"
+ },
+ {
+  "date": "2026-08-25",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "50bd63e766ff"
  }
 ]
