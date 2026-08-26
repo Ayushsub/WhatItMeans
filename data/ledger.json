@@ -1447,5 +1447,12 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "0b1938f0f943"
+ },
+ {
+  "date": "2026-08-26",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "adc4c79b94a2"
  }
 ]
