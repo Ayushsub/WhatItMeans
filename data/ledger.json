@@ -1461,5 +1461,12 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "1d556b9ed8cd"
+ },
+ {
+  "date": "2026-08-26",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "4fd3ced1930c"
  }
 ]
