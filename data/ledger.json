@@ -1426,5 +1426,26 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "938b0a08e9be"
+ },
+ {
+  "date": "2026-08-26",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "41197c15f0a0"
+ },
+ {
+  "date": "2026-08-26",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "41197c15f0a0"
+ },
+ {
+  "date": "2026-08-26",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "0b1938f0f943"
  }
 ]
