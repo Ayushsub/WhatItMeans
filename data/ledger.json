@@ -1489,5 +1489,12 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "d76ba7c7a64f"
+ },
+ {
+  "date": "2026-08-26",
+  "event_type": "policy_rate",
+  "entity": "HDFC Bank",
+  "value": "7.10%",
+  "cluster_id": "094b854a77ce"
  }
 ]
