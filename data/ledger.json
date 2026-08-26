@@ -1454,5 +1454,12 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "adc4c79b94a2"
+ },
+ {
+  "date": "2026-08-26",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "1d556b9ed8cd"
  }
 ]
