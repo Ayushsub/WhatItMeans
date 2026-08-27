@@ -1496,5 +1496,47 @@
   "entity": "HDFC Bank",
   "value": "7.10%",
   "cluster_id": "094b854a77ce"
+ },
+ {
+  "date": "2026-08-27",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "c95b82e7cc3b"
+ },
+ {
+  "date": "2026-08-27",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "c95b82e7cc3b"
+ },
+ {
+  "date": "2026-08-27",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "8d3dcd013d71"
+ },
+ {
+  "date": "2026-08-27",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "e1639e53da79"
+ },
+ {
+  "date": "2026-08-27",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "ee65679f9e44"
+ },
+ {
+  "date": "2026-08-27",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "ee65679f9e44"
  }
 ]
