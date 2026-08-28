@@ -1594,5 +1594,33 @@
   "entity": "Inflation",
   "value": "7.5%",
   "cluster_id": "6cec61a01b6b"
+ },
+ {
+  "date": "2026-08-28",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "f1193790bad1"
+ },
+ {
+  "date": "2026-08-28",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "b0bcac8abb22"
+ },
+ {
+  "date": "2026-08-28",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "08efc599f7ca"
+ },
+ {
+  "date": "2026-08-28",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "a148f2cb5d5d"
  }
 ]
