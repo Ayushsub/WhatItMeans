@@ -1622,5 +1622,19 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "a148f2cb5d5d"
+ },
+ {
+  "date": "2026-08-28",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "76c18925a4d7"
+ },
+ {
+  "date": "2026-08-28",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹30,000 crore",
+  "cluster_id": "a5be058f0877"
  }
 ]
