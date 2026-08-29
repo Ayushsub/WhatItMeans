@@ -1685,5 +1685,33 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "c09d8aa041d6"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": "₹37,700 crore",
+  "cluster_id": "955f239dec59"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "f02b4d7842e1"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "credit_conditions",
+  "entity": "Larsen & Toubro",
+  "value": null,
+  "cluster_id": "d6f15071ce3e"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "67f66d25dd1b"
  }
 ]
