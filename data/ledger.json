@@ -1636,5 +1636,26 @@
   "entity": "Institutional Flows",
   "value": "₹30,000 crore",
   "cluster_id": "a5be058f0877"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "864606b1eeb7"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "864606b1eeb7"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹105.5 crore",
+  "cluster_id": "879fdfedfbce"
  }
 ]
