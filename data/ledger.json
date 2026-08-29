@@ -1713,5 +1713,19 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "67f66d25dd1b"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "642af7d37a3c"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "4e44b29da41c"
  }
 ]
