@@ -1657,5 +1657,33 @@
   "entity": "Fiscal & Budget",
   "value": "₹105.5 crore",
   "cluster_id": "879fdfedfbce"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "6d626b9d7698"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "8203f86d4488"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "02ce97ba7528"
+ },
+ {
+  "date": "2026-08-29",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "c09d8aa041d6"
  }
 ]
