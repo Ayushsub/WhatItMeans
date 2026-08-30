@@ -1804,5 +1804,12 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "31942a997d51"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "294ec1dcb2c5"
  }
 ]
