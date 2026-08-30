@@ -1790,5 +1790,19 @@
   "entity": "Tata Motors",
   "value": null,
   "cluster_id": "483949e16536"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "8%",
+  "cluster_id": "1801dedc8d6f"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "31942a997d51"
  }
 ]
