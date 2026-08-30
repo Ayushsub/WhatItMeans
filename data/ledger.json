@@ -1741,5 +1741,54 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "d9b360e31503"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "d461c235e76c"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "d461c235e76c"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "52ef28c85644"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "664815c0b7e8"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "fiscal_action",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "93a9e0dd0e6a"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": "6.9%",
+  "cluster_id": "065a6a148dd6"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "fiscal_action",
+  "entity": "Tata Motors",
+  "value": null,
+  "cluster_id": "483949e16536"
  }
 ]
