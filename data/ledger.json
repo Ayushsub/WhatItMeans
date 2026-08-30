@@ -1727,5 +1727,19 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "4e44b29da41c"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "92390c0c31ac"
+ },
+ {
+  "date": "2026-08-30",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "d9b360e31503"
  }
 ]
