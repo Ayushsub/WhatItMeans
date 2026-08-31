@@ -1846,5 +1846,26 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "2d20bb1f746b"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "5e95cbb484de"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "5cef6e1f73ef"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "5cef6e1f73ef"
  }
 ]
