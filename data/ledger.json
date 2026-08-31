@@ -1811,5 +1811,40 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "294ec1dcb2c5"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "fcc18a931c26"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "294ec1dcb2c5"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "7720dd72ca5f"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "2d20bb1f746b"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "2d20bb1f746b"
  }
 ]
