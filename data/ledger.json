@@ -1867,5 +1867,26 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "5cef6e1f73ef"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "fiscal_action",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "a0241e937306"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "7cafc0a6d9c6"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "credit_conditions",
+  "entity": "Adani Group",
+  "value": null,
+  "cluster_id": "d41cdde15020"
  }
 ]
