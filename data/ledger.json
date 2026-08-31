@@ -1888,5 +1888,26 @@
   "entity": "Adani Group",
   "value": null,
   "cluster_id": "d41cdde15020"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹30,919 crore",
+  "cluster_id": "8fc02766828d"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "1543d938d733"
+ },
+ {
+  "date": "2026-08-31",
+  "event_type": "fiscal_action",
+  "entity": "Maruti Suzuki",
+  "value": "₹77,500 crore",
+  "cluster_id": "4a86565c4eca"
  }
 ]
