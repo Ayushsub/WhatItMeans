@@ -1944,5 +1944,33 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "c8b57c42c5cb"
+ },
+ {
+  "date": "2026-09-01",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "7c95b646bcb2"
+ },
+ {
+  "date": "2026-09-01",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "a2dc2e36bcd6"
+ },
+ {
+  "date": "2026-09-01",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "30be9af05b42"
+ },
+ {
+  "date": "2026-09-01",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "₹39,718 crore",
+  "cluster_id": "a6cd8b727a6a"
  }
 ]
