@@ -1993,5 +1993,12 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "bc4b2fefd041"
+ },
+ {
+  "date": "2026-09-01",
+  "event_type": "fiscal_action",
+  "entity": "Tata Motors",
+  "value": "₹1.68 lakh crore",
+  "cluster_id": "085ab6839bb1"
  }
 ]
