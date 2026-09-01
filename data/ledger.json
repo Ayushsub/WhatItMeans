@@ -1986,5 +1986,12 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "1e7d6a25a14b"
+ },
+ {
+  "date": "2026-09-01",
+  "event_type": "policy_rate",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "bc4b2fefd041"
  }
 ]
