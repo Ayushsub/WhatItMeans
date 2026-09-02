@@ -2000,5 +2000,40 @@
   "entity": "Tata Motors",
   "value": "₹1.68 lakh crore",
   "cluster_id": "085ab6839bb1"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": "7.8%",
+  "cluster_id": "2ea10004f544"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "2ea10004f544"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "ceba567a5ec9"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "fiscal_action",
+  "entity": "Maruti Suzuki",
+  "value": "₹29.82 lakh crore",
+  "cluster_id": "ceba567a5ec9"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "7bb2456e4182"
  }
 ]
