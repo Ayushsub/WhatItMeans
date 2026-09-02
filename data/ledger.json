@@ -2098,5 +2098,12 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "74a811cd015b"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "policy_rate",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "7b3ad38d73ad"
  }
 ]
