@@ -2035,5 +2035,47 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "7bb2456e4182"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": "3%",
+  "cluster_id": "221696846a3e"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "752b99e6ba5a"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "0.02%",
+  "cluster_id": "3fd721e7d602"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹29,631 crore",
+  "cluster_id": "cf4a9a2ca2fc"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "fiscal_action",
+  "entity": "Nifty",
+  "value": null,
+  "cluster_id": "7ae5e63cdb05"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "27fa55c5f0f4"
  }
 ]
