@@ -2077,5 +2077,12 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "27fa55c5f0f4"
+ },
+ {
+  "date": "2026-09-02",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "bb8a047a3760"
  }
 ]
