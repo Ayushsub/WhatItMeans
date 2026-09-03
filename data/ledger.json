@@ -2154,5 +2154,26 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "385363cc2c62"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "c61d62ac709c"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "d5bfdd674570"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "6.94%",
+  "cluster_id": "130e530c4a11"
  }
 ]
