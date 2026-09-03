@@ -2105,5 +2105,54 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "7b3ad38d73ad"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "d4b803a59de5"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "d4b803a59de5"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "909a87579b63"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "1e3ebcc510fb"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "e785b4cc7553"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "839a8d2babe5"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "385363cc2c62"
  }
 ]
