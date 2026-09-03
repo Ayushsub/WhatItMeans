@@ -2196,5 +2196,12 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "13ec1bc60e98"
+ },
+ {
+  "date": "2026-09-03",
+  "event_type": "credit_conditions",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "06660cf29556"
  }
 ]
