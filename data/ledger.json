@@ -2203,5 +2203,61 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "06660cf29556"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "9c2123d6aa21"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "9c2123d6aa21"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "4fa4953b7172"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "4fa4953b7172"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "d1b6c4006a4e"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "851552f595b1"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "851552f595b1"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "306cf5ac529e"
  }
 ]
