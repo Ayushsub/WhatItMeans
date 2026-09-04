@@ -2266,5 +2266,19 @@
   "entity": "RBI",
   "value": "₹43 lakh crore",
   "cluster_id": "e5800ff82b59"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.25%",
+  "cluster_id": "a3eb3881676e"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "844d2425c3f7"
  }
 ]
