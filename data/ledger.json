@@ -2280,5 +2280,12 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "844d2425c3f7"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "c1b7c43b9639"
  }
 ]
