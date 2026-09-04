@@ -2259,5 +2259,12 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "306cf5ac529e"
+ },
+ {
+  "date": "2026-09-04",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "₹43 lakh crore",
+  "cluster_id": "e5800ff82b59"
  }
 ]
