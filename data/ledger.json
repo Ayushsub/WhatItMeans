@@ -2315,5 +2315,47 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "7595b840f600"
+ },
+ {
+  "date": "2026-09-05",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "773ddecde73f"
+ },
+ {
+  "date": "2026-09-05",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "75921f0ae7da"
+ },
+ {
+  "date": "2026-09-05",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "707e2ad9f810"
+ },
+ {
+  "date": "2026-09-05",
+  "event_type": "credit_conditions",
+  "entity": "ICICI Bank",
+  "value": null,
+  "cluster_id": "707e2ad9f810"
+ },
+ {
+  "date": "2026-09-05",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "aabd43dfacf5"
+ },
+ {
+  "date": "2026-09-05",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "e0181dad09fa"
  }
 ]
