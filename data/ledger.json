@@ -2371,5 +2371,12 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "27ad621112c1"
+ },
+ {
+  "date": "2026-09-05",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "07709bbbf145"
  }
 ]
