@@ -2357,5 +2357,12 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "e0181dad09fa"
+ },
+ {
+  "date": "2026-09-05",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "d867082c84b6"
  }
 ]
