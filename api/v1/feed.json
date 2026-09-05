@@ -1,0 +1,339 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-05T18:26:45.550670+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 22,
+  "items": [
+    {
+      "cluster_id": "20130b7fa2aa",
+      "headline": "India GDP rises 7.8% as modi urges curb gold buying, travel",
+      "hook": "Modi’s call to cut gold purchases comes as GDP hits 7.8%",
+      "gist": [
+        "GDP grew 7.8%",
+        "Modi urged less gold and travel spending",
+        "Watch consumer response to the appeal"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-05T17:47:02+00:00",
+      "url": "story/20130b7fa2aa.html",
+      "api": "api/v1/clusters/20130b7fa2aa.json"
+    },
+    {
+      "cluster_id": "e76c406b1632",
+      "headline": "Trump pressures Fed chair Warsh to cut rates as markets price a hike",
+      "hook": "Trump touts 15% growth if rates are cut, sparking Fed clash",
+      "gist": [
+        "Trump urges US rate cut",
+        "Markets still expect a hike",
+        "Implications for India’s trade and borrowing"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-05T15:05:50+00:00",
+      "url": "story/e76c406b1632.html",
+      "api": "api/v1/clusters/e76c406b1632.json"
+    },
+    {
+      "cluster_id": "bfbbb76e2af8",
+      "headline": "Japan rating agency JCR upgrades India sovereign rating to A- on 7.8% GDP growth",
+      "hook": "Indian companies seeking Japanese capital face a new landscape after a key rating upgrade.",
+      "gist": [
+        "Japan's JCR upgraded India's sovereign credit rating from BBB+ to A-.",
+        "It lowers borrowing costs for Indian firms raising funds from Japanese markets.",
+        "Whether other global rating agencies like S&P and Moody's follow suit."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-05T11:47:46+00:00",
+      "url": "story/bfbbb76e2af8.html",
+      "api": "api/v1/clusters/bfbbb76e2af8.json"
+    },
+    {
+      "cluster_id": "e205864949c0",
+      "headline": "Tata-owned JLR to cut 4,000 UK jobs to save 1.7 billion pounds",
+      "hook": "Tata Motors' luxury unit JLR targets 1.7 billion pounds in cost savings.",
+      "gist": [
+        "JLR is cutting 4,000 UK jobs over two years to reduce costs.",
+        "Parent company Tata Motors faces profitability pressures from weaker global luxury car sales.",
+        "How US tariff policies and voluntary redundancy acceptance rates affect JLR's restructuring."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-05T10:55:17+00:00",
+      "url": "story/e205864949c0.html",
+      "api": "api/v1/clusters/e205864949c0.json"
+    },
+    {
+      "cluster_id": "8654d91febed",
+      "headline": "CBI books Subhash Chandra over alleged ₹1,322 crore loss to LICHFL",
+      "hook": "A state-backed housing finance company faces a ₹1,322 crore loss from defaulted loans.",
+      "gist": [
+        "CBI booked Subhash Chandra for allegedly inflating his net worth to secure LICHFL loans.",
+        "The alleged fraud led to defaults, causing a ₹1,322 crore loss to LICHFL.",
+        "Legal proceedings and potential asset recovery actions under the Insolvency and Bankruptcy Code."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-05T10:03:59+00:00",
+      "url": "story/8654d91febed.html",
+      "api": "api/v1/clusters/8654d91febed.json"
+    },
+    {
+      "cluster_id": "fca3e255b20a",
+      "headline": "GIFT IFSC expands global banking footprint with offshore fundraising",
+      "hook": "Indian businesses secured $54.2 billion in foreign capital through a single specialized financial hub.",
+      "gist": [
+        "GIFT IFSC raised $54.2 billion in overseas funds following regulatory approvals.",
+        "It provides Indian firms with cheaper, direct access to international debt and equity.",
+        "The pace of regulatory easing and future foreign capital inflows into the hub."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-05T09:54:36+00:00",
+      "url": "story/fca3e255b20a.html",
+      "api": "api/v1/clusters/fca3e255b20a.json"
+    },
+    {
+      "cluster_id": "0322442ca6c3",
+      "headline": "SEBI to review settlement price methodology for derivatives amid CAS rollout",
+      "hook": "On September 5, 2026 SEBI announced a review of derivative pricing",
+      "gist": [
+        "SEBI plans to revisit derivative settlement pricing",
+        "The move ties to the new CAS system rollout",
+        "Watch for any rule changes affecting market participants"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-05T09:20:43.430156+00:00",
+      "url": "story/0322442ca6c3.html",
+      "api": "api/v1/clusters/0322442ca6c3.json"
+    },
+    {
+      "cluster_id": "e0181dad09fa",
+      "headline": "FPIs pump over $3.2 billion into Indian equities during August",
+      "hook": "Consumer services and financial firms attracted the bulk of August's foreign inflows.",
+      "gist": [
+        "Foreign portfolio investors pumped over $3.2 billion into Indian equities during August.",
+        "This massive inflow represents the strongest monthly foreign buying since September 2024.",
+        "Whether foreign buying persists in consumer services while telecom and power face outflows."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-05T08:51:57+00:00",
+      "url": "story/e0181dad09fa.html",
+      "api": "api/v1/clusters/e0181dad09fa.json"
+    },
+    {
+      "cluster_id": "aabd43dfacf5",
+      "headline": "Bitcoin hovers near $79,000 as markets await US inflation data",
+      "hook": "Institutional cryptocurrency demand is rising even as Bitcoin hovers near the $79,000 mark.",
+      "gist": [
+        "Bitcoin hovered near $79,000 while major altcoins declined ahead of US inflation data.",
+        "US inflation trends dictate Federal Reserve interest rate decisions, which heavily influence crypto valuations.",
+        "Upcoming US inflation data releases to see if rate-cut expectations will be revived."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-05T08:43:49+00:00",
+      "url": "story/aabd43dfacf5.html",
+      "api": "api/v1/clusters/aabd43dfacf5.json"
+    },
+    {
+      "cluster_id": "773ddecde73f",
+      "headline": "Oil supply shock and slower AI spending could pressure margins from q2fy27",
+      "hook": "Q2fy27 margin pressure targets small‑ and mid‑cap firms, says nuvama",
+      "gist": [
+        "Nuvama flags oil shock and fading AI capex as margin risks from q2fy27",
+        "Margin squeeze could curb earnings of cyclical and small‑mid cap firms",
+        "Watch oil prices, AI spending trends and q2fy27 corporate margins"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-05T07:27:57+00:00",
+      "url": "story/773ddecde73f.html",
+      "api": "api/v1/clusters/773ddecde73f.json"
+    },
+    {
+      "cluster_id": "a0c305c61e69",
+      "headline": "Coal ministry confirms NTPC and TFL applied for Rs 37,500 crore gasification scheme",
+      "hook": "Fifty thousand industrial jobs and domestic urea output hinge on twenty-five planned conversion plants.",
+      "gist": [
+        "Coal ministry confirms NTPC and TFL bid for Rs 37,500 crore gasification incentives.",
+        "The scheme aims to drive 25 cleaner fuel projects and 50,000 new jobs.",
+        "Additional applications before September 7 deadline will determine broader industry uptake."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-05T07:00:14+00:00",
+      "url": "story/a0c305c61e69.html",
+      "api": "api/v1/clusters/a0c305c61e69.json"
+    },
+    {
+      "cluster_id": "c298e3067e20",
+      "headline": "RBI approves LIC to acquire up to 9.99% stake in ICICI Bank",
+      "hook": "LIC secures a one-year window to buy a 9.99% stake in ICICI Bank.",
+      "gist": [
+        "RBI approved LIC to acquire up to 9.99% of ICICI Bank.",
+        "It signals LIC's growing appetite for major private sector banking assets.",
+        "The actual pace and size of LIC's share purchases over the next year."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-05T06:47:15+00:00",
+      "url": "story/c298e3067e20.html",
+      "api": "api/v1/clusters/c298e3067e20.json"
+    },
+    {
+      "cluster_id": "707e2ad9f810",
+      "headline": "FCNR inflows push short-term borrowing costs lower as liquidity rises",
+      "hook": "Foreign currency non-resident deposits are altering the cost of short-term loans for Indian businesses.",
+      "gist": [
+        "FCNR inflows have increased banking system liquidity, lowering short-term borrowing costs.",
+        "Cheaper short-term debt eases corporate funding, but rising liquidity could eventually fuel inflation.",
+        "Whether the Reserve Bank of India intervenes to absorb excess liquidity from the system."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-05T06:32:15+00:00",
+      "url": "story/707e2ad9f810.html",
+      "api": "api/v1/clusters/707e2ad9f810.json"
+    },
+    {
+      "cluster_id": "75921f0ae7da",
+      "headline": "Alternative fuel vehicle sales overtake petrol cars in India for first time",
+      "hook": "August sales data shows petrol cars losing their dominant position in Indian showrooms.",
+      "gist": [
+        "Alternative fuel passenger vehicles outsold petrol-powered cars for the first time in August 2026.",
+        "Government tax cuts and shifting consumer preferences are rapidly reshaping automaker product strategies.",
+        "Future GST policy changes and the expansion of CNG and electric charging infrastructure."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-05T06:30:21+00:00",
+      "url": "story/75921f0ae7da.html",
+      "api": "api/v1/clusters/75921f0ae7da.json"
+    },
+    {
+      "cluster_id": "6cdce4171fbe",
+      "headline": "Nifty slides below 24,000 for fourth consecutive week",
+      "hook": "Four weeks of losses coincide with 7.8% GDP growth",
+      "gist": [
+        "Nifty fell below 24,000 for a fourth week",
+        "Market weakness contrasts with strong GDP growth",
+        "Watch support‑resistance levels and oil price trends"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-05T04:25:18+00:00",
+      "url": "story/6cdce4171fbe.html",
+      "api": "api/v1/clusters/6cdce4171fbe.json"
+    },
+    {
+      "cluster_id": "2f7303b1ef8a",
+      "headline": "India's GDP growth stays resilient as factory output slows and GST climbs",
+      "hook": "GST collection continues its upward streak amid mixed industrial signals",
+      "gist": [
+        "GDP growth remained resilient",
+        "Factory output showed slowdown",
+        "GST collections kept rising"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-05T01:30:17+00:00",
+      "url": "story/2f7303b1ef8a.html",
+      "api": "api/v1/clusters/2f7303b1ef8a.json"
+    },
+    {
+      "cluster_id": "d867082c84b6",
+      "headline": "India's forex reserves hit $740.8bn, boosting rupee and bank liquidity",
+      "hook": "RBI's $136.4 billion dollar inflow strains its liquidity tools",
+      "gist": [
+        "Record reserves lift rupee",
+        "Banks gain extra lending capacity",
+        "Watch RBI's liquidity management"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-05T00:30:00+00:00",
+      "url": "story/d867082c84b6.html",
+      "api": "api/v1/clusters/d867082c84b6.json"
+    },
+    {
+      "cluster_id": "5cd91012fb74",
+      "headline": "US Dollar slides and Yen surges as traders await key inflation data",
+      "hook": "Global currency markets face turbulence in September as the Japanese Yen surges.",
+      "gist": [
+        "The US Dollar fell while the Japanese Yen surged amid shifting interest rate expectations.",
+        "Fluctuations in global currencies alter import costs and foreign investment flows for India.",
+        "Upcoming US inflation data will influence the Federal Reserve's next interest rate decision."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-04T21:59:39+00:00",
+      "url": "story/5cd91012fb74.html",
+      "api": "api/v1/clusters/5cd91012fb74.json"
+    },
+    {
+      "cluster_id": "76063ab85978",
+      "headline": "US yields and dollar rise as robust jobs data fuels Fed rate hike bets",
+      "hook": "Unexpected addition of 162,000 US jobs in August triggers global market shifts.",
+      "gist": [
+        "US economy added 162,000 jobs in August, beating analyst expectations.",
+        "Strong employment data increases the likelihood of a Federal Reserve interest rate hike.",
+        "Upcoming US consumer and producer inflation data will clarify the Fed's next move."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-04T19:28:14+00:00",
+      "url": "story/76063ab85978.html",
+      "api": "api/v1/clusters/76063ab85978.json"
+    },
+    {
+      "cluster_id": "c73cb22f1053",
+      "headline": "US treasury official predicts oil could fall to $40 after Iran war, easing yields",
+      "hook": "India's oil import bill could shrink as crude slides toward $40 per barrel",
+      "gist": [
+        "Oil price forecast to $40",
+        "Lower yields may ease financing costs",
+        "Watch oil prices and bond yields"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-04T19:05:53+00:00",
+      "url": "story/c73cb22f1053.html",
+      "api": "api/v1/clusters/c73cb22f1053.json"
+    },
+    {
+      "cluster_id": "78ac849739ab",
+      "headline": "Income Tax Department widens AIS to track GST returns and foreign investments",
+      "hook": "Unreported off-market securities transactions and foreign remittances now trigger direct tax scrutiny.",
+      "gist": [
+        "Income Tax Department expanded AIS to include GST, overseas investments, and off-market deals.",
+        "Tax authorities gain immediate visibility into previously opaque private transfers and foreign assets.",
+        "Watch whether increased data cross-matching triggers automated notices during upcoming assessment cycles."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-04T18:47:59+00:00",
+      "url": "story/78ac849739ab.html",
+      "api": "api/v1/clusters/78ac849739ab.json"
+    },
+    {
+      "cluster_id": "80b820ca0ff8",
+      "headline": "India signs eight free trade agreements boosting electronics, agriculture, gems exports",
+      "hook": "Eight new FTAs promise duty‑free entry for Indian electronics exporters",
+      "gist": [
+        "India signed eight FTAs granting duty‑free access to key markets.",
+        "Exports in electronics, agriculture and gems could see a boost.",
+        "Watch tariff reductions and export data for impact."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-04T18:31:45+00:00",
+      "url": "story/80b820ca0ff8.html",
+      "api": "api/v1/clusters/80b820ca0ff8.json"
+    }
+  ]
+}
