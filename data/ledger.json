@@ -2448,5 +2448,19 @@
   "entity": "ITC",
   "value": null,
   "cluster_id": "5ce23a86f5ba"
+ },
+ {
+  "date": "2026-09-06",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "a773191ee6ed"
+ },
+ {
+  "date": "2026-09-06",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "a773191ee6ed"
  }
 ]
