@@ -2427,5 +2427,19 @@
   "entity": "Growth",
   "value": "7.80%",
   "cluster_id": "42eb74094598"
+ },
+ {
+  "date": "2026-09-06",
+  "event_type": "policy_rate",
+  "entity": "Nifty",
+  "value": "15%",
+  "cluster_id": "0bc88cebc7e5"
+ },
+ {
+  "date": "2026-09-06",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "a0360c7ee5b1"
  }
 ]
