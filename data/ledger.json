@@ -2392,5 +2392,40 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "e76c406b1632"
+ },
+ {
+  "date": "2026-09-06",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "7a4b00b7a1fc"
+ },
+ {
+  "date": "2026-09-06",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "dc28d8bf92cd"
+ },
+ {
+  "date": "2026-09-06",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "d70195ebf849"
+ },
+ {
+  "date": "2026-09-06",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹7,443 crore",
+  "cluster_id": "e0181dad09fa"
+ },
+ {
+  "date": "2026-09-06",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "7.80%",
+  "cluster_id": "42eb74094598"
  }
 ]
