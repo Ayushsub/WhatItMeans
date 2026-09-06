@@ -2441,5 +2441,12 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "a0360c7ee5b1"
+ },
+ {
+  "date": "2026-09-06",
+  "event_type": "fiscal_action",
+  "entity": "ITC",
+  "value": null,
+  "cluster_id": "5ce23a86f5ba"
  }
 ]
