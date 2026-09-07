@@ -2462,5 +2462,33 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "a773191ee6ed"
+ },
+ {
+  "date": "2026-09-07",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "7a4b00b7a1fc"
+ },
+ {
+  "date": "2026-09-07",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "7a4b00b7a1fc"
+ },
+ {
+  "date": "2026-09-07",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "13cc8f51beba"
+ },
+ {
+  "date": "2026-09-07",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "13cc8f51beba"
  }
 ]
