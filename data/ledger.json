@@ -2518,5 +2518,26 @@
   "entity": "Growth",
   "value": "25%",
   "cluster_id": "7b69ef91fc9b"
+ },
+ {
+  "date": "2026-09-07",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "351105712d24"
+ },
+ {
+  "date": "2026-09-07",
+  "event_type": "policy_rate",
+  "entity": "HDFC Bank",
+  "value": null,
+  "cluster_id": "94b57289c0d4"
+ },
+ {
+  "date": "2026-09-07",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "c34f4b51a563"
  }
 ]
