@@ -2616,5 +2616,12 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "edaa49bfa318"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "f02c4d70752e"
  }
 ]
