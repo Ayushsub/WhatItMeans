@@ -2630,5 +2630,19 @@
   "entity": "Government",
   "value": "₹9,222 crore",
   "cluster_id": "cd7e954e3037"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "policy_rate",
+  "entity": "HDFC Bank",
+  "value": null,
+  "cluster_id": "5aca23335466"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "credit_conditions",
+  "entity": "Nifty",
+  "value": null,
+  "cluster_id": "d99925aee9da"
  }
 ]
