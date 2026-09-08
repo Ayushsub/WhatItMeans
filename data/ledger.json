@@ -2623,5 +2623,12 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "f02c4d70752e"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": "₹9,222 crore",
+  "cluster_id": "cd7e954e3037"
  }
 ]
