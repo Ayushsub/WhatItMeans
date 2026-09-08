@@ -2574,5 +2574,33 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "a872cb9dce5b"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "5c77a5c70153"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "29feb838782f"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "5851f0d8defd"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "0f08c2e3cb97"
  }
 ]
