@@ -2602,5 +2602,19 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "0f08c2e3cb97"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "65d1079f5aad"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "edaa49bfa318"
  }
 ]
