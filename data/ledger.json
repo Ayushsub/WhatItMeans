@@ -2546,5 +2546,26 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "92b61ba4854b"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "policy_rate",
+  "entity": "Infosys",
+  "value": null,
+  "cluster_id": "2c0054011304"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "2c0054011304"
+ },
+ {
+  "date": "2026-09-08",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "56981fa4ee85"
  }
 ]
