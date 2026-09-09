@@ -2644,5 +2644,26 @@
   "entity": "Nifty",
   "value": null,
   "cluster_id": "d99925aee9da"
+ },
+ {
+  "date": "2026-09-09",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "1467692f5e2f"
+ },
+ {
+  "date": "2026-09-09",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "1467692f5e2f"
+ },
+ {
+  "date": "2026-09-09",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "d29ab42fdd3f"
  }
 ]
