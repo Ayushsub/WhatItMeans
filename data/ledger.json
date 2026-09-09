@@ -2700,5 +2700,12 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "93f3b1d173c0"
+ },
+ {
+  "date": "2026-09-09",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "-16%",
+  "cluster_id": "a43f334638b8"
  }
 ]
