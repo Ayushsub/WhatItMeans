@@ -2665,5 +2665,40 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "d29ab42fdd3f"
+ },
+ {
+  "date": "2026-09-09",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "f8cb74f2abb7"
+ },
+ {
+  "date": "2026-09-09",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "f8cb74f2abb7"
+ },
+ {
+  "date": "2026-09-09",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "e8e3f8d6ec71"
+ },
+ {
+  "date": "2026-09-09",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "6ed21da8000c"
+ },
+ {
+  "date": "2026-09-09",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "93f3b1d173c0"
  }
 ]
