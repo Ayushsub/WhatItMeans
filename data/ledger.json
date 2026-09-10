@@ -2791,5 +2791,12 @@
   "entity": "Institutional Flows",
   "value": "₹32,297 crore",
   "cluster_id": "5e46108bf074"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "130ce3793ae9"
  }
 ]
