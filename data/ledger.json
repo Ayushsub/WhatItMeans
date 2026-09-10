@@ -2721,5 +2721,54 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "d588157d14f7"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "policy_rate",
+  "entity": "TCS",
+  "value": null,
+  "cluster_id": "93da67f482fa"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "e8b5be3cbf3e"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "77239d05c105"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "77239d05c105"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": "2.50%",
+  "cluster_id": "82774bbef6f0"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "credit_conditions",
+  "entity": "State Bank of India",
+  "value": "₹10.5 lakh crore",
+  "cluster_id": "fc6a9f86c97c"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "fc08321fe31a"
  }
 ]
