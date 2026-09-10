@@ -2707,5 +2707,19 @@
   "entity": "Credit & Liquidity",
   "value": "-16%",
   "cluster_id": "a43f334638b8"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "policy_rate",
+  "entity": "Nifty",
+  "value": "3.2%",
+  "cluster_id": "d588157d14f7"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "d588157d14f7"
  }
 ]
