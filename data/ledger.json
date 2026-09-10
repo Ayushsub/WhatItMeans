@@ -2770,5 +2770,26 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "fc08321fe31a"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "policy_rate",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "3557a28f806e"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "b8ddfd5030e6"
+ },
+ {
+  "date": "2026-09-10",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹32,297 crore",
+  "cluster_id": "5e46108bf074"
  }
 ]
