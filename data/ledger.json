@@ -2868,5 +2868,19 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "78b22a954ac5"
+ },
+ {
+  "date": "2026-09-11",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "e10ef63fbd9b"
+ },
+ {
+  "date": "2026-09-11",
+  "event_type": "fiscal_action",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "ce42a89bef54"
  }
 ]
