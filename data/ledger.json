@@ -2882,5 +2882,12 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "ce42a89bef54"
+ },
+ {
+  "date": "2026-09-11",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "19.1%",
+  "cluster_id": "ba367476eea0"
  }
 ]
