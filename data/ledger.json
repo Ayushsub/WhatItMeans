@@ -2952,5 +2952,12 @@
   "entity": "Growth",
   "value": "7.8%",
   "cluster_id": "9ca6b4a8644d"
+ },
+ {
+  "date": "2026-09-12",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "4.9%",
+  "cluster_id": "d59f6e12e36c"
  }
 ]
