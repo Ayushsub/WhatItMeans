@@ -2931,5 +2931,26 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "9405647aa725"
+ },
+ {
+  "date": "2026-09-12",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "c6ef1549d2df"
+ },
+ {
+  "date": "2026-09-12",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "ecc0f699e725"
+ },
+ {
+  "date": "2026-09-12",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "7.8%",
+  "cluster_id": "9ca6b4a8644d"
  }
 ]
