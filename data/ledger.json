@@ -2889,5 +2889,40 @@
   "entity": "RBI",
   "value": "19.1%",
   "cluster_id": "ba367476eea0"
+ },
+ {
+  "date": "2026-09-12",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "4fa26df65649"
+ },
+ {
+  "date": "2026-09-12",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "4fa26df65649"
+ },
+ {
+  "date": "2026-09-12",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "19.1%",
+  "cluster_id": "a4c05f2f449d"
+ },
+ {
+  "date": "2026-09-12",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "d5ef938b83de"
+ },
+ {
+  "date": "2026-09-12",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "d5ef938b83de"
  }
 ]
