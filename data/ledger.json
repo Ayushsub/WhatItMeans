@@ -3008,5 +3008,12 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "f8d2ea5f8c9c"
+ },
+ {
+  "date": "2026-09-13",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": "5.25%",
+  "cluster_id": "9a526c15e7d8"
  }
 ]
