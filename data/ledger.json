@@ -2973,5 +2973,12 @@
   "entity": "Inflation",
   "value": "3.4%",
   "cluster_id": "a02c5d08dbeb"
+ },
+ {
+  "date": "2026-09-13",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "cd4cb09da58a"
  }
 ]
