@@ -2959,5 +2959,19 @@
   "entity": "Credit & Liquidity",
   "value": "4.9%",
   "cluster_id": "d59f6e12e36c"
+ },
+ {
+  "date": "2026-09-13",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "a02c5d08dbeb"
+ },
+ {
+  "date": "2026-09-13",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "3.4%",
+  "cluster_id": "a02c5d08dbeb"
  }
 ]
