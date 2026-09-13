@@ -1,0 +1,249 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-13T02:30:54.213944+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 16,
+  "items": [
+    {
+      "cluster_id": "f0dc6118dcfc",
+      "headline": "SEBI price‑band rule lifts foreign ETF prices above NAV",
+      "hook": "Investors face premium risk as SEBI’s new price‑band lifts ETF prices",
+      "gist": [
+        "SEBI introduced a price‑band rule for foreign ETFs.",
+        "Rule pushed ETF market prices above their NAVs.",
+        "Investors risk losses if the artificial premium collapses."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-13T01:30:23+00:00",
+      "url": "story/f0dc6118dcfc.html",
+      "api": "api/v1/clusters/f0dc6118dcfc.json"
+    },
+    {
+      "cluster_id": "d3fcfa5dd31f",
+      "headline": "Mutual fund investments remain protected when asset management firms shut down",
+      "hook": "Underlying securities and investor units survive an asset management company closure intact.",
+      "gist": [
+        "Fund house closures do not wipe out underlying mutual fund unit holdings.",
+        "Trustees and custodians hold securities separately from the fund management business.",
+        "Watch regulatory approvals for scheme transfers or liquidation timelines during windups."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T15:59:03+00:00",
+      "url": "story/d3fcfa5dd31f.html",
+      "api": "api/v1/clusters/d3fcfa5dd31f.json"
+    },
+    {
+      "cluster_id": "b278f0bad79d",
+      "headline": "US imposes 123% anti-dumping and 126% countervailing duties on Indian solar cells",
+      "hook": "Indian solar exporters face over 120% tariffs on US shipments",
+      "gist": [
+        "US levies over 120% duties on Indian solar cell imports.",
+        "Indian exporters confront higher costs and possible sales decline.",
+        "Watch for export volumes and domestic pricing adjustments."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T14:54:48+00:00",
+      "url": "story/b278f0bad79d.html",
+      "api": "api/v1/clusters/b278f0bad79d.json"
+    },
+    {
+      "cluster_id": "4fc32b72a94a",
+      "headline": "RBI rejects Tata Sons' NBFC deregistration, mandates public listing",
+      "hook": "Tata Sons must list by September 2025 after RBI's rejection",
+      "gist": [
+        "RBI denied Tata Sons' request to surrender NBFC status",
+        "Group must comply with Upper Layer listing rule",
+        "Watch for Tata Sons' IPO timeline"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T13:37:53+00:00",
+      "url": "story/4fc32b72a94a.html",
+      "api": "api/v1/clusters/4fc32b72a94a.json"
+    },
+    {
+      "cluster_id": "194177d26175",
+      "headline": "Hdfc bank submits two candidates for md & ceo to RBI",
+      "hook": "Two candidates vie for hdfc bank's top job as jagdishan exits",
+      "gist": [
+        "Board proposes two successors",
+        "Leadership change could shift strategy",
+        "Watch RBI approval and market response"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T11:28:07+00:00",
+      "url": "story/194177d26175.html",
+      "api": "api/v1/clusters/194177d26175.json"
+    },
+    {
+      "cluster_id": "d92bdba5190b",
+      "headline": "PFRDA plans mobile pension accounts for informal workers via UPI and e-Shram",
+      "hook": "Millions of unregistered laborers could soon build retirement savings directly from their mobile phones.",
+      "gist": [
+        "PFRDA plans to let informal workers open pension accounts via mobile phones.",
+        "It simplifies retirement savings for millions of unorganized workers using UPI.",
+        "The rollout of the digital platform and integration with the e-Shram database."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-12T09:55:10+00:00",
+      "url": "story/d92bdba5190b.html",
+      "api": "api/v1/clusters/d92bdba5190b.json"
+    },
+    {
+      "cluster_id": "7f3b7dccd125",
+      "headline": "Bitcoin hovers near $77,000 as profit‑taking eases gains",
+      "hook": "Profit‑taking after bitcoin touched $78,000 pushes price to $77,000",
+      "gist": [
+        "Bitcoin slipped to $77,000 after brief rally",
+        "Price pullback may affect crypto‑related earnings",
+        "Watch US Fed policy and crypto market breadth"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T08:40:52+00:00",
+      "url": "story/7f3b7dccd125.html",
+      "api": "api/v1/clusters/7f3b7dccd125.json"
+    },
+    {
+      "cluster_id": "9ca6b4a8644d",
+      "headline": "India's GDP numbers face political controversy over revisions",
+      "hook": "A 7.8% growth print sparked a debate between government and opposition",
+      "gist": [
+        "India reported 7.8% GDP growth, prompting dispute.",
+        "Dispute may affect confidence in economic data.",
+        "Watch for further revisions and official statements."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T08:05:53+00:00",
+      "url": "story/9ca6b4a8644d.html",
+      "api": "api/v1/clusters/9ca6b4a8644d.json"
+    },
+    {
+      "cluster_id": "709156b1ef0b",
+      "headline": "SEBI launches Demat 2.0 pilot for tokenised corporate bonds",
+      "hook": "IIFL Finance issues India's first tokenised corporate bond under a new regulatory pilot.",
+      "gist": [
+        "SEBI launched a Demat 2.0 pilot to tokenise corporate bonds.",
+        "It automates interest payments and enables instant settlement for bond investors.",
+        "Watch the expansion of this pilot to more issuers and secondary market trading."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-12T07:54:36+00:00",
+      "url": "story/709156b1ef0b.html",
+      "api": "api/v1/clusters/709156b1ef0b.json"
+    },
+    {
+      "cluster_id": "f594cad3bf94",
+      "headline": "SEBI proposes two options for expiry‑day derivatives settlement and auction timing",
+      "hook": "Five new rules target the 30‑minute closing auction on Sep 12",
+      "gist": [
+        "SEBI released a consultation on new CAS rules",
+        "Changes affect how expiry‑day derivatives settle",
+        "Watch which settlement method is adopted"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T06:45:56+00:00",
+      "url": "story/f594cad3bf94.html",
+      "api": "api/v1/clusters/f594cad3bf94.json"
+    },
+    {
+      "cluster_id": "7060df39d9bc",
+      "headline": "Global commodity markets face shifts as de-dollarisation trends emerge",
+      "hook": "Global trade in crude oil and gold faces a shift away from US dollar dominance.",
+      "gist": [
+        "Global trade explores alternatives to the US dollar for pricing major commodities.",
+        "Indian importers could bypass dollar conversion costs when buying crude oil and metals.",
+        "The adoption rate of local currency settlement systems in bilateral trade agreements."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T05:04:02+00:00",
+      "url": "story/7060df39d9bc.html",
+      "api": "api/v1/clusters/7060df39d9bc.json"
+    },
+    {
+      "cluster_id": "d59f6e12e36c",
+      "headline": "US 10-year Treasury yield nears 5% as Yes Securities downplays market risk",
+      "hook": "US Treasury yield at 4.9% triggers debate among Indian investors",
+      "gist": [
+        "US 10-year yield rose above 4.9%",
+        "Yes Securities says market fears are overstated",
+        "Watch rupee, bond yields and capital flows"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T05:01:48+00:00",
+      "url": "story/d59f6e12e36c.html",
+      "api": "api/v1/clusters/d59f6e12e36c.json"
+    },
+    {
+      "cluster_id": "17f326c15e7f",
+      "headline": "RBI to reassess growth and inflation after crude price shock",
+      "hook": "RBI’s Monetary Policy Committee faces a crude price shock",
+      "gist": [
+        "RBI governor says MPC will review outlook next month",
+        "Crude price surge could pressure inflation and growth",
+        "Watch RBI’s policy decision and inflation data"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T04:35:21+00:00",
+      "url": "story/17f326c15e7f.html",
+      "api": "api/v1/clusters/17f326c15e7f.json"
+    },
+    {
+      "cluster_id": "a02c5d08dbeb",
+      "headline": "Us august CPI rises 3.4% yoy, boosting fed rate hike odds",
+      "hook": "August CPI jump of 3.4% fuels Fed’s rate‑hike speculation",
+      "gist": [
+        "CPI up 3.4% yoy in august",
+        "Higher inflation pushes fed toward tighter policy",
+        "Watch fed decision and dollar‑rupee moves"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-12T04:03:45+00:00",
+      "url": "story/a02c5d08dbeb.html",
+      "api": "api/v1/clusters/a02c5d08dbeb.json"
+    },
+    {
+      "cluster_id": "5abd8bdbad96",
+      "headline": "Rupee falls to 95.55 as crude oil climbs to 105 dollars amid geopolitical tensions",
+      "hook": "Importers face higher costs after the currency slipped eleven paise on Friday.",
+      "gist": [
+        "The Indian rupee fell eleven paise to close at 95.55 against the US dollar.",
+        "Costlier crude oil at 105 dollars per barrel increases India's import bill and inflation.",
+        "Watch geopolitical tensions in the Strait of Hormuz and global crude oil price movements."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-12T02:45:59+00:00",
+      "url": "story/5abd8bdbad96.html",
+      "api": "api/v1/clusters/5abd8bdbad96.json"
+    },
+    {
+      "cluster_id": "992d53820832",
+      "headline": "Indian equities fall for fifth straight week as oil and US yields pressure sentiment",
+      "hook": "The Nifty 50 index slipped to 23,398 as domestic equities faced a fifth weekly decline.",
+      "gist": [
+        "Indian benchmark indices fell for the fifth consecutive week amid global pressures.",
+        "Rising US bond yields and crude oil prices are squeezing domestic market liquidity.",
+        "Watch if cooling oil prices trigger a short-term rebound from oversold levels."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-12T02:42:24+00:00",
+      "url": "story/992d53820832.html",
+      "api": "api/v1/clusters/992d53820832.json"
+    }
+  ]
+}
