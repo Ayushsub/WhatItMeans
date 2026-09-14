@@ -3092,5 +3092,12 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "0565ecac09d0"
+ },
+ {
+  "date": "2026-09-14",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "493620efb378"
  }
 ]
