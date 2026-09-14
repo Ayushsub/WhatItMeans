@@ -3015,5 +3015,33 @@
   "entity": "Interest Rates",
   "value": "5.25%",
   "cluster_id": "9a526c15e7d8"
+ },
+ {
+  "date": "2026-09-14",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "933d017aa55a"
+ },
+ {
+  "date": "2026-09-14",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "933d017aa55a"
+ },
+ {
+  "date": "2026-09-14",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "ae50d1e0d994"
+ },
+ {
+  "date": "2026-09-14",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹32,297 crore",
+  "cluster_id": "99583197ccd6"
  }
 ]
