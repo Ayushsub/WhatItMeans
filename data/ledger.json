@@ -3078,5 +3078,19 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "954b95209792"
+ },
+ {
+  "date": "2026-09-14",
+  "event_type": "policy_rate",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "cce2e9a11718"
+ },
+ {
+  "date": "2026-09-14",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "0565ecac09d0"
  }
 ]
