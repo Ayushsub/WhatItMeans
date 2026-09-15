@@ -3099,5 +3099,26 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "493620efb378"
+ },
+ {
+  "date": "2026-09-15",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": "90%",
+  "cluster_id": "277afeb12913"
+ },
+ {
+  "date": "2026-09-15",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "277afeb12913"
+ },
+ {
+  "date": "2026-09-15",
+  "event_type": "policy_rate",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "e1dc29cbd96b"
  }
 ]
