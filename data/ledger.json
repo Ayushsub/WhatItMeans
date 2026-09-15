@@ -3134,5 +3134,40 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "ccf15c1cdf12"
+ },
+ {
+  "date": "2026-09-15",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "ae560929200e"
+ },
+ {
+  "date": "2026-09-15",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "dcc04c3b0f7e"
+ },
+ {
+  "date": "2026-09-15",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "24a8df2e840a"
+ },
+ {
+  "date": "2026-09-15",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "43f183eb0eca"
+ },
+ {
+  "date": "2026-09-15",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹1,415 crore",
+  "cluster_id": "b74c467f2d28"
  }
 ]
