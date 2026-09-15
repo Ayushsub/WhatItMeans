@@ -3169,5 +3169,12 @@
   "entity": "Fiscal & Budget",
   "value": "₹1,415 crore",
   "cluster_id": "b74c467f2d28"
+ },
+ {
+  "date": "2026-09-15",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "b97b20028990"
  }
 ]
