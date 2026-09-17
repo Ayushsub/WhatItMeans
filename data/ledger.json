@@ -3316,5 +3316,33 @@
   "entity": "RBI",
   "value": "6.94%",
   "cluster_id": "c58d1d402a32"
+ },
+ {
+  "date": "2026-09-17",
+  "event_type": "fiscal_action",
+  "entity": "Nifty",
+  "value": null,
+  "cluster_id": "ae9eedab7060"
+ },
+ {
+  "date": "2026-09-17",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "9c2c4ca0bd21"
+ },
+ {
+  "date": "2026-09-17",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "9ac0a450b005"
+ },
+ {
+  "date": "2026-09-17",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "350ca3a10111"
  }
 ]
