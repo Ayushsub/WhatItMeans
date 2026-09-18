@@ -3344,5 +3344,61 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "350ca3a10111"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "4%",
+  "cluster_id": "95ec1813001c"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "95ec1813001c"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "₹50,000 crore",
+  "cluster_id": "2a0bd1510e29"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "37c174c8a1f5"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "8cce165fc972"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "7a06149e9fcd"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "88af9b7b2b2c"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "08e6ac95c60f"
  }
 ]
