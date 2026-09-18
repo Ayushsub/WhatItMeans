@@ -3421,5 +3421,12 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "7fa2c0fcb2ae"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "efd028839b73"
  }
 ]
