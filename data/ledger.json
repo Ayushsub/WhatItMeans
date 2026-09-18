@@ -3400,5 +3400,26 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "08e6ac95c60f"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "policy_rate",
+  "entity": "Global Indices",
+  "value": "1.25%",
+  "cluster_id": "d8e1255a16c1"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "credit_conditions",
+  "entity": "HDFC Bank",
+  "value": null,
+  "cluster_id": "22168819e126"
+ },
+ {
+  "date": "2026-09-18",
+  "event_type": "policy_rate",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "7fa2c0fcb2ae"
  }
 ]
