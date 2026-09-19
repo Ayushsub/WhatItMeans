@@ -3428,5 +3428,26 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "efd028839b73"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "8cc18c2eb8ef"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "₹52,154 crore",
+  "cluster_id": "8cc18c2eb8ef"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "3e09b7081957"
  }
 ]
