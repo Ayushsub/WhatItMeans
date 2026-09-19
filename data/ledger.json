@@ -3449,5 +3449,19 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "3e09b7081957"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "f57404dc7f2d"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "f57404dc7f2d"
  }
 ]
