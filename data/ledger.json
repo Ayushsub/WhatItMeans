@@ -3463,5 +3463,40 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "f57404dc7f2d"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "e42528997dc3"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "ef0c947a5fbf"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "f5ac242f1f7c"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "5b99c5388a8f"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "6c842dd171df"
  }
 ]
