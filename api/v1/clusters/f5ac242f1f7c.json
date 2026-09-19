@@ -1,0 +1,109 @@
+{
+  "cluster_id": "f5ac242f1f7c",
+  "analysis": {
+    "headline": "Bank credit growth hits eight-quarter high as deposits lag",
+    "hook": "Lenders face a widening funding gap as credit growth hits an eight-quarter high.",
+    "gist": [
+      "Bank credit growth reached an eight-quarter high while deposit growth lagged behind.",
+      "This widening credit-deposit gap increases funding pressure and borrowing costs for Indian banks.",
+      "Whether banks raise deposit rates or slow down lending to manage the gap."
+    ],
+    "what_happened": "According to a report published on September 19, 2026, Indian bank credit growth reached an eight-quarter high, driven significantly by lending to the finance sector and Non-Banking Financial Companies (NBFCs). However, deposit growth grew at a slower pace during this period. This mismatch has widened the credit-deposit gap, increasing funding pressure across the banking sector, particularly for public sector banks which saw higher credit expansion.",
+    "who_is_affected": [
+      {
+        "group": "bank depositors",
+        "effect": "They may see higher interest rates on their savings as banks compete to attract funds."
+      },
+      {
+        "group": "Non-Banking Financial Companies (NBFCs)",
+        "effect": "They might face higher borrowing costs or tighter credit availability if banks slow down lending to manage funding gaps."
+      },
+      {
+        "group": "public sector banks",
+        "effect": "They face immediate pressure to raise deposits to sustain their higher credit growth rates."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Banking & Financials",
+        "direction": "mixed",
+        "why": "While high credit growth boosts loan interest income, lagging deposits force banks to raise high-cost wholesale funds, squeezing net interest margins."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "Bank credit growth outpaces deposit growth",
+        "Banks face a widening credit-deposit funding gap",
+        "Lenders are forced to raise retail deposit rates or rely on costlier wholesale funding",
+        "Higher funding costs squeeze banks' net interest margins and profitability"
+      ],
+      "explanation": "When loan demand rises faster than deposit accumulation, banks run low on cheap funds to lend. To bridge this gap, they must either raise interest rates on retail deposits to attract more savers or borrow from costlier wholesale markets. This increase in funding costs typically takes one to two quarters to fully reflect in banks' balance sheets, ultimately putting downward pressure on their net interest margins unless they can pass the costs onto borrowers.",
+      "time_horizon": "quarters"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Bulls argue that strong credit growth, especially driven by public sector banks and NBFCs, reflects robust economic activity and will boost interest income.",
+      "depends_on": [
+        "sustained credit demand from productive sectors",
+        "gradual recovery in retail deposit growth without sharp rate hikes"
+      ]
+    },
+    "bear_case": {
+      "argument": "Bears argue that the widening credit-deposit gap will force banks into a costly rate war for deposits, severely compressing net interest margins.",
+      "depends_on": [
+        "deposits remaining sluggish as savers seek higher returns elsewhere",
+        "regulatory intervention if credit-to-deposit ratios stretch too far"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Bank deposit growth rates",
+        "why_it_matters": "Validates whether the funding gap is narrowing or if banks will have to raise deposit rates further.",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Net Interest Margins (NIMs) of major banks",
+        "why_it_matters": "Shows the actual impact of the funding pressure on bank profitability.",
+        "when": "next quarterly earnings"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "The analysis is based on a single news report summarizing industry credit and deposit trends, though the underlying economic mechanisms are well-established.",
+    "jargon": [
+      {
+        "term": "credit-deposit gap",
+        "plain_meaning": "The difference between the total amount of loans a bank has given out and the total deposits it has gathered."
+      },
+      {
+        "term": "NBFCs",
+        "plain_meaning": "Non-Banking Financial Companies, which are financial institutions that offer bank-like services but do not hold a banking license."
+      },
+      {
+        "term": "wholesale funding",
+        "plain_meaning": "Large-scale borrowing by banks from institutional investors or other financial institutions, rather than from retail depositors."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [],
+    "tickers": [],
+    "sectors": [
+      "Banking & Financials"
+    ],
+    "macro_themes": [
+      "Credit & Liquidity"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Economic Times",
+      "headline": "Bank credit growth hits 8-quarter high, widens funding gap as deposits lag: Report",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-credit-growth-hits-8-quarter-high-widens-funding-gap-as-deposits-lag-report/articleshow/134350337.cms",
+      "published_at": "2026-09-19T08:01:30+00:00"
+    }
+  ],
+  "published_at": "2026-09-19T08:01:30Z",
+  "updated_at": "2026-09-19T09:47:50.088820Z",
+  "confidence": "medium",
+  "tier": "free"
+}

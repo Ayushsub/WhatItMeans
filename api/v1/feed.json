@@ -1,0 +1,264 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-19T17:06:24.314382+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 17,
+  "items": [
+    {
+      "cluster_id": "cd2f4a01a86c",
+      "headline": "Assam tea incentive scheme adds Rs 3/kg bonus for single‑origin exports",
+      "hook": "Rs 3 per kilogram bonus lifts GTAC‑linked CTC tea export margins",
+      "gist": [
+        "Assam offers Rs 3/kg bonus for single‑origin tea exports.",
+        "Export subsidies for Orthodox and Specialty teas are also increased.",
+        "The move aims to boost GTAC‑linked CTC export volumes."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T12:42:03+00:00",
+      "url": "story/cd2f4a01a86c.html",
+      "api": "api/v1/clusters/cd2f4a01a86c.json"
+    },
+    {
+      "cluster_id": "7b8f71eb0d6d",
+      "headline": "Canada expects india trade pact by year-end focusing on energy",
+      "hook": "Canada's trade minister cites upcoming LNG talks as key to deal",
+      "gist": [
+        "Canada aims to seal trade pact by year‑end",
+        "Energy sector, especially LNG, could see expanded ties",
+        "Watch for agreement signing and tariff details"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T12:14:21+00:00",
+      "url": "story/7b8f71eb0d6d.html",
+      "api": "api/v1/clusters/7b8f71eb0d6d.json"
+    },
+    {
+      "cluster_id": "c0bf57be5693",
+      "headline": "Bitcoin climbs back to $80,000 as crypto rebounds despite hawkish fed",
+      "hook": "Indian crypto traders see bitcoin hit $80,000 amid US rate tension",
+      "gist": [
+        "Bitcoin reclaimed $80,000 and ethereum near $2,620",
+        "Crypto rally defied hawkish fed and regulatory doubts",
+        "Watch US rate moves and CLARITY Act progress"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T09:39:17+00:00",
+      "url": "story/c0bf57be5693.html",
+      "api": "api/v1/clusters/c0bf57be5693.json"
+    },
+    {
+      "cluster_id": "453003be0ca7",
+      "headline": "US and India trade relations see tariff changes and legal hurdles since April 2025",
+      "hook": "Indian exporters face unpredictable trade rules following US Supreme Court decisions since April 2025.",
+      "gist": [
+        "US and India experienced tariff fluctuations and trade framework negotiations since April 2025.",
+        "Unstable trade policies create pricing and supply chain uncertainty for Indian export-oriented businesses.",
+        "Watch the implementation of the trade framework and future US judicial rulings."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T09:09:21+00:00",
+      "url": "story/453003be0ca7.html",
+      "api": "api/v1/clusters/453003be0ca7.json"
+    },
+    {
+      "cluster_id": "f5ac242f1f7c",
+      "headline": "Bank credit growth hits eight-quarter high as deposits lag",
+      "hook": "Lenders face a widening funding gap as credit growth hits an eight-quarter high.",
+      "gist": [
+        "Bank credit growth reached an eight-quarter high while deposit growth lagged behind.",
+        "This widening credit-deposit gap increases funding pressure and borrowing costs for Indian banks.",
+        "Whether banks raise deposit rates or slow down lending to manage the gap."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T08:01:30+00:00",
+      "url": "story/f5ac242f1f7c.html",
+      "api": "api/v1/clusters/f5ac242f1f7c.json"
+    },
+    {
+      "cluster_id": "ce36db5f0ee1",
+      "headline": "Elon Musk says AI could lift US GDP growth to 4% next year",
+      "hook": "US AI investment faces capital hurdles despite projected 4% growth",
+      "gist": [
+        "Elon Musk cites AI could double US growth to 4%",
+        "Capital constraints could limit AI rollout",
+        "Implications for Indian tech demand and capital markets"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T05:32:25+00:00",
+      "url": "story/ce36db5f0ee1.html",
+      "api": "api/v1/clusters/ce36db5f0ee1.json"
+    },
+    {
+      "cluster_id": "27f906f61b79",
+      "headline": "Rising US Treasury yields could pressure Indian midcap valuations",
+      "hook": "Midcap stocks at record highs face valuation pressure from US yields",
+      "gist": [
+        "Midcap and smallcap stocks hit record highs",
+        "US yields rising may compress equity multiples",
+        "Watch US yield moves and FII flows"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T05:18:45+00:00",
+      "url": "story/27f906f61b79.html",
+      "api": "api/v1/clusters/27f906f61b79.json"
+    },
+    {
+      "cluster_id": "159ff1357428",
+      "headline": "Harish Salve says Tata Sons' legal position perfect, backs public listing",
+      "hook": "Top lawyer deems Tata Sons' legal stance perfect amid trust row",
+      "gist": [
+        "Tata Sons' legal position declared perfect",
+        "Listing could resolve governance deadlock",
+        "Watch RBI response and IPO filings"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T04:53:18+00:00",
+      "url": "story/159ff1357428.html",
+      "api": "api/v1/clusters/159ff1357428.json"
+    },
+    {
+      "cluster_id": "c991743b91af",
+      "headline": "Us two-year treasury yield reaches highest level since 2024",
+      "hook": "Two-year yield hits highest since 2024 amid Fed hike expectations",
+      "gist": [
+        "Two-year US Treasury yield rose to its highest since 2024",
+        "Signals market expects further Fed rate hikes and persistent inflation",
+        "Watch upcoming Fed statements and oil price movements"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T04:21:41+00:00",
+      "url": "story/c991743b91af.html",
+      "api": "api/v1/clusters/c991743b91af.json"
+    },
+    {
+      "cluster_id": "ab388c6fdcb3",
+      "headline": "India's forex reserves fall $4.9bn to $780.7bn as rupee steadies",
+      "hook": "RBI sold dollars to lift rupee to 95.87 amid falling reserves",
+      "gist": [
+        "Forex reserves dropped $4.9bn to $780.7bn.",
+        "Rupee rose to 95.87 after RBI intervention.",
+        "Watch RBI's capacity to support the currency."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T04:07:15+00:00",
+      "url": "story/ab388c6fdcb3.html",
+      "api": "api/v1/clusters/ab388c6fdcb3.json"
+    },
+    {
+      "cluster_id": "3e09b7081957",
+      "headline": "GST cuts lower dishwasher prices, spurring sales growth in India",
+      "hook": "Tier II cities drive dishwasher demand after GST cut lowers prices",
+      "gist": [
+        "GST rate cut reduces dishwasher prices",
+        "Lower prices boost consumer uptake of dishwashers",
+        "Watch GST policy and Tier II sales data"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T01:56:33+00:00",
+      "url": "story/3e09b7081957.html",
+      "api": "api/v1/clusters/3e09b7081957.json"
+    },
+    {
+      "cluster_id": "6c842dd171df",
+      "headline": "Anthropic eyes new model launch ahead of IPO as revenue nears $100 billion",
+      "hook": "A $2 billion safety pact accompanies an antitrust lawsuit challenging development pauses.",
+      "gist": [
+        "Anthropic plans a new model launch ahead of its planned public market debut.",
+        "Commercial expansion faces antitrust lawsuits alongside heavy enterprise investments in safety evaluation.",
+        "Court outcomes and enterprise adoption figures ahead of the initial public offering."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-19T01:53:18+00:00",
+      "url": "story/6c842dd171df.html",
+      "api": "api/v1/clusters/6c842dd171df.json"
+    },
+    {
+      "cluster_id": "2d85e07cdf97",
+      "headline": "Iex day-ahead power price reaches ₹20 per unit ceiling",
+      "hook": "September’s surge pushes iex price to the ₹20 per unit cap",
+      "gist": [
+        "Prices hit ₹20/unit ceiling",
+        "Tight supply and strong demand drove spike",
+        "Watch future demand and supply balance"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-19T01:29:28+00:00",
+      "url": "story/2d85e07cdf97.html",
+      "api": "api/v1/clusters/2d85e07cdf97.json"
+    },
+    {
+      "cluster_id": "ef0c947a5fbf",
+      "headline": "Trump signs sanctions law opening door to 100% tariffs on India",
+      "hook": "Indian exporters face the threat of 100% tariffs on US shipments.",
+      "gist": [
+        "US President Trump signed a law enabling 100% tariffs on Russian oil buyers.",
+        "India faces potential trade penalties but the White House retains flexible waiver power.",
+        "What to watch is whether the US enforces these tariffs or uses them as leverage."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-19T00:39:46+00:00",
+      "url": "story/ef0c947a5fbf.html",
+      "api": "api/v1/clusters/ef0c947a5fbf.json"
+    },
+    {
+      "cluster_id": "c287281c63da",
+      "headline": "Draft note proposes rupee payments for SEZ services to domestic buyers",
+      "hook": "SEZ firms could receive payments in rupees instead of dollars",
+      "gist": [
+        "Draft note suggests rupee settlement for SEZ services",
+        "Could reduce foreign‑exchange outflow and ease pricing for domestic buyers",
+        "Watch implementation details and market response"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-18T19:16:54+00:00",
+      "url": "story/c287281c63da.html",
+      "api": "api/v1/clusters/c287281c63da.json"
+    },
+    {
+      "cluster_id": "5b99c5388a8f",
+      "headline": "Dollar rises against yen as BOJ dissent clouds rate hike path",
+      "hook": "Japanese policymakers are divided over raising interest rates despite surging producer prices.",
+      "gist": [
+        "The US dollar rose against the yen following dissent within the Bank of Japan.",
+        "Uncertainty over Japanese interest rates impacts global capital flows and currency markets.",
+        "Japanese inflation data and potential currency interventions by government officials."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-18T19:14:11+00:00",
+      "url": "story/5b99c5388a8f.html",
+      "api": "api/v1/clusters/5b99c5388a8f.json"
+    },
+    {
+      "cluster_id": "efd028839b73",
+      "headline": "States urged to raise capex to 3% of GSDP by FY32",
+      "hook": "Revenue secretary pushes 3% capex target for states by FY32",
+      "gist": [
+        "Revenue secretary urges states to lift capex to 3% of GSDP by FY32",
+        "Higher state investment could spur infrastructure growth and private sector activity",
+        "Actual state capex share, fiscal transfers, and private project pipelines"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-18T17:48:22+00:00",
+      "url": "story/efd028839b73.html",
+      "api": "api/v1/clusters/efd028839b73.json"
+    }
+  ]
+}
