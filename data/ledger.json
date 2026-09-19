@@ -3498,5 +3498,19 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "6c842dd171df"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "bbe8b134c002"
+ },
+ {
+  "date": "2026-09-19",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "27f906f61b79"
  }
 ]
