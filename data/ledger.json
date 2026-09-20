@@ -3533,5 +3533,33 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "6e65916b2185"
+ },
+ {
+  "date": "2026-09-20",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "99d74eec2f77"
+ },
+ {
+  "date": "2026-09-20",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "99d74eec2f77"
+ },
+ {
+  "date": "2026-09-20",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "6ce3a8d32d6c"
+ },
+ {
+  "date": "2026-09-20",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "6ce3a8d32d6c"
  }
 ]
