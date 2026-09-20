@@ -3512,5 +3512,26 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "27f906f61b79"
+ },
+ {
+  "date": "2026-09-20",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "₹52,154 crore",
+  "cluster_id": "0ba47e852886"
+ },
+ {
+  "date": "2026-09-20",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "0ba47e852886"
+ },
+ {
+  "date": "2026-09-20",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "6e65916b2185"
  }
 ]
