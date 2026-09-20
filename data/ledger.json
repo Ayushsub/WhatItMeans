@@ -3568,5 +3568,19 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "2435a5d9b7c6"
+ },
+ {
+  "date": "2026-09-20",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "04001133c9b9"
+ },
+ {
+  "date": "2026-09-20",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "04001133c9b9"
  }
 ]
