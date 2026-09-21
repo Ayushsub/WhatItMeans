@@ -3610,5 +3610,19 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "374fe5007241"
+ },
+ {
+  "date": "2026-09-21",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "546e55041bba"
+ },
+ {
+  "date": "2026-09-21",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "546e55041bba"
  }
 ]
