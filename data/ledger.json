@@ -3666,5 +3666,12 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "e4743321c575"
+ },
+ {
+  "date": "2026-09-21",
+  "event_type": "policy_rate",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "8350e08041f2"
  }
 ]
