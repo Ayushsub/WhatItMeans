@@ -3582,5 +3582,33 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "04001133c9b9"
+ },
+ {
+  "date": "2026-09-21",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "e85814130717"
+ },
+ {
+  "date": "2026-09-21",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "₹52,154 crore",
+  "cluster_id": "e85814130717"
+ },
+ {
+  "date": "2026-09-21",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "1d62131a246e"
+ },
+ {
+  "date": "2026-09-21",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "374fe5007241"
  }
 ]
