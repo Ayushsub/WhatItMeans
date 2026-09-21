@@ -3624,5 +3624,26 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "546e55041bba"
+ },
+ {
+  "date": "2026-09-21",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "b68c6fad0655"
+ },
+ {
+  "date": "2026-09-21",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "e8f1e6193d03"
+ },
+ {
+  "date": "2026-09-21",
+  "event_type": "credit_conditions",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "e8f1e6193d03"
  }
 ]
