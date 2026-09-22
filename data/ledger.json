@@ -3708,5 +3708,47 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "48bfd5ad7726"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "a0fdb6965c60"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "2385587e6d6a"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "98a78801f1be"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "11ba7198213c"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "fiscal_action",
+  "entity": "Maruti Suzuki",
+  "value": null,
+  "cluster_id": "ca2ae624f367"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": "₹1,092 crore",
+  "cluster_id": "20836f3f881f"
  }
 ]
