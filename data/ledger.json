@@ -3764,5 +3764,19 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "11f52b37c90d"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "b000620408d1"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "b000620408d1"
  }
 ]
