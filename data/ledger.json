@@ -3750,5 +3750,19 @@
   "entity": "SEBI",
   "value": "₹1,092 crore",
   "cluster_id": "20836f3f881f"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "6db8d3dae944"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "11f52b37c90d"
  }
 ]
