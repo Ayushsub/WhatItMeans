@@ -3673,5 +3673,19 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "8350e08041f2"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "a84525e6deee"
+ },
+ {
+  "date": "2026-09-22",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "a84525e6deee"
  }
 ]
