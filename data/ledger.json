@@ -3778,5 +3778,26 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "b000620408d1"
+ },
+ {
+  "date": "2026-09-23",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "98%",
+  "cluster_id": "fd886fde6a60"
+ },
+ {
+  "date": "2026-09-23",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "98%",
+  "cluster_id": "fd886fde6a60"
+ },
+ {
+  "date": "2026-09-23",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "₹5 lakh",
+  "cluster_id": "2ef22d5bcbb5"
  }
 ]
