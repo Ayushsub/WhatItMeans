@@ -3876,5 +3876,12 @@
   "entity": "State Bank of India",
   "value": null,
   "cluster_id": "cbf4220fdc9c"
+ },
+ {
+  "date": "2026-09-24",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "99adaa9a26ac"
  }
 ]
