@@ -3918,5 +3918,19 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "4e7a51372965"
+ },
+ {
+  "date": "2026-09-24",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹25 lakh",
+  "cluster_id": "da463a035629"
+ },
+ {
+  "date": "2026-09-24",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": "₹25 lakh",
+  "cluster_id": "da463a035629"
  }
 ]
