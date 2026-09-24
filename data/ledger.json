@@ -3932,5 +3932,12 @@
   "entity": "SEBI",
   "value": "₹25 lakh",
   "cluster_id": "da463a035629"
+ },
+ {
+  "date": "2026-09-24",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹1,000 crore",
+  "cluster_id": "abae7b6b0d95"
  }
 ]
