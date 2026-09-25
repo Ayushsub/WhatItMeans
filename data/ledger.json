@@ -4016,5 +4016,12 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "d894120c9281"
+ },
+ {
+  "date": "2026-09-25",
+  "event_type": "fiscal_action",
+  "entity": "RBI",
+  "value": "₹3.2 lakh",
+  "cluster_id": "202343a4ee8c"
  }
 ]
