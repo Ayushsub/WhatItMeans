@@ -3939,5 +3939,19 @@
   "entity": "Fiscal & Budget",
   "value": "₹1,000 crore",
   "cluster_id": "abae7b6b0d95"
+ },
+ {
+  "date": "2026-09-25",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "49f97c4b16b8"
+ },
+ {
+  "date": "2026-09-25",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "49f97c4b16b8"
  }
 ]
