@@ -3953,5 +3953,26 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "49f97c4b16b8"
+ },
+ {
+  "date": "2026-09-25",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "326472a4091d"
+ },
+ {
+  "date": "2026-09-25",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "4067356ce91b"
+ },
+ {
+  "date": "2026-09-25",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "b966337033c7"
  }
 ]
