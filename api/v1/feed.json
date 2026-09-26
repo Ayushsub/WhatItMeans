@@ -1,0 +1,279 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-26T15:05:44.198518+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 18,
+  "items": [
+    {
+      "cluster_id": "8302f8703ce8",
+      "headline": "10-year US Treasury yield hits 19-year high",
+      "hook": "US 10-year yield reaches 19-year high, pressuring global rates",
+      "gist": [
+        "10-year Treasury yield climbs to 19-year high",
+        "Higher rates affect global financing and currency dynamics",
+        "Watch US inflation, Fed policy, and rupee movements"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-26T13:30:06+00:00",
+      "url": "story/8302f8703ce8.html",
+      "api": "api/v1/clusters/8302f8703ce8.json"
+    },
+    {
+      "cluster_id": "26be850401f3",
+      "headline": "RBI and finance ministry urge banks to maintain ATM cash ahead of UPI charges",
+      "hook": "Banks face pressure to stock ATMs as UPI charges loom",
+      "gist": [
+        "RBI and finance ministry ask banks to keep ATM cash",
+        "Potential UPI fees could push users back to cash",
+        "Watch ATM cash levels and UPI fee rollout"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-26T11:15:27.946516+00:00",
+      "url": "story/26be850401f3.html",
+      "api": "api/v1/clusters/26be850401f3.json"
+    },
+    {
+      "cluster_id": "2dd713597f59",
+      "headline": "India plans ₹15,000 crore LNG storage boost funded by pipeline surcharge",
+      "hook": "A ₹15,000 crore investment aims to expand India's 12-day fuel buffer.",
+      "gist": [
+        "India plans a ₹15,000 crore LNG storage expansion funded via pipeline surcharges.",
+        "Expanding strategic reserves cushions domestic users against global gas price shocks.",
+        "Final approval and structure of the pipeline tariff surcharge remain key."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-26T11:15:27.946516+00:00",
+      "url": "story/2dd713597f59.html",
+      "api": "api/v1/clusters/2dd713597f59.json"
+    },
+    {
+      "cluster_id": "521130f163b8",
+      "headline": "India expands subsidised onion sales to small towns as prices double",
+      "hook": "Retail onion prices have risen 100% year‑on‑year, prompting the subsidy",
+      "gist": [
+        "Onion retail prices doubled year‑on‑year.",
+        "Government launched subsidised sales to curb inflation.",
+        "Watch price trends and inflation data."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-26T11:15:27.946516+00:00",
+      "url": "story/521130f163b8.html",
+      "api": "api/v1/clusters/521130f163b8.json"
+    },
+    {
+      "cluster_id": "765e450328e8",
+      "headline": "IRDAI proposes insurance commission caps, threatening banks' distribution income",
+      "hook": "Ending compulsory loan‑insurance bundling could reshape banks' revenue streams",
+      "gist": [
+        "IRDAI proposes caps on insurance commissions",
+        "Banks and NBFCs face earnings pressure",
+        "Watch commission rates and non‑interest income"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-26T11:15:27.946516+00:00",
+      "url": "story/765e450328e8.html",
+      "api": "api/v1/clusters/765e450328e8.json"
+    },
+    {
+      "cluster_id": "792e576450c0",
+      "headline": "Sitharaman projects over 10% economic growth driven by technology and startups",
+      "hook": "India's path to a 10% growth target relies heavily on its startup ecosystem.",
+      "gist": [
+        "Finance Minister Nirmala Sitharaman stated India can achieve over 10% economic growth.",
+        "Reaching this target requires deep technological integration and scaling up domestic startups.",
+        "Policy support for artificial intelligence and funding trends in the startup sector."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-26T11:02:42+00:00",
+      "url": "story/792e576450c0.html",
+      "api": "api/v1/clusters/792e576450c0.json"
+    },
+    {
+      "cluster_id": "8836b0e5c282",
+      "headline": "Rupee reverses september gains as crude oil prices rise, RBI says",
+      "hook": "FCNR(B) inflows lift rupee, but crude price surge erodes gains",
+      "gist": [
+        "Rupee fell after earlier rise from FCNR(B) deposits",
+        "Higher oil prices pressure currency and inflation",
+        "Track oil prices, FCNR flows and RBI policy"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-26T08:27:52+00:00",
+      "url": "story/8836b0e5c282.html",
+      "api": "api/v1/clusters/8836b0e5c282.json"
+    },
+    {
+      "cluster_id": "b453ca4142d7",
+      "headline": "RBI rate-cut cycle may end with potential 50-75 bps hike by FY27",
+      "hook": "A potential 75 basis point rate hike by FY27 threatens Indian bond portfolios.",
+      "gist": [
+        "PGIM India expects the RBI to raise interest rates by 50-75 basis points.",
+        "Rising bond yields will lower existing bond prices but offer better new investment yields.",
+        "Watch crude oil price movements and retail inflation prints over the coming quarters."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-26T07:10:20+00:00",
+      "url": "story/b453ca4142d7.html",
+      "api": "api/v1/clusters/b453ca4142d7.json"
+    },
+    {
+      "cluster_id": "b115862a4f56",
+      "headline": "US jobs and inflation data set to shape Fed rate outlook",
+      "hook": "US jobs report and CPI numbers loom over market expectations",
+      "gist": [
+        "US jobs and inflation data due this week",
+        "Impacts expectations for Fed rate moves",
+        "Watch payrolls, CPI and Fed commentary"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-26T05:03:46+00:00",
+      "url": "story/b115862a4f56.html",
+      "api": "api/v1/clusters/b115862a4f56.json"
+    },
+    {
+      "cluster_id": "946ad8696d6c",
+      "headline": "Rupee steadies near 95.8 as banks sell dollars, range 94.5‑96 expected",
+      "hook": "Public sector banks sold dollars, pushing rupee to 95.81 per dollar",
+      "gist": [
+        "Rupee rose to 95.81 per dollar",
+        "Intervention curbs further appreciation",
+        "Watch RBI actions and dollar inflows"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-26T04:19:26+00:00",
+      "url": "story/946ad8696d6c.html",
+      "api": "api/v1/clusters/946ad8696d6c.json"
+    },
+    {
+      "cluster_id": "a3085374a79b",
+      "headline": "Oil prices slip about 2% as us‑iran hormuz talks progress",
+      "hook": "WTI futures fell below $94 per barrel amid us‑iran talks",
+      "gist": [
+        "Oil prices dropped ~2% on sept 26 2026",
+        "Lower crude eases import bill and inflation pressure in india",
+        "Track us‑iran negotiations and diesel export policies"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-25T20:51:38+00:00",
+      "url": "story/a3085374a79b.html",
+      "api": "api/v1/clusters/a3085374a79b.json"
+    },
+    {
+      "cluster_id": "7ce3f63f1faf",
+      "headline": "Iran says it can reopen Strait of Hormuz within 7 days if US lifts blockade",
+      "hook": "Iran's 7‑day offer to lift the Hormuz blockade hinges on US action",
+      "gist": [
+        "Iran offered to reopen Hormuz in a week if sanctions end",
+        "Potential oil flow could affect Indian import costs",
+        "Watch US policy and oil price response"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-25T18:42:18+00:00",
+      "url": "story/7ce3f63f1faf.html",
+      "api": "api/v1/clusters/7ce3f63f1faf.json"
+    },
+    {
+      "cluster_id": "89973618d076",
+      "headline": "Mcx gold falls ₹3,351 per 10 g as US rate‑hike bets rise",
+      "hook": "Gold loses ₹3,351 per 10 grams after US Treasury yields jump",
+      "gist": [
+        "Gold price slipped on higher US yields",
+        "Lower gold price affects Indian investors and jewelry costs",
+        "Watch US Fed signals and rupee‑dollar moves"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-25T18:27:57+00:00",
+      "url": "story/89973618d076.html",
+      "api": "api/v1/clusters/89973618d076.json"
+    },
+    {
+      "cluster_id": "9b5774f2e045",
+      "headline": "RBI bulletin says india's financial and external sectors stay resilient amid west asia tensions",
+      "hook": "Forex reserves sit at $765.9 billion as RBI flags external resilience",
+      "gist": [
+        "RBI bulletin reports resilient financial and external sectors despite rising crude prices.",
+        "Resilience supports growth but higher oil prices could stoke inflation.",
+        "Crude oil price trajectory and inflation trends."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-25T17:51:23+00:00",
+      "url": "story/9b5774f2e045.html",
+      "api": "api/v1/clusters/9b5774f2e045.json"
+    },
+    {
+      "cluster_id": "5ddd5e871453",
+      "headline": "India's forex reserves fall $14.9bn to $765.9bn as RBI plans swaps",
+      "hook": "Banks hold excess cash after RBI’s $140bn capital inflow",
+      "gist": [
+        "Forex reserves dropped sharply",
+        "Liquidity management could tighten markets",
+        "Watch RBI swap execution and rupee moves"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-25T17:38:27+00:00",
+      "url": "story/5ddd5e871453.html",
+      "api": "api/v1/clusters/5ddd5e871453.json"
+    },
+    {
+      "cluster_id": "202343a4ee8c",
+      "headline": "RBI projects private capex at ₹3.2 lakh crore for 2026‑27",
+      "hook": "Banks see ₹3.2 lakh crore of private projects slated for 2026‑27",
+      "gist": [
+        "RBI estimates private capex at ₹3.2 lakh crore for FY 2026‑27.",
+        "Higher investment could lift demand for financing and capital goods.",
+        "Watch credit growth and global risk cues for actual impact."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-25T17:30:49+00:00",
+      "url": "story/202343a4ee8c.html",
+      "api": "api/v1/clusters/202343a4ee8c.json"
+    },
+    {
+      "cluster_id": "1b81a38fae21",
+      "headline": "SEBI board meeting decisions announced on 24 september 2026",
+      "hook": "₹25 lakh credit ceiling featured in SEBI's 24‑Sept board rulings",
+      "gist": [
+        "SEBI announced key decisions on 24 Sep 2026",
+        "Limits on credit exposure could tighten market funding",
+        "Watch for follow‑up regulatory guidance"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-09-25T16:54:30.824068+00:00",
+      "url": "story/1b81a38fae21.html",
+      "api": "api/v1/clusters/1b81a38fae21.json"
+    },
+    {
+      "cluster_id": "2157091ef0e7",
+      "headline": "RBI shortens export repatriation window to nine months to boost dollar liquidity",
+      "hook": "Indian exporters must now bring back foreign revenues six months faster than before.",
+      "gist": [
+        "RBI cut the export earnings repatriation deadline from 15 to nine months.",
+        "It forces quicker dollar inflows, boosting local foreign exchange liquidity and easing bank approvals.",
+        "What to watch is how exporters manage cash flows and rupee-dollar exchange rates."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-09-25T16:31:08+00:00",
+      "url": "story/2157091ef0e7.html",
+      "api": "api/v1/clusters/2157091ef0e7.json"
+    }
+  ]
+}

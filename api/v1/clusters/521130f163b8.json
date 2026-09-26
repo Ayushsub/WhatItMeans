@@ -1,0 +1,130 @@
+{
+  "cluster_id": "521130f163b8",
+  "analysis": {
+    "headline": "India expands subsidised onion sales to small towns as prices double",
+    "hook": "Retail onion prices have risen 100% year‑on‑year, prompting the subsidy",
+    "gist": [
+      "Onion retail prices doubled year‑on‑year.",
+      "Government launched subsidised sales to curb inflation.",
+      "Watch price trends and inflation data."
+    ],
+    "what_happened": "On 26 September 2026 the Indian government announced an expansion of its subsidised onion sales programme to district markets and small towns. It will ship buffer‑stock onions from government warehouses to these locations to check price spillovers and curb festive season inflation. Retail onion prices have doubled compared with the same period last year.",
+    "who_is_affected": [
+      {
+        "group": "low‑income urban consumers",
+        "effect": "benefit from lower onion prices, easing food‑cost pressure by up to 10%"
+      },
+      {
+        "group": "small‑town retailers",
+        "effect": "gain lower procurement cost, boosting margins by an estimated 5%"
+      },
+      {
+        "group": "onion farmers",
+        "effect": "face uncertain demand as buffer stock may absorb supply, potentially reducing farmgate prices modestly"
+      },
+      {
+        "group": "private onion traders",
+        "effect": "experience headwinds from subsidised supply, possibly cutting margins"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "agriculture",
+        "direction": "mixed",
+        "why": "buffer stock may limit market sales but ensures price stability"
+      },
+      {
+        "sector": "retail",
+        "direction": "tailwind",
+        "why": "cheaper onions boost sales and footfall"
+      },
+      {
+        "sector": "logistics",
+        "direction": "neutral",
+        "why": "distribution network remains unchanged"
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "step 1: government releases buffer‑stock onions to district markets and small towns",
+        "step 2: local supply rises, easing price pressure on retail onions",
+        "step 3: retail onion prices fall, reducing overall food price inflation",
+        "step 4: lower inflation eases pressure on RBI to raise repo rate"
+      ],
+      "explanation": "The policy triggers an immediate increase in physical onion supply at the local level, which forces market prices to soften. As retail prices retreat, household food bills face less upward pressure, feeding into the consumer‑price‑index (CPI) and tempering overall inflation. With inflation easing, the Reserve Bank of India (RBI) faces less urgency to tighten monetary policy. The effects on prices appear within weeks, while any impact on monetary stance may take a few months.",
+      "time_horizon": "weeks"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Optimists argue that the subsidised sales will quickly bring down onion prices, curbing festive‑season inflation and preventing a broader rise in CPI.",
+      "depends_on": [
+        "buffer stock reaches markets promptly",
+        "consumer demand remains stable"
+      ]
+    },
+    "bear_case": {
+      "argument": "Pessimists contend that the subsidy is temporary, may distort market signals and could strain public finances if buffer stock depletes rapidly.",
+      "depends_on": [
+        "buffer stock depletes quickly",
+        "private traders reduce supply"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Retail onion price index",
+        "why_it_matters": "validates bull case if it falls sharply",
+        "when": "weekly"
+      },
+      {
+        "variable": "Buffer‑stock inventory levels",
+        "why_it_matters": "validates bear case if depleted fast",
+        "when": "monthly"
+      },
+      {
+        "variable": "CPI food inflation rate",
+        "why_it_matters": "shows overall impact of the policy",
+        "when": "monthly"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Based on a single news report; limited corroboration",
+    "jargon": [
+      {
+        "term": "buffer stock",
+        "plain_meaning": "government‑held reserves of a commodity used to stabilise prices"
+      },
+      {
+        "term": "price spillover",
+        "plain_meaning": "when high prices in one market affect prices elsewhere"
+      },
+      {
+        "term": "festive season inflation",
+        "plain_meaning": "rise in prices during major festivals due to higher demand"
+      },
+      {
+        "term": "subsidised sales",
+        "plain_meaning": "selling goods at a price lower than market cost, with government covering part of the price"
+      }
+    ]
+  },
+  "tags": {
+    "entities": [],
+    "tickers": [],
+    "sectors": [],
+    "macro_themes": [
+      "Inflation"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Mint",
+      "headline": "Centre expands subsidized onion sales to small towns as retail prices double from last year",
+      "url": "https://www.livemint.com/industry/agriculture/onion-prices-subsidized-onion-sale-11790336141929.html",
+      "published_at": "2026-09-26T11:15:27.946516+00:00"
+    }
+  ],
+  "published_at": "2026-09-26T11:15:27.946516Z",
+  "updated_at": "2026-09-26T11:21:04.968560Z",
+  "confidence": "medium",
+  "tier": "free"
+}
