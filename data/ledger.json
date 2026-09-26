@@ -4051,5 +4051,19 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "b115862a4f56"
+ },
+ {
+  "date": "2026-09-26",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "8836b0e5c282"
+ },
+ {
+  "date": "2026-09-26",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "a3085374a79b"
  }
 ]
