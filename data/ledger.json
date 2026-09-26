@@ -4065,5 +4065,19 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "a3085374a79b"
+ },
+ {
+  "date": "2026-09-26",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "10%",
+  "cluster_id": "792e576450c0"
+ },
+ {
+  "date": "2026-09-26",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "946ad8696d6c"
  }
 ]
