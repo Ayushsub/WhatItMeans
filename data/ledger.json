@@ -4037,5 +4037,19 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "b2c7d9d71505"
+ },
+ {
+  "date": "2026-09-26",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "b115862a4f56"
+ },
+ {
+  "date": "2026-09-26",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "b115862a4f56"
  }
 ]
