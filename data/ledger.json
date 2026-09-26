@@ -4079,5 +4079,12 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "946ad8696d6c"
+ },
+ {
+  "date": "2026-09-26",
+  "event_type": "fiscal_action",
+  "entity": "Tata Motors",
+  "value": null,
+  "cluster_id": "625c15f0376a"
  }
 ]
