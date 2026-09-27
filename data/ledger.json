@@ -4086,5 +4086,12 @@
   "entity": "Tata Motors",
   "value": null,
   "cluster_id": "625c15f0376a"
+ },
+ {
+  "date": "2026-09-27",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "8ca4e9b56dd1"
  }
 ]
