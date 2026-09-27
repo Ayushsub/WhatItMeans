@@ -4093,5 +4093,26 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "8ca4e9b56dd1"
+ },
+ {
+  "date": "2026-09-27",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "6%",
+  "cluster_id": "8ebc7b2bf9d6"
+ },
+ {
+  "date": "2026-09-27",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "6%",
+  "cluster_id": "8ebc7b2bf9d6"
+ },
+ {
+  "date": "2026-09-27",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "23fbbb33f68f"
  }
 ]
