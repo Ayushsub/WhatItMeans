@@ -4149,5 +4149,12 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "bec2a043e96c"
+ },
+ {
+  "date": "2026-09-27",
+  "event_type": "fiscal_action",
+  "entity": "TCS",
+  "value": null,
+  "cluster_id": "979ff66356d5"
  }
 ]
