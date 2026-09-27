@@ -4114,5 +4114,40 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "23fbbb33f68f"
+ },
+ {
+  "date": "2026-09-27",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "4c72a05ffe8c"
+ },
+ {
+  "date": "2026-09-27",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "4c72a05ffe8c"
+ },
+ {
+  "date": "2026-09-27",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": "6%",
+  "cluster_id": "b5e9d0ce6602"
+ },
+ {
+  "date": "2026-09-27",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "7adb67b93446"
+ },
+ {
+  "date": "2026-09-27",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "bec2a043e96c"
  }
 ]
