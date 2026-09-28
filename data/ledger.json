@@ -4198,5 +4198,33 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "a32124c46b7a"
+ },
+ {
+  "date": "2026-09-28",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "a3cf907cd0ef"
+ },
+ {
+  "date": "2026-09-28",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "d36e3832e074"
+ },
+ {
+  "date": "2026-09-28",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "d1c44e075690"
+ },
+ {
+  "date": "2026-09-28",
+  "event_type": "fiscal_action",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "e70ad5ce2641"
  }
 ]
