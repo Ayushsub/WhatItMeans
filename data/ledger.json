@@ -4156,5 +4156,19 @@
   "entity": "TCS",
   "value": null,
   "cluster_id": "979ff66356d5"
+ },
+ {
+  "date": "2026-09-28",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": "6%",
+  "cluster_id": "2f60a4a23da4"
+ },
+ {
+  "date": "2026-09-28",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "6%",
+  "cluster_id": "2f60a4a23da4"
  }
 ]
