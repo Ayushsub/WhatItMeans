@@ -4226,5 +4226,26 @@
   "entity": "State Bank of India",
   "value": null,
   "cluster_id": "e70ad5ce2641"
+ },
+ {
+  "date": "2026-09-29",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "e7e10f9af578"
+ },
+ {
+  "date": "2026-09-29",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "e7e10f9af578"
+ },
+ {
+  "date": "2026-09-29",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "7.19%",
+  "cluster_id": "286d64704987"
  }
 ]
