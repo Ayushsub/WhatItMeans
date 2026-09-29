@@ -4261,5 +4261,26 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "395cbf973711"
+ },
+ {
+  "date": "2026-09-29",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "1b8e7dbeddc5"
+ },
+ {
+  "date": "2026-09-29",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "5.5%",
+  "cluster_id": "1b8e7dbeddc5"
+ },
+ {
+  "date": "2026-09-29",
+  "event_type": "policy_rate",
+  "entity": "Nifty",
+  "value": null,
+  "cluster_id": "c6bb8b0b77f4"
  }
 ]
