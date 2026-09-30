@@ -4338,5 +4338,26 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "b2b814e5b68a"
+ },
+ {
+  "date": "2026-09-30",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "3b8ba9f400e2"
+ },
+ {
+  "date": "2026-09-30",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "6ee5122f85db"
+ },
+ {
+  "date": "2026-09-30",
+  "event_type": "policy_rate",
+  "entity": "TCS",
+  "value": null,
+  "cluster_id": "d9f674b48fc3"
  }
 ]
