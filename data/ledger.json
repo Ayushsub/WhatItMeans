@@ -4282,5 +4282,12 @@
   "entity": "Nifty",
   "value": null,
   "cluster_id": "c6bb8b0b77f4"
+ },
+ {
+  "date": "2026-09-30",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "b7ed451382c3"
  }
 ]
