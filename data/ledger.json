@@ -4359,5 +4359,12 @@
   "entity": "TCS",
   "value": null,
   "cluster_id": "d9f674b48fc3"
+ },
+ {
+  "date": "2026-09-30",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹7.1 lakh",
+  "cluster_id": "e6777811426b"
  }
 ]
