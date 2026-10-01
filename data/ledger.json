@@ -4450,5 +4450,12 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "2051b6da3e58"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "4ab47066bfd9"
  }
 ]
