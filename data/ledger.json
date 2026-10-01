@@ -4422,5 +4422,33 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "af91ffff8b94"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "1e87e1bb78ae"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "af21b8e33c95"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "19.4%",
+  "cluster_id": "5c67d9b045d8"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "2051b6da3e58"
  }
 ]
