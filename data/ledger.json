@@ -4387,5 +4387,40 @@
   "entity": "Growth",
   "value": "20.8%",
   "cluster_id": "134a6f5be91c"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.25%",
+  "cluster_id": "02f831dd9bf7"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "f03d33dcdbbb"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "f03d33dcdbbb"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "fd18672031c4"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "af91ffff8b94"
  }
 ]
