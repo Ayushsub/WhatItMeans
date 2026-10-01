@@ -4366,5 +4366,26 @@
   "entity": "Fiscal & Budget",
   "value": "₹7.1 lakh",
   "cluster_id": "e6777811426b"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "policy_rate",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "29878537c347"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "29878537c347"
+ },
+ {
+  "date": "2026-10-01",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "20.8%",
+  "cluster_id": "134a6f5be91c"
  }
 ]
