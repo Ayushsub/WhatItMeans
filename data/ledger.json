@@ -4471,5 +4471,26 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "174dbad7166e"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "fiscal_action",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "e3145893440a"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "e3145893440a"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "policy_rate",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "644564008fe7"
  }
 ]
