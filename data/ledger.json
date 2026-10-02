@@ -4492,5 +4492,54 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "644564008fe7"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "policy_rate",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "78c726b52340"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "fb330f5cb864"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹44,012.82 crore",
+  "cluster_id": "fb330f5cb864"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "9928359eddcf"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "b894658656d2"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "b894658656d2"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "177fd4426417"
  }
 ]
