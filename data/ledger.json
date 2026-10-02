@@ -4457,5 +4457,19 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "4ab47066bfd9"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "174dbad7166e"
+ },
+ {
+  "date": "2026-10-02",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "174dbad7166e"
  }
 ]
