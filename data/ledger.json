@@ -4576,5 +4576,40 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "87709975224d"
+ },
+ {
+  "date": "2026-10-03",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "bec19d40e129"
+ },
+ {
+  "date": "2026-10-03",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "bec19d40e129"
+ },
+ {
+  "date": "2026-10-03",
+  "event_type": "fiscal_action",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "a52ac9d2bf82"
+ },
+ {
+  "date": "2026-10-03",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "a52ac9d2bf82"
+ },
+ {
+  "date": "2026-10-03",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "64d33f379ac2"
  }
 ]
