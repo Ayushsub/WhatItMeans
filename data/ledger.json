@@ -4611,5 +4611,12 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "64d33f379ac2"
+ },
+ {
+  "date": "2026-10-03",
+  "event_type": "policy_rate",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "0d0b4b0f6a4a"
  }
 ]
