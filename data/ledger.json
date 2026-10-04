@@ -4646,5 +4646,26 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "12571175ea5c"
+ },
+ {
+  "date": "2026-10-04",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.25%",
+  "cluster_id": "ac2ef804454a"
+ },
+ {
+  "date": "2026-10-04",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "b50e16963db7"
+ },
+ {
+  "date": "2026-10-04",
+  "event_type": "fiscal_action",
+  "entity": "Maruti Suzuki",
+  "value": null,
+  "cluster_id": "a2c8fca79ac2"
  }
 ]
