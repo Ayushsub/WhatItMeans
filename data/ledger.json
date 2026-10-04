@@ -4618,5 +4618,33 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "0d0b4b0f6a4a"
+ },
+ {
+  "date": "2026-10-04",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "94887164efdf"
+ },
+ {
+  "date": "2026-10-04",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "94887164efdf"
+ },
+ {
+  "date": "2026-10-04",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "8ef6bb76437b"
+ },
+ {
+  "date": "2026-10-04",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "12571175ea5c"
  }
 ]
