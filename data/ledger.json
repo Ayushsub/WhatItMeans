@@ -4667,5 +4667,26 @@
   "entity": "Maruti Suzuki",
   "value": null,
   "cluster_id": "a2c8fca79ac2"
+ },
+ {
+  "date": "2026-10-04",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "bcf49485f4a3"
+ },
+ {
+  "date": "2026-10-04",
+  "event_type": "fiscal_action",
+  "entity": "ITC",
+  "value": null,
+  "cluster_id": "cebd7e3f8972"
+ },
+ {
+  "date": "2026-10-04",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "8%",
+  "cluster_id": "a61c5f08a17d"
  }
 ]
