@@ -1,0 +1,112 @@
+{
+  "cluster_id": "08422826bd2a",
+  "analysis": {
+    "headline": "India to keep Russian crude in its energy mix, says foreign minister",
+    "hook": "Jaishankar stresses Russian crude remains vital despite mounting external pressures",
+    "gist": [
+      "India will continue importing Russian crude",
+      "Maintaining supply aims to stabilise domestic fuel markets",
+      "Watch for geopolitical and price developments"
+    ],
+    "what_happened": "On 3 Oct 2026, External Affairs Minister S. Jaishankar told a policy panel that Russian crude oil will remain part of India’s energy mix. He highlighted the need to sustain robust relations with Moscow amid growing external pressures. No specific import volumes or price figures were disclosed.",
+    "who_is_affected": [
+      {
+        "group": "Indian refiners",
+        "effect": "steady crude feedstock, limiting margin pressure"
+      },
+      {
+        "group": "Fuel consumers",
+        "effect": "potential moderation of gasoline and diesel price rises"
+      },
+      {
+        "group": "Petrochemical manufacturers",
+        "effect": "more predictable feedstock costs"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "oil & gas",
+        "direction": "tailwind",
+        "why": "continued Russian supply eases feedstock constraints"
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "step 1: policy stance to keep Russian crude imports",
+        "step 2: forces a steady flow of Russian crude despite sanctions risk",
+        "step 3: refiners receive reliable feedstock, reducing need for costlier alternatives",
+        "step 4: earnings reflect steadier refining margins and fuel prices stay less volatile"
+      ],
+      "explanation": "The minister’s statement signals a policy choice (step 1) that pushes import planners to maintain contracts with Russian exporters (step 2). This reduces the likelihood of sudden supply gaps, so refiners can keep operating at planned capacities (step 3). The effect shows up in quarterly earnings as more stable refining margins and in consumer price indices as muted fuel‑price inflation. The lag between the policy announcement and observable earnings impact is typically a few quarters.",
+      "time_horizon": "months"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Optimists argue that keeping Russian crude in the mix safeguards supply and cushions domestic fuel prices, especially if global crude tightens.",
+      "depends_on": [
+        "global crude supply remains constrained",
+        "sanctions on Russian oil do not intensify further"
+      ]
+    },
+    "bear_case": {
+      "argument": "Pessimists contend that reliance on Russian crude exposes India to sanction‑related disruptions and reputational risk, which could spike import costs.",
+      "depends_on": [
+        "new sanctions target Russian oil exports",
+        "geopolitical tensions lead to supply interruptions"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Volume of Russian crude imports",
+        "why_it_matters": "validates bull case if steady, bear case if sharply reduced",
+        "when": "monthly reports"
+      },
+      {
+        "variable": "Global Brent crude price",
+        "why_it_matters": "affects cost of Russian oil, influencing both cases",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Sanctions regime developments on Russian oil",
+        "why_it_matters": "determines feasibility of continued imports, key to both cases",
+        "when": "as announced"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Based on a single reputable source; no market data provided",
+    "jargon": [
+      {
+        "term": "energy mix",
+        "plain_meaning": "the combination of different energy sources a country uses"
+      },
+      {
+        "term": "refining margin",
+        "plain_meaning": "the profit a refinery makes after buying crude and selling refined products"
+      },
+      {
+        "term": "sanctions",
+        "plain_meaning": "government measures that restrict trade with a target country"
+      }
+    ]
+  },
+  "tags": {
+    "entities": [],
+    "tickers": [],
+    "sectors": [],
+    "macro_themes": [
+      "Crude & Energy"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Economic Times",
+      "headline": "Russian crude to remain part of energy mix: Jaishankar to Panel",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russian-crude-to-remain-part-of-energy-mix-jaishankar-to-panel/articleshow/134663691.cms",
+      "published_at": "2026-10-03T17:12:38+00:00"
+    }
+  ],
+  "published_at": "2026-10-03T17:12:38Z",
+  "updated_at": "2026-10-03T21:57:26.810432Z",
+  "confidence": "medium",
+  "tier": "free"
+}

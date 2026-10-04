@@ -1,0 +1,127 @@
+{
+  "cluster_id": "4976da1959da",
+  "analysis": {
+    "headline": "Public sector banks record 15-25% credit growth in q2 fy27",
+    "hook": "Five state banks lifted loan disbursements by up to a quarter",
+    "gist": [
+      "Credit growth of 15-25% reported for five PSBs in Q2 FY27.",
+      "Higher loan supply could boost earnings for banks and borrowers.",
+      "Watch RBI policy stance and credit quality trends."
+    ],
+    "what_happened": "According to RBI sectoral data, five public sector banks posted credit growth between 15% and 25% in the second quarter of FY27. Demand for credit remained firm across agriculture, industry, services and personal loans.",
+    "who_is_affected": [
+      {
+        "group": "agricultural loan borrowers",
+        "effect": "gain better access to credit, loan volumes up roughly 15-25%"
+      },
+      {
+        "group": "industrial borrowers",
+        "effect": "see increased loan availability, supporting expansion, growth ~15-25%"
+      },
+      {
+        "group": "service sector borrowers",
+        "effect": "receive more financing, aiding consumption and investment, up 15-25%"
+      },
+      {
+        "group": "personal loan borrowers",
+        "effect": "benefit from more loan approvals, volume rise 15-25%"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "banking",
+        "direction": "tailwind",
+        "why": "higher loan disbursements raise interest income"
+      },
+      {
+        "sector": "agriculture",
+        "direction": "tailwind",
+        "why": "greater credit flow supports farm financing"
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "step 1: RBI data shows credit demand staying firm",
+        "step 2: banks respond by expanding loan book",
+        "step 3: borrowers obtain more funds at prevailing rates",
+        "step 4: banks record higher interest earnings, reflecting in quarterly results"
+      ],
+      "explanation": "The RBI data signals strong demand, which forces banks to increase lending. This expands borrowers' access to credit at existing rates. The larger loan book raises banks' interest income, which will appear in their upcoming earnings. The effect may be seen with a lag of one to two quarters as loans are disbursed and interest accrues.",
+      "time_horizon": "quarters"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Optimists argue that continued credit expansion will lift bank profitability and support economic growth",
+      "depends_on": [
+        "sustained demand across key sectors",
+        "stable or accommodative RBI policy rates"
+      ]
+    },
+    "bear_case": {
+      "argument": "Pessimists warn that rapid loan growth may strain asset quality and trigger higher non‑performing assets",
+      "depends_on": [
+        "tightening of RBI policy rates",
+        "rise in borrower defaults"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "RBI policy rate decisions",
+        "why_it_matters": "validates bear case if rates rise",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Quarterly credit growth figures",
+        "why_it_matters": "validates bull case if growth persists",
+        "when": "next quarter"
+      },
+      {
+        "variable": "NPA ratios of PSBs",
+        "why_it_matters": "validates bear case if deteriorates",
+        "when": "quarterly reports"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Based on one article but data aligns with RBI reports",
+    "jargon": [
+      {
+        "term": "credit growth",
+        "plain_meaning": "increase in the total amount of loans banks issue"
+      },
+      {
+        "term": "PSB",
+        "plain_meaning": "public sector bank, owned largely by the government"
+      },
+      {
+        "term": "NPA",
+        "plain_meaning": "non‑performing asset, a loan where the borrower is not repaying"
+      },
+      {
+        "term": "policy rate",
+        "plain_meaning": "the key interest rate set by the RBI to guide overall borrowing costs"
+      }
+    ]
+  },
+  "tags": {
+    "entities": [
+      "RBI"
+    ],
+    "tickers": [],
+    "sectors": [],
+    "macro_themes": [
+      "Credit & Liquidity"
+    ]
+  },
+  "sources": [
+    {
+      "name": "The Hindu BusinessLine",
+      "headline": "5 public sector banks post 15-25% credit growth in Q2FY27",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/5-public-sector-banks-post-15-25-credit-growth-in-q2fy27/article71540475.ece",
+      "published_at": "2026-10-03T11:34:35+00:00"
+    }
+  ],
+  "published_at": "2026-10-03T11:34:35Z",
+  "updated_at": "2026-10-03T19:14:31.739309Z",
+  "confidence": "medium",
+  "tier": "free"
+}

@@ -1,0 +1,264 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-10-04T00:21:20.265465+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 17,
+  "items": [
+    {
+      "cluster_id": "94887164efdf",
+      "headline": "Global economy faces 1970s style stagflation risks as energy prices soar",
+      "hook": "Households face a 1970s style squeeze from falling wages and soaring energy bills.",
+      "gist": [
+        "Rising energy prices and high inflation coincide with falling real wages globally.",
+        "This combination mirrors 1970s stagflation, squeezing household budgets and corporate profit margins.",
+        "Watch central bank interest rate decisions and global crude oil price trajectories."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T23:58:00+00:00",
+      "url": "story/94887164efdf.html",
+      "api": "api/v1/clusters/94887164efdf.json"
+    },
+    {
+      "cluster_id": "08422826bd2a",
+      "headline": "India to keep Russian crude in its energy mix, says foreign minister",
+      "hook": "Jaishankar stresses Russian crude remains vital despite mounting external pressures",
+      "gist": [
+        "India will continue importing Russian crude",
+        "Maintaining supply aims to stabilise domestic fuel markets",
+        "Watch for geopolitical and price developments"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T17:12:38+00:00",
+      "url": "story/08422826bd2a.html",
+      "api": "api/v1/clusters/08422826bd2a.json"
+    },
+    {
+      "cluster_id": "93c4e0d4a9cd",
+      "headline": "Corporate health insurance leaves families exposed during job changes",
+      "hook": "Families face coverage gaps when corporate health plans end at job transitions",
+      "gist": [
+        "Corporate health cover may stop when employment ends",
+        "Families could face higher medical costs",
+        "Watch private insurance uptake and policy changes"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T15:33:19+00:00",
+      "url": "story/93c4e0d4a9cd.html",
+      "api": "api/v1/clusters/93c4e0d4a9cd.json"
+    },
+    {
+      "cluster_id": "86cba5a74982",
+      "headline": "Nvidia, Micron and surprising jobs data spark last week's market moves",
+      "hook": "Nvidia and Micron rally as jobs data surprises analysts",
+      "gist": [
+        "Nvidia, Micron and a jobs report moved markets last week",
+        "Tech stocks rose while investors digested employment surprise",
+        "Watch earnings and future jobs numbers for direction"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T15:06:10+00:00",
+      "url": "story/86cba5a74982.html",
+      "api": "api/v1/clusters/86cba5a74982.json"
+    },
+    {
+      "cluster_id": "d6bd671d82ad",
+      "headline": "Accenture Q4 earnings boost outlook for Indian IT stocks",
+      "hook": "Accenture's fourth-quarter earnings lift Indian IT sentiment ahead of Q2",
+      "gist": [
+        "Accenture posted strong Q4 results",
+        "Indian IT shares gain optimism but face pricing concerns",
+        "Watch AI demand and client spending trends"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T11:38:25+00:00",
+      "url": "story/d6bd671d82ad.html",
+      "api": "api/v1/clusters/d6bd671d82ad.json"
+    },
+    {
+      "cluster_id": "4976da1959da",
+      "headline": "Public sector banks record 15-25% credit growth in q2 fy27",
+      "hook": "Five state banks lifted loan disbursements by up to a quarter",
+      "gist": [
+        "Credit growth of 15-25% reported for five PSBs in Q2 FY27.",
+        "Higher loan supply could boost earnings for banks and borrowers.",
+        "Watch RBI policy stance and credit quality trends."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T11:34:35+00:00",
+      "url": "story/4976da1959da.html",
+      "api": "api/v1/clusters/4976da1959da.json"
+    },
+    {
+      "cluster_id": "e4871a4e92ca",
+      "headline": "FPIs pull out ₹35,860 crore from Indian equities in September",
+      "hook": "Foreign funds pulled ₹35,860 crore despite SEBI introducing simplified market access regulations.",
+      "gist": [
+        "Foreign portfolio investors sold ₹35,860 crore in Indian equities in September.",
+        "Regulatory easing alone cannot offset global competition and valuation concerns.",
+        "Foreign institutional flow trends and global monetary conditions in coming weeks."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T10:36:27+00:00",
+      "url": "story/e4871a4e92ca.html",
+      "api": "api/v1/clusters/e4871a4e92ca.json"
+    },
+    {
+      "cluster_id": "bec19d40e129",
+      "headline": "RBI likely to hike repo rate by up to 75 bps, pushing bond yields higher",
+      "hook": "Expect a 50‑75 basis-point repo hike as food and oil prices surge",
+      "gist": [
+        "RBI may raise repo rate by 50‑75 bps",
+        "Higher rates could lift bond yields and borrowing costs",
+        "Watch inflation data and RBI’s policy decision"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T09:47:28+00:00",
+      "url": "story/bec19d40e129.html",
+      "api": "api/v1/clusters/bec19d40e129.json"
+    },
+    {
+      "cluster_id": "a52ac9d2bf82",
+      "headline": "SEBI studies position limits on non‑agri contracts to improve liquidity",
+      "hook": "SEBI's review of position limits targets non‑agri contract liquidity",
+      "gist": [
+        "SEBI is examining limits on non‑agri commodity contracts",
+        "The move aims to deepen market liquidity",
+        "Watch for regulatory outcomes and market depth"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T09:46:13+00:00",
+      "url": "story/a52ac9d2bf82.html",
+      "api": "api/v1/clusters/a52ac9d2bf82.json"
+    },
+    {
+      "cluster_id": "64d33f379ac2",
+      "headline": "RBI rate hike unlikely to cause widespread NBFC asset quality stress",
+      "hook": "On Oct 3, analysts say a rate hike may spare NBFCs from major stress",
+      "gist": [
+        "Nuvama report says RBI hike unlikely to hurt NBFC asset quality",
+        "Historical trends show rate hikes rarely trigger broad loan defaults",
+        "Watch RBI policy moves and NBFC credit metrics"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T08:48:12+00:00",
+      "url": "story/64d33f379ac2.html",
+      "api": "api/v1/clusters/64d33f379ac2.json"
+    },
+    {
+      "cluster_id": "12571175ea5c",
+      "headline": "India must stay open to trade as domestic output may be costlier",
+      "hook": "Domestic production could cost more than imports, says principal secretary",
+      "gist": [
+        "India’s principal secretary warned domestic output may be pricier than imports",
+        "Staying open to global markets is urged to preserve economic resilience",
+        "Watch for policy moves that could affect import‑export dynamics"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T08:46:26+00:00",
+      "url": "story/12571175ea5c.html",
+      "api": "api/v1/clusters/12571175ea5c.json"
+    },
+    {
+      "cluster_id": "21e5cd83728b",
+      "headline": "SEBI to release new framework on Closing Auction Session after receiving feedback",
+      "hook": "Over 3,500 public comments will shape how India's stock market closes daily.",
+      "gist": [
+        "SEBI is preparing a new framework for the stock market's Closing Auction Session.",
+        "The rules will alter how final daily share prices are calculated and settled.",
+        "The release of the official circular detailing the final operational changes."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-03T08:38:16+00:00",
+      "url": "story/21e5cd83728b.html",
+      "api": "api/v1/clusters/21e5cd83728b.json"
+    },
+    {
+      "cluster_id": "f8cec1e40753",
+      "headline": "India faces fuel and finance shocks amid rising global geopolitical tensions",
+      "hook": "Indian policymakers warn that imported crude oil leaves the domestic economy vulnerable.",
+      "gist": [
+        "Global geopolitical tensions are triggering fuel and finance shocks across international markets.",
+        "India remains vulnerable to these disruptions due to its heavy reliance on imported energy.",
+        "Watch India's efforts to diversify energy imports and build fiscal buffers against shocks."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-03T08:00:19+00:00",
+      "url": "story/f8cec1e40753.html",
+      "api": "api/v1/clusters/f8cec1e40753.json"
+    },
+    {
+      "cluster_id": "298402fab561",
+      "headline": "Nayara Energy hikes petrol by ₹5 and diesel by ₹3 across 7,108 pumps",
+      "hook": "Over 7,100 fuel stations now test customer tolerance against state-run competitors.",
+      "gist": [
+        "Nayara Energy raised petrol by ₹5 and diesel by ₹3 per litre.",
+        "Geopolitical conflict and rising crude prices squeeze margins for private fuel retailers.",
+        "Price differences between private outlets and state-run oil marketing companies."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-03T06:54:50+00:00",
+      "url": "story/298402fab561.html",
+      "api": "api/v1/clusters/298402fab561.json"
+    },
+    {
+      "cluster_id": "8ef6bb76437b",
+      "headline": "RBI flags rising financial risks amid geopolitical shocks, crypto caution",
+      "hook": "RBI cites five policy priorities while warning of cyber‑attack risk",
+      "gist": [
+        "RBI warns of heightened systemic risks",
+        "Growth outlook stays near 7% despite risks",
+        "Watch credit conditions and crypto regulation"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T05:39:05+00:00",
+      "url": "story/8ef6bb76437b.html",
+      "api": "api/v1/clusters/8ef6bb76437b.json"
+    },
+    {
+      "cluster_id": "edc6da87ed7b",
+      "headline": "Analysts warn of tough october as US yields top 5% and rupee weakens",
+      "hook": "Eight weeks of Nifty correction coincide with US yields over 5%",
+      "gist": [
+        "Nifty has been correcting for eight weeks",
+        "Global factors are pressuring Indian markets",
+        "Watch US yields, rupee and crude prices"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T04:15:48+00:00",
+      "url": "story/edc6da87ed7b.html",
+      "api": "api/v1/clusters/edc6da87ed7b.json"
+    },
+    {
+      "cluster_id": "dda9c19c4af7",
+      "headline": "Dearness allowance set to rise to 67% and Sikkim announces hike",
+      "hook": "DA could hit 67% from Jan 2027, Sikkim lifts its rates",
+      "gist": [
+        "DA may increase to 67% for Jan 2027",
+        "Higher DA boosts take‑home pay for govt workers",
+        "Watch CPI‑IW data and state budget allocations"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-03T04:10:23+00:00",
+      "url": "story/dda9c19c4af7.html",
+      "api": "api/v1/clusters/dda9c19c4af7.json"
+    }
+  ]
+}
