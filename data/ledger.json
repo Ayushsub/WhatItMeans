@@ -4688,5 +4688,26 @@
   "entity": "Growth",
   "value": "8%",
   "cluster_id": "a61c5f08a17d"
+ },
+ {
+  "date": "2026-10-05",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.50%",
+  "cluster_id": "f365bfa762c2"
+ },
+ {
+  "date": "2026-10-05",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "f365bfa762c2"
+ },
+ {
+  "date": "2026-10-05",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "d20aa18ffb7e"
  }
 ]
