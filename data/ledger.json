@@ -4814,5 +4814,19 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "c3fa3a5004e3"
+ },
+ {
+  "date": "2026-10-06",
+  "event_type": "fiscal_action",
+  "entity": "ITC",
+  "value": null,
+  "cluster_id": "164b329d4dd2"
+ },
+ {
+  "date": "2026-10-06",
+  "event_type": "fiscal_action",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "024839f03666"
  }
 ]
