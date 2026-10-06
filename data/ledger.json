@@ -4800,5 +4800,12 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "456667e0d292"
+ },
+ {
+  "date": "2026-10-06",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "494308a3a52c"
  }
 ]
