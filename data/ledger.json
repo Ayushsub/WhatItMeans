@@ -4828,5 +4828,19 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "024839f03666"
+ },
+ {
+  "date": "2026-10-07",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "fca9afdaabca"
+ },
+ {
+  "date": "2026-10-07",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "fca9afdaabca"
  }
 ]
