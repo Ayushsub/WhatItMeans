@@ -4961,5 +4961,12 @@
   "entity": "Government",
   "value": "₹1 crore",
   "cluster_id": "3d86758c9241"
+ },
+ {
+  "date": "2026-10-08",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "8db6a802d575"
  }
 ]
