@@ -4954,5 +4954,12 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "3a5b30c4f780"
+ },
+ {
+  "date": "2026-10-08",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": "₹1 crore",
+  "cluster_id": "3d86758c9241"
  }
 ]
