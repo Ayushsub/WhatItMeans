@@ -4940,5 +4940,19 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "f57d8eab2507"
+ },
+ {
+  "date": "2026-10-08",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "6e3c88bfe8e1"
+ },
+ {
+  "date": "2026-10-08",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "3a5b30c4f780"
  }
 ]
