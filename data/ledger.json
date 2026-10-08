@@ -4898,5 +4898,26 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "c215070b3da1"
+ },
+ {
+  "date": "2026-10-08",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.25%",
+  "cluster_id": "33de94a20d30"
+ },
+ {
+  "date": "2026-10-08",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "33de94a20d30"
+ },
+ {
+  "date": "2026-10-08",
+  "event_type": "fiscal_action",
+  "entity": "ITC",
+  "value": null,
+  "cluster_id": "dbfff462a9d4"
  }
 ]
