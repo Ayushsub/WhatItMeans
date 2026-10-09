@@ -4996,5 +4996,47 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "4f8d019ef187"
+ },
+ {
+  "date": "2026-10-09",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "8e5f8a69e6ad"
+ },
+ {
+  "date": "2026-10-09",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": "₹1 crore",
+  "cluster_id": "357e4bf8af7a"
+ },
+ {
+  "date": "2026-10-09",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "fdabbd82bdda"
+ },
+ {
+  "date": "2026-10-09",
+  "event_type": "policy_rate",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "ee9cb47899a0"
+ },
+ {
+  "date": "2026-10-09",
+  "event_type": "credit_conditions",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "ee9cb47899a0"
+ },
+ {
+  "date": "2026-10-09",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "9d1c7593a8c1"
  }
 ]
