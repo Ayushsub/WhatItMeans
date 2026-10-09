@@ -5066,5 +5066,12 @@
   "entity": "ITC",
   "value": null,
   "cluster_id": "c0bdfa1bd4c2"
+ },
+ {
+  "date": "2026-10-09",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "9db4282264fc"
  }
 ]
