@@ -1,0 +1,109 @@
+{
+  "cluster_id": "21b5c3a19a42",
+  "analysis": {
+    "headline": "Banks detail liquidity and interest tradeoffs in sweep-in fixed deposits",
+    "hook": "Retail depositors balancing idle savings account funds between liquidity and fixed deposit yields.",
+    "gist": [
+      "Banks highlighted five differences between sweep-in and regular fixed deposits.",
+      "Sweep-in facilities balance higher fixed deposit interest with instant savings liquidity.",
+      "Premature withdrawal charges and minimum balance rules vary across major lenders."
+    ],
+    "what_happened": "On October 10, 2026, financial reporting highlighted key operational differences between sweep-in fixed deposits and regular fixed deposits across major Indian lenders including State Bank of India, HDFC Bank, and ICICI Bank. Sweep-in deposits automatically move cash exceeding a specified savings balance into higher-yielding term deposits. Regular fixed deposits lock capital for fixed tenures, requiring manual intervention and potential penalties for early withdrawals.",
+    "who_is_affected": [
+      {
+        "group": "Savings account depositors",
+        "effect": "Earn higher returns on surplus cash without manually creating individual term deposits."
+      },
+      {
+        "group": "Retail banking clients",
+        "effect": "Face potential premature withdrawal penalty rules if automated sweep withdrawals occur frequently."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Banking & Financials",
+        "direction": "mixed",
+        "why": "Automated sweep facilities help lenders retain retail clients but can raise deposit interest costs."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "Savings account balance crosses customer-selected threshold",
+        "Bank automatically converts surplus cash into unitized fixed deposits",
+        "Deficit in savings account triggers auto-reverse sweep to cover payments",
+        "Net deposit interest earned increases while bank funding costs shift"
+      ],
+      "explanation": "When account holders set up a sweep-in facility, funds beyond a defined threshold automatically shift into unitized fixed deposits earning higher interest rates. If an outgoing payment exceeds the remaining savings balance, the bank system automatically breaks the exact required deposit unit to prevent payment failure. This operational chain provides liquid cash access within seconds while maintaining higher yields for the customer. For commercial lenders, this automated liquidity management reduces customer cash drag but marginally raises the average interest paid on deposits over coming quarters.",
+      "time_horizon": "days"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Bulls argue that sweep-in features allow major banks to retain retail deposits against competing wealth products by offering automated yield optimization.",
+      "depends_on": [
+        "Sustained retail deposit inflows",
+        "Efficient digital execution of auto-sweep mechanisms"
+      ]
+    },
+    "bear_case": {
+      "argument": "The bear case rests on the concern that widespread conversion of low-cost savings deposits into higher-yielding sweep deposits compresses bank net interest margins.",
+      "depends_on": [
+        "High retail adoption of automated sweep thresholds",
+        "Inability of banks to pass higher deposit costs to borrowers"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Savings and term deposit interest rate spreads",
+        "why_it_matters": "Validates whether sweep-in yield advantages remain compelling relative to plain savings accounts",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Bank premature withdrawal penalty terms",
+        "why_it_matters": "Shows whether friction on auto-swept deposit breaks reduces effective net returns",
+        "when": "ongoing"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "The analysis relies directly on standard banking mechanisms described in the source reporting.",
+    "jargon": [
+      {
+        "term": "Sweep-in Fixed Deposit",
+        "plain_meaning": "A bank feature that automatically transfers excess money from a savings account into a higher-paying fixed deposit."
+      },
+      {
+        "term": "Liquidity",
+        "plain_meaning": "How quickly money can be accessed or spent without taking a loss."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [
+      "HDFC Bank",
+      "ICICI Bank",
+      "State Bank of India"
+    ],
+    "tickers": [
+      "HDFCBANK",
+      "ICICIBANK",
+      "SBIN"
+    ],
+    "sectors": [
+      "Banking & Financials"
+    ],
+    "macro_themes": [
+      "Credit & Liquidity"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Mint",
+      "headline": "Sweep-in FD vs regular FD: 5 key differences investors should know",
+      "url": "https://www.livemint.com/money/personal-finance/sweepin-fd-vs-regular-fd-5-key-differences-investors-should-know-11791619495414.html",
+      "published_at": "2026-10-10T08:32:45+00:00"
+    }
+  ],
+  "published_at": "2026-10-10T08:32:45Z",
+  "updated_at": "2026-10-10T13:37:23.645340Z",
+  "confidence": "high",
+  "tier": "free"
+}

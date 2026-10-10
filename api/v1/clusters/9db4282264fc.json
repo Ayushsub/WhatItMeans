@@ -1,0 +1,117 @@
+{
+  "cluster_id": "9db4282264fc",
+  "analysis": {
+    "headline": "GST council proposes 2% tds on scrap transactions",
+    "hook": "Registered buyers will need to withhold tax on plastic waste purchases",
+    "gist": [
+      "GST council proposes 2% tds on scrap deals",
+      "Adds compliance cost for buyers and sellers in waste recycling",
+      "Watch for final approval and sector response"
+    ],
+    "what_happened": "On Oct 9 2026 the GST Council announced a proposal to levy a 2% tax deducted at source (tds) on scrap transactions. The levy would apply to plastic waste, discarded tyres, electrical and electronic scrap and used cooking oil. Registered buyers must deduct tds from payments to registered suppliers and pay GST under the reverse charge mechanism for purchases from unregistered sellers.",
+    "who_is_affected": [
+      {
+        "group": "registered scrap buyers",
+        "effect": "face an extra 2% cost on each purchase, reducing net margins modestly"
+      },
+      {
+        "group": "registered scrap suppliers",
+        "effect": "receive payments net of tds, affecting cash flow but not gross revenue"
+      },
+      {
+        "group": "downstream manufacturers using recycled material",
+        "effect": "may see slightly higher input prices as costs are passed on"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "waste recycling and processing",
+        "direction": "headwind",
+        "why": "additional tax and compliance burden raises operating costs"
+      },
+      {
+        "sector": "plastics and tyre manufacturers",
+        "direction": "mixed",
+        "why": "higher scrap costs could raise input prices but may spur formalisation of supply"
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "step 1: GST council proposes 2% tds on scrap deals",
+        "step 2: buyers must deduct tds and handle reverse‑charge gst, raising transaction cost",
+        "step 3: higher costs reduce profit margins for recyclers or are passed to downstream users",
+        "step 4: earnings reflect lower margins or prices of recycled material rise"
+      ],
+      "explanation": "The proposal (step 1) forces buyers to withhold 2% of the invoice amount (step 2), which reduces cash available to suppliers and adds an administrative step. Companies in the recycling chain either absorb the cost, squeezing margins, or increase prices for downstream manufacturers (step 3). The effect shows up in quarterly earnings as lower profitability or in market prices as higher recycled‑material rates. The lag is typically a few weeks for compliance set‑up and a quarter for earnings impact.",
+      "time_horizon": "months"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Optimists argue the levy will bring more transactions into the formal economy, broaden the tax base and improve data on scrap flows, which could attract investment in recycling infrastructure.",
+      "depends_on": [
+        "final GST council approval",
+        "effective compliance mechanisms"
+      ]
+    },
+    "bear_case": {
+      "argument": "Pessimists contend the extra 2% cost will dampen demand for scrap, hurt recycling margins and push up prices for downstream manufacturers, slowing sector growth.",
+      "depends_on": [
+        "low compliance uptake",
+        "significant price pass‑through to end users"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "GST council's final decision on the tds proposal",
+        "why_it_matters": "validates both bull and bear cases",
+        "when": "by end of 2026"
+      },
+      {
+        "variable": "Compliance rates among registered buyers and sellers",
+        "why_it_matters": "bear case if low, bull case if high",
+        "when": "quarterly reporting"
+      },
+      {
+        "variable": "Price trends for recycled plastics and tyres",
+        "why_it_matters": "bear case if prices rise sharply, bull case if stable",
+        "when": "ongoing"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Only one news source but the article provides clear details",
+    "jargon": [
+      {
+        "term": "tds",
+        "plain_meaning": "tax deducted at source, a withholding tax on payments"
+      },
+      {
+        "term": "rcm",
+        "plain_meaning": "reverse charge mechanism, where the buyer, not the seller, pays the gst"
+      },
+      {
+        "term": "gst",
+        "plain_meaning": "goods and services tax, a nationwide consumption tax in India"
+      }
+    ]
+  },
+  "tags": {
+    "entities": [],
+    "tickers": [],
+    "sectors": [],
+    "macro_themes": [
+      "Fiscal & Budget"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Economic Times",
+      "headline": "GST Council proposes 2% TDS on scrap deals",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/gst-council-proposes-2-tds-on-scrap-deals/articleshow/134840930.cms",
+      "published_at": "2026-10-09T18:33:26+00:00"
+    }
+  ],
+  "published_at": "2026-10-09T18:33:26Z",
+  "updated_at": "2026-10-09T19:48:58.190022Z",
+  "confidence": "medium",
+  "tier": "free"
+}

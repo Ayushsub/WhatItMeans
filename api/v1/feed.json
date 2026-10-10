@@ -1,0 +1,429 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-10-10T18:02:52.212719+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 28,
+  "items": [
+    {
+      "cluster_id": "a3810ba04e4a",
+      "headline": "Norway begins LNG shipments to India as bilateral energy ties expand",
+      "hook": "Equinor delivers its initial liquid gas cargo to a Gujarat terminal.",
+      "gist": [
+        "Norway started supplying liquefied natural gas to India with a delivery in Gujarat.",
+        "The shipments help diversify India's energy import sources beyond traditional Middle Eastern suppliers.",
+        "Watch for long-term gas supply contracts and joint investments in green hydrogen projects."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-10T17:51:28+00:00",
+      "url": "story/a3810ba04e4a.html",
+      "api": "api/v1/clusters/a3810ba04e4a.json"
+    },
+    {
+      "cluster_id": "643f3a58edee",
+      "headline": "Personal finance analysis outlines corpus calculations for early retirement strategy",
+      "hook": "Long-term savings targets risk falling short if healthcare costs and taxes spike unexpectedly.",
+      "gist": [
+        "Retirement analysis details corpus calculation framework under the FIRE strategy.",
+        "Early retirement plans require factoring in medical inflation, taxation, and spending discipline.",
+        "Investors tracking savings adequacy amid shifting inflation prints and rising medical expenses."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-10T17:14:14+00:00",
+      "url": "story/643f3a58edee.html",
+      "api": "api/v1/clusters/643f3a58edee.json"
+    },
+    {
+      "cluster_id": "f764627657ea",
+      "headline": "India to adapt US trade pact to changed circumstances, says Piyush Goyal",
+      "hook": "Negotiations spanning Chile to the GCC could redraw terms for Indian exporters.",
+      "gist": [
+        "Piyush Goyal announced India is recalibrating US trade pact talks for current global conditions.",
+        "Parallel pact discussions continue with partners including Chile, Israel, and the GCC.",
+        "Final terms and formal treaty text across bilateral negotiations."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-10T16:34:35+00:00",
+      "url": "story/f764627657ea.html",
+      "api": "api/v1/clusters/f764627657ea.json"
+    },
+    {
+      "cluster_id": "b7a9f202017a",
+      "headline": "Government withdraws upfront IGST exemption on precious metal imports",
+      "hook": "Nominated agencies face immediate cash outflows on consignments of gold, silver, and platinum.",
+      "gist": [
+        "Upfront IGST exemptions on imported gold, silver, and platinum have been withdrawn.",
+        "Importers face higher upfront cash requirements, impacting liquidity across precious metal supply chains.",
+        "Whether jewellers pass on increased financing costs to retail buyers in domestic markets."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-10T16:16:22+00:00",
+      "url": "story/b7a9f202017a.html",
+      "api": "api/v1/clusters/b7a9f202017a.json"
+    },
+    {
+      "cluster_id": "03c94383e449",
+      "headline": "AI data centres pressure India's power grid as upgrade costs rise",
+      "hook": "Electricity officials face mounting transmission overhaul expenses from expanding computing hubs.",
+      "gist": [
+        "Rapid expansion of AI data centres strains India's electricity transmission infrastructure.",
+        "Heavy localized power draw forces costly grid upgrades and creates distribution bottlenecks.",
+        "Regional power authorities must balance infrastructure financing with rising connection demand."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-10T13:41:55+00:00",
+      "url": "story/03c94383e449.html",
+      "api": "api/v1/clusters/03c94383e449.json"
+    },
+    {
+      "cluster_id": "50d212d07378",
+      "headline": "Analysts expect PSU banks to outpace private banks in profit growth in Q2 2026",
+      "hook": "PSU banks could beat private peers in profit growth for Q2 2026",
+      "gist": [
+        "PSU banks expected to post higher profit growth",
+        "Private banks forecast stronger net interest income growth",
+        "Earnings boost linked to business growth, FCNR inflows, stake sales"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-10T12:21:26+00:00",
+      "url": "story/50d212d07378.html",
+      "api": "api/v1/clusters/50d212d07378.json"
+    },
+    {
+      "cluster_id": "d469779845ad",
+      "headline": "Ray Dalio advises inflation protection and overlooked AI stocks amid bubble risk",
+      "hook": "Dalio warns of a potential AI bubble burst",
+      "gist": [
+        "Ray Dalio cautions about an AI bubble",
+        "He suggests inflation‑protected and undervalued AI picks",
+        "Investors may shift exposure if bubble pops"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-10T12:00:00+00:00",
+      "url": "story/d469779845ad.html",
+      "api": "api/v1/clusters/d469779845ad.json"
+    },
+    {
+      "cluster_id": "843beebc8625",
+      "headline": "RBI may hike repo rate by 75 to 100 bps as inflation persists, says SBI Capital",
+      "hook": "Higher EMI burdens loom for retail borrowers facing a possible 100 basis point cycle.",
+      "gist": [
+        "SBI Capital projects RBI will raise repo rate by 75 to 100 basis points.",
+        "Borrowing costs for housing and auto loans will rise as banks pass on hikes.",
+        "Upcoming consumer inflation data releases leading up to the December 2026 policy review."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-10T10:26:46+00:00",
+      "url": "story/843beebc8625.html",
+      "api": "api/v1/clusters/843beebc8625.json"
+    },
+    {
+      "cluster_id": "21b5c3a19a42",
+      "headline": "Banks detail liquidity and interest tradeoffs in sweep-in fixed deposits",
+      "hook": "Retail depositors balancing idle savings account funds between liquidity and fixed deposit yields.",
+      "gist": [
+        "Banks highlighted five differences between sweep-in and regular fixed deposits.",
+        "Sweep-in facilities balance higher fixed deposit interest with instant savings liquidity.",
+        "Premature withdrawal charges and minimum balance rules vary across major lenders."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-10T08:32:45+00:00",
+      "url": "story/21b5c3a19a42.html",
+      "api": "api/v1/clusters/21b5c3a19a42.json"
+    },
+    {
+      "cluster_id": "734a9f7d7c78",
+      "headline": "RBI schedules Rs 25,000 crore bond sale auction for Oct 13",
+      "hook": "Six government paper tenors absorb bank cash balances on October 13.",
+      "gist": [
+        "RBI announced a Rs 25,000 crore government bond sale for October 13.",
+        "Selling bonds drains cash from the banking system, tightening liquidity conditions.",
+        "Auction yield outcomes and bank liquidity deficit levels post-auction."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-10T08:17:29+00:00",
+      "url": "story/734a9f7d7c78.html",
+      "api": "api/v1/clusters/734a9f7d7c78.json"
+    },
+    {
+      "cluster_id": "d53f0a47903f",
+      "headline": "RBI to sell $2.6 bn bonds and tighten cash reserve ratio",
+      "hook": "Banks face a higher cash reserve ratio as RBI sells $2.6 bn bonds",
+      "gist": [
+        "RBI announced $2.6 bn bond sale and stricter CRR from Oct 16.",
+        "Tighter reserves reduce bank liquidity, affecting credit supply.",
+        "Impact on loan growth and bond yields."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-10T08:13:28+00:00",
+      "url": "story/d53f0a47903f.html",
+      "api": "api/v1/clusters/d53f0a47903f.json"
+    },
+    {
+      "cluster_id": "d6b7701ac034",
+      "headline": "Experts call for open trade and stronger wto role for india",
+      "hook": "India's 2.6% growth outlook hinges on trade openness, experts say",
+      "gist": [
+        "Experts urge more open trade and active wto engagement",
+        "Open trade could sustain near‑2.6% growth pace",
+        "Watch policy moves on tariffs and wto negotiations"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-10T07:07:56+00:00",
+      "url": "story/d6b7701ac034.html",
+      "api": "api/v1/clusters/d6b7701ac034.json"
+    },
+    {
+      "cluster_id": "4907570b05cc",
+      "headline": "Avenue Supermarts Q2 net profit rises 8.5% to ₹743 crore as cost pressures squeeze margins",
+      "hook": "DMart parent revenue rose 18% to ₹19,644 crore while profit growth lagged behind.",
+      "gist": [
+        "DMart parent Avenue Supermarts reported Q2 net profit of ₹743 crore, up 8.5%.",
+        "Rising operational expenses and entry-level wage inflation compressed operating margins despite 18% revenue growth.",
+        "Management comments on wage cost trajectory and store expansion strategy in upcoming quarters."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-10T06:59:31+00:00",
+      "url": "story/4907570b05cc.html",
+      "api": "api/v1/clusters/4907570b05cc.json"
+    },
+    {
+      "cluster_id": "513ffaceea32",
+      "headline": "Brent crude breaches $100 as Middle East risks add war premium",
+      "hook": "Higher shipping costs and $100 crude threaten India's energy import bill.",
+      "gist": [
+        "Brent crude traded above $100 a barrel amid Middle East supply risks.",
+        "Sustained high oil prices threaten to increase India's import bill and inflation.",
+        "Track geopolitical developments in the Middle East and global shipping freight rates."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-10T05:56:50+00:00",
+      "url": "story/513ffaceea32.html",
+      "api": "api/v1/clusters/513ffaceea32.json"
+    },
+    {
+      "cluster_id": "d2b73f6cb5f3",
+      "headline": "SEBI notifies 2026 settlement rules and plans closing auction norms",
+      "hook": "Securities market violators can resolve cases faster through a ₹10 lakh fast-track route.",
+      "gist": [
+        "SEBI notified Settlement Regulations 2026 and announced upcoming guidelines on closing auction sessions.",
+        "The new formula prevents double counting of gains and offers fast-track dispute resolutions.",
+        "Detailed rules regarding derivative expiry settlements are expected within a week."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-10T04:06:27+00:00",
+      "url": "story/d2b73f6cb5f3.html",
+      "api": "api/v1/clusters/d2b73f6cb5f3.json"
+    },
+    {
+      "cluster_id": "b6f0ee120432",
+      "headline": "Indian equities end 8‑week slump as Sensex rebounds on falling crude",
+      "hook": "FII outflows of Rs 30,294 crore contrast with DII buying of Rs 30,313 crore",
+      "gist": [
+        "Sensex and Nifty snapped an eight‑week losing streak",
+        "Lower crude prices helped lift equities despite foreign outflows",
+        "Watch crude trends, foreign flows and inflation data"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-10T03:59:44+00:00",
+      "url": "story/b6f0ee120432.html",
+      "api": "api/v1/clusters/b6f0ee120432.json"
+    },
+    {
+      "cluster_id": "0f160b3fffb5",
+      "headline": "India faces sugar supply squeeze by mid-2027 despite comfortable Diwali stocks",
+      "hook": "Domestic sweet manufacturers retain adequate supply today before reserve buffers deplete in mid-2027.",
+      "gist": [
+        "India has comfortable festive sugar stocks, but the 2026-27 balance sheet lacks safety buffers.",
+        "Thin inventory reserves threaten to spark domestic sugar price inflation by mid-2027.",
+        "Sugarcane planting trends and government trade policy adjustments ahead of the 2026-27 crop cycle."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-10T03:56:58+00:00",
+      "url": "story/0f160b3fffb5.html",
+      "api": "api/v1/clusters/0f160b3fffb5.json"
+    },
+    {
+      "cluster_id": "8f116567e5e4",
+      "headline": "US markets gain weekly ground ahead of bank earnings and CPI data",
+      "hook": "Goldman Sachs earnings and consumer inflation data put record Wall Street valuations at risk.",
+      "gist": [
+        "US stocks logged weekly gains with the S&P 500 hovering near record highs.",
+        "Upcoming bank earnings and inflation prints will determine corporate margins and interest rate paths.",
+        "Results from JPMorgan and Goldman Sachs alongside the US consumer price index report."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-09T20:09:34+00:00",
+      "url": "story/8f116567e5e4.html",
+      "api": "api/v1/clusters/8f116567e5e4.json"
+    },
+    {
+      "cluster_id": "92bcd8dd563a",
+      "headline": "US lifts sanctions on Russian diesel sales to global markets",
+      "hook": "American fuel pumps face shifting supplies weeks before November midterm election voting.",
+      "gist": [
+        "The US Treasury lifted sanctions on Russian diesel following a Trump-Putin agreement.",
+        "Additional global supply could soften diesel prices and ease transportation fuel costs.",
+        "Track global diesel crack spreads and political pushback from international allies."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-09T20:07:53+00:00",
+      "url": "story/92bcd8dd563a.html",
+      "api": "api/v1/clusters/92bcd8dd563a.json"
+    },
+    {
+      "cluster_id": "697010442d75",
+      "headline": "US Treasury dip as energy‑driven inflation worries persist",
+      "hook": "Investors eye rising energy costs as the trigger for bond moves",
+      "gist": [
+        "Treasuries slipped as energy‑driven inflation concerns rose",
+        "Higher inflation expectations could push the Fed to hike rates",
+        "Watch US CPI and Fed commentary for rate trajectory"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-09T19:55:35+00:00",
+      "url": "story/697010442d75.html",
+      "api": "api/v1/clusters/697010442d75.json"
+    },
+    {
+      "cluster_id": "755a709e9247",
+      "headline": "RBI opens special dollar window for public sector oil marketing companies",
+      "hook": "Three state-run refiners will bypass the open currency market for daily crude purchases.",
+      "gist": [
+        "RBI opened a dedicated dollar window for three state oil marketing companies.",
+        "Diverting large oil dollar bids relieves immediate depreciation pressure on the rupee.",
+        "Watch foreign exchange reserves data to gauge the drawdown from central bank coffers."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-09T19:55:00+00:00",
+      "url": "story/755a709e9247.html",
+      "api": "api/v1/clusters/755a709e9247.json"
+    },
+    {
+      "cluster_id": "20cf1916f4d3",
+      "headline": "Gulf oil output falls as hurricane shuts three quarters of production",
+      "hook": "Nearly 75% of Gulf oil halted, pushing crude prices higher",
+      "gist": [
+        "Hurricane Isaias shut ~75% of Gulf oil output",
+        "Higher crude prices raise Indian fuel costs",
+        "Watch oil supply, prices, and construction costs"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-09T19:53:29+00:00",
+      "url": "story/20cf1916f4d3.html",
+      "api": "api/v1/clusters/20cf1916f4d3.json"
+    },
+    {
+      "cluster_id": "515c53877336",
+      "headline": "RBI issues two foreign exchange circulars to ensure orderly market conditions",
+      "hook": "Circulars 25 and 26 alter operational parameters for foreign exchange market participants.",
+      "gist": [
+        "RBI issued two regulatory circulars targeting operations in the foreign exchange market.",
+        "The central bank intervenes when volatility threatens orderly rupee trading.",
+        "Specific operational instructions detailed in Circulars 25 and 26."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-09T19:50:00+00:00",
+      "url": "story/515c53877336.html",
+      "api": "api/v1/clusters/515c53877336.json"
+    },
+    {
+      "cluster_id": "038ff54b319c",
+      "headline": "SEBI notifies Settlement of Administrative and Civil Proceedings Regulations, 2026",
+      "hook": "SEBI's 2026 settlement regulations alter terms for concluding regulatory proceedings outside court.",
+      "gist": [
+        "SEBI notified revised regulations for settling administrative and civil proceedings.",
+        "The framework governs how market entities resolve regulatory charges without trial.",
+        "Detailed procedural guidelines and settlement fee revisions remain to be observed."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-09T19:45:10.680447+00:00",
+      "url": "story/038ff54b319c.html",
+      "api": "api/v1/clusters/038ff54b319c.json"
+    },
+    {
+      "cluster_id": "d68655949477",
+      "headline": "Food industry warns of 2027 supply shock from potential Super El Nino",
+      "hook": "Sugar and oilseed harvests face risk from a projected 2027 weather event.",
+      "gist": [
+        "Food industry warns a 2027 Super El Nino could disrupt crops and hike inflation.",
+        "Lower agricultural yields would pressure consumer budgets and food processing margins.",
+        "Meteorological forecasts for 2027 and early domestic buffer stocking measures."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-09T18:36:20+00:00",
+      "url": "story/d68655949477.html",
+      "api": "api/v1/clusters/d68655949477.json"
+    },
+    {
+      "cluster_id": "9db4282264fc",
+      "headline": "GST council proposes 2% tds on scrap transactions",
+      "hook": "Registered buyers will need to withhold tax on plastic waste purchases",
+      "gist": [
+        "GST council proposes 2% tds on scrap deals",
+        "Adds compliance cost for buyers and sellers in waste recycling",
+        "Watch for final approval and sector response"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-09T18:33:26+00:00",
+      "url": "story/9db4282264fc.html",
+      "api": "api/v1/clusters/9db4282264fc.json"
+    },
+    {
+      "cluster_id": "be05ab147408",
+      "headline": "GST council imposes 5% tax on major platform operators",
+      "hook": "5% GST applies to rides, food and e‑commerce platforms alike",
+      "gist": [
+        "Uniform 5% GST announced for major platforms",
+        "Higher tax could raise prices for users",
+        "Watch compliance costs and consumer response"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-09T18:32:45+00:00",
+      "url": "story/be05ab147408.html",
+      "api": "api/v1/clusters/be05ab147408.json"
+    },
+    {
+      "cluster_id": "e258f1b2cf49",
+      "headline": "Airtel targets Rs 300 ARPU as postpaid share to rise to 20%",
+      "hook": "Postpaid share aims to jump from 8% to 20%",
+      "gist": [
+        "Airtel says ARPU will soon exceed Rs 300",
+        "Higher ARPU could lift telecom earnings",
+        "Watch postpaid conversion and tariff moves"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-09T18:26:18+00:00",
+      "url": "story/e258f1b2cf49.html",
+      "api": "api/v1/clusters/e258f1b2cf49.json"
+    }
+  ]
+}
