@@ -5094,5 +5094,19 @@
   "entity": "Growth",
   "value": "2.6%",
   "cluster_id": "2b145034caab"
+ },
+ {
+  "date": "2026-10-10",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "513ffaceea32"
+ },
+ {
+  "date": "2026-10-10",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "7d2565d35f2d"
  }
 ]
