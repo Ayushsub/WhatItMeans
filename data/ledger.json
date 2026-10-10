@@ -5073,5 +5073,26 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "9db4282264fc"
+ },
+ {
+  "date": "2026-10-10",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "be317c01a673"
+ },
+ {
+  "date": "2026-10-10",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "dd885acebf5c"
+ },
+ {
+  "date": "2026-10-10",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "2.6%",
+  "cluster_id": "2b145034caab"
  }
 ]
