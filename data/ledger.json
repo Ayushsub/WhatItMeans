@@ -5108,5 +5108,26 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "7d2565d35f2d"
+ },
+ {
+  "date": "2026-10-10",
+  "event_type": "policy_rate",
+  "entity": "Nifty",
+  "value": null,
+  "cluster_id": "0c631a655e3a"
+ },
+ {
+  "date": "2026-10-10",
+  "event_type": "credit_conditions",
+  "entity": "HDFC Bank",
+  "value": null,
+  "cluster_id": "21b5c3a19a42"
+ },
+ {
+  "date": "2026-10-10",
+  "event_type": "policy_rate",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "c1e23371b7d0"
  }
 ]
