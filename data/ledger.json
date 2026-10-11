@@ -5150,5 +5150,19 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "9264fb4a79b6"
+ },
+ {
+  "date": "2026-10-11",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "b6f0ee120432"
+ },
+ {
+  "date": "2026-10-11",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "b6f0ee120432"
  }
 ]
