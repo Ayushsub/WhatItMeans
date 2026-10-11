@@ -5213,5 +5213,12 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "dca9abdd9afe"
+ },
+ {
+  "date": "2026-10-11",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "8e463fb4c0b8"
  }
 ]
