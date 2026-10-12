@@ -5290,5 +5290,12 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "f8149b5240c2"
+ },
+ {
+  "date": "2026-10-12",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "349c1ba54566"
  }
 ]
