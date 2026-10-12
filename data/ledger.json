@@ -5241,5 +5241,54 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "b8b928d39909"
+ },
+ {
+  "date": "2026-10-12",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "bbbba3c3b4cf"
+ },
+ {
+  "date": "2026-10-12",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "7.35%",
+  "cluster_id": "bbbba3c3b4cf"
+ },
+ {
+  "date": "2026-10-12",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "6%",
+  "cluster_id": "e422a336b1ce"
+ },
+ {
+  "date": "2026-10-12",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "a70d329b9e3a"
+ },
+ {
+  "date": "2026-10-12",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "3145d1b26678"
+ },
+ {
+  "date": "2026-10-12",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "ef4b46be34b2"
+ },
+ {
+  "date": "2026-10-12",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "f8149b5240c2"
  }
 ]
