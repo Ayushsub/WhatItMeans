@@ -5332,5 +5332,33 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "8a2e1b2d7158"
+ },
+ {
+  "date": "2026-10-13",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "7.8%",
+  "cluster_id": "389c213d83ed"
+ },
+ {
+  "date": "2026-10-13",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "d4b4d0626101"
+ },
+ {
+  "date": "2026-10-13",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "29b9965d5801"
+ },
+ {
+  "date": "2026-10-13",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "8224a602b9c0"
  }
 ]
