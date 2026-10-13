@@ -5360,5 +5360,12 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "8224a602b9c0"
+ },
+ {
+  "date": "2026-10-13",
+  "event_type": "fiscal_action",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "fa6ac7cb050f"
  }
 ]
