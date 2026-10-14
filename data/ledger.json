@@ -5388,5 +5388,26 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "8f75c5ea528e"
+ },
+ {
+  "date": "2026-10-14",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "7.2%",
+  "cluster_id": "99a43c4b164d"
+ },
+ {
+  "date": "2026-10-14",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "5d7d102fcbc4"
+ },
+ {
+  "date": "2026-10-14",
+  "event_type": "policy_rate",
+  "entity": "Hindustan Unilever",
+  "value": null,
+  "cluster_id": "ccb87c413213"
  }
 ]
