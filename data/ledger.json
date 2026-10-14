@@ -5409,5 +5409,12 @@
   "entity": "Hindustan Unilever",
   "value": null,
   "cluster_id": "ccb87c413213"
+ },
+ {
+  "date": "2026-10-14",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "53f6fae7401c"
  }
 ]
