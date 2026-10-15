@@ -5458,5 +5458,12 @@
   "entity": "Growth",
   "value": "7%",
   "cluster_id": "b6f67e47dd41"
+ },
+ {
+  "date": "2026-10-15",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "92eac9b9b2d9"
  }
 ]
