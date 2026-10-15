@@ -5479,5 +5479,12 @@
   "entity": "Credit & Liquidity",
   "value": "₹5,175 crore",
   "cluster_id": "8e8f43422e2e"
+ },
+ {
+  "date": "2026-10-15",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "4adc9c500d5b"
  }
 ]
