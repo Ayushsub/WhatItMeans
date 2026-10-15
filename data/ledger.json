@@ -5465,5 +5465,19 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "92eac9b9b2d9"
+ },
+ {
+  "date": "2026-10-15",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "0d5efc2d34c0"
+ },
+ {
+  "date": "2026-10-15",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "₹5,175 crore",
+  "cluster_id": "8e8f43422e2e"
  }
 ]
