@@ -5577,5 +5577,19 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "ff12e5655f0d"
+ },
+ {
+  "date": "2026-10-16",
+  "event_type": "policy_rate",
+  "entity": "HDFC Bank",
+  "value": null,
+  "cluster_id": "cab7a0a205e9"
+ },
+ {
+  "date": "2026-10-16",
+  "event_type": "credit_conditions",
+  "entity": "HDFC Bank",
+  "value": "₹8,415 crore",
+  "cluster_id": "cab7a0a205e9"
  }
 ]
