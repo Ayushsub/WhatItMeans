@@ -5591,5 +5591,19 @@
   "entity": "HDFC Bank",
   "value": "₹8,415 crore",
   "cluster_id": "cab7a0a205e9"
+ },
+ {
+  "date": "2026-10-16",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "494308a3a52c"
+ },
+ {
+  "date": "2026-10-16",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "56dcfd7e3b4e"
  }
 ]
