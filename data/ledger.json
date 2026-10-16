@@ -5542,5 +5542,26 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "3f5b228bc7e0"
+ },
+ {
+  "date": "2026-10-16",
+  "event_type": "policy_rate",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "61c7019a536a"
+ },
+ {
+  "date": "2026-10-16",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "74d6e1cbf82c"
+ },
+ {
+  "date": "2026-10-16",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "aeaf5afb3678"
  }
 ]
