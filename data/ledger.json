@@ -5563,5 +5563,19 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "aeaf5afb3678"
+ },
+ {
+  "date": "2026-10-16",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "94e7a56f007e"
+ },
+ {
+  "date": "2026-10-16",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "ff12e5655f0d"
  }
 ]
