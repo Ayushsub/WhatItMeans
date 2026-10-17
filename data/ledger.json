@@ -5605,5 +5605,26 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "56dcfd7e3b4e"
+ },
+ {
+  "date": "2026-10-17",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "5.2%",
+  "cluster_id": "64d2e53c18da"
+ },
+ {
+  "date": "2026-10-17",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "64d2e53c18da"
+ },
+ {
+  "date": "2026-10-17",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "605672db49cc"
  }
 ]
