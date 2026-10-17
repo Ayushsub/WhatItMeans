@@ -5626,5 +5626,33 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "605672db49cc"
+ },
+ {
+  "date": "2026-10-17",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "de19773167b2"
+ },
+ {
+  "date": "2026-10-17",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "73e01e6f7c32"
+ },
+ {
+  "date": "2026-10-17",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.25%",
+  "cluster_id": "dcd57a331126"
+ },
+ {
+  "date": "2026-10-17",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "7.38%",
+  "cluster_id": "13083a2e6d4f"
  }
 ]
