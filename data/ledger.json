@@ -5682,5 +5682,12 @@
   "entity": "Growth",
   "value": "7.1%",
   "cluster_id": "15c99e10b6fc"
+ },
+ {
+  "date": "2026-10-17",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "03d18fed74bb"
  }
 ]
