@@ -5689,5 +5689,12 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "03d18fed74bb"
+ },
+ {
+  "date": "2026-10-17",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "fc6131b38fba"
  }
 ]
