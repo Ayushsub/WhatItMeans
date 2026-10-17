@@ -1,0 +1,127 @@
+{
+  "cluster_id": "c55fcef3eddd",
+  "analysis": {
+    "headline": "Nifty IT logs biggest weekly jump since 2008 as index surges 11.7%",
+    "hook": "An 18-year weekly record in software shares masks regional semiconductor weakness.",
+    "gist": [
+      "Nifty IT gained 11.7% in its best weekly rally since 2008.",
+      "Strong quarterly earnings revived institutional buying across large-cap software and banking counters.",
+      "Sustained FII flows and technical resistance levels near 23,450 determine further upside."
+    ],
+    "what_happened": "The Nifty IT index jumped 11.7% over the week ending October 17, 2026, marking its largest weekly gain in 18 years. Gains were propelled by better-than-expected quarterly earnings from firms like HCLTech, lifting the broader Nifty up 2.78% to reclaim its 200-week moving average. This domestic rally occurred even as Asian semiconductor stocks experienced notable declines.",
+    "who_is_affected": [
+      {
+        "group": "IT equity investors",
+        "effect": "Holders of software shares saw double-digit weekly portfolio gains led by large-cap outperformance."
+      },
+      {
+        "group": "Derivative traders",
+        "effect": "Traders face key resistance bands between 23,450 and 23,650 while defending support near 22,750."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT & Tech",
+        "direction": "tailwind",
+        "why": "Strong quarterly earnings reports triggered the sector's steepest weekly advance since 2008."
+      },
+      {
+        "sector": "Banking & Financials",
+        "direction": "tailwind",
+        "why": "Improving institutional inflows and relative strength helped private banks support the broader benchmark rebound."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "HCLTech and peers deliver quarterly earnings that beat muted market expectations",
+        "Institutional investors allocate fresh capital into large-cap software companies",
+        "Heavyweight buying lifts Nifty IT by 11.7% and pulls the headline Nifty above its 200-week moving average",
+        "Crossing key technical benchmarks prompts broader momentum buying across banking and media"
+      ],
+      "explanation": "When major software exporters report earnings that surpass low forecasts, institutional investors quickly re-evaluate their valuation models. This brings immediate inflows into index heavyweights within days, driving up sectoral benchmarks. Because technology carries heavy weighting in major indices, this rally pulls the headline market above long-term averages. Over the ensuing weeks, crossing these moving averages often encourages systematic funds and short sellers to adjust positions, spreading liquidity into other sectors.",
+      "time_horizon": "weeks"
+    },
+    "market_reaction": "The Nifty IT index surged 11.7% in its best weekly gain since 2008, while the headline Nifty rose 2.78% to reclaim its 200-week moving average.",
+    "bull_case": {
+      "argument": "Market analysts argue that strong quarterly earnings from tech leaders combined with improving foreign institutional flows will drive the Nifty through resistance towards 23,650.",
+      "depends_on": [
+        "Earnings beats continuing across upcoming corporate reports",
+        "Foreign institutional investors maintaining sustained net inflows"
+      ]
+    },
+    "bear_case": {
+      "argument": "Cautious market observers argue that weak underlying momentum indicators and heavy overhead resistance near 23,450 make a durable market reversal uncertain.",
+      "depends_on": [
+        "Global tech and semiconductor weakness spilling into Indian IT demand",
+        "The Nifty failing to hold the 22,750 support level"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Foreign institutional investor (FII) flows",
+        "why_it_matters": "Determines whether the large-cap rebound has persistent foreign capital backing",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Nifty holding the 22,750 support level",
+        "why_it_matters": "A drop below this level invalidates the recent technical recovery",
+        "when": "ongoing"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Multiple reports confirm the exact 11.7% sectoral surge, broader index gains, and technical levels.",
+    "jargon": [
+      {
+        "term": "200-week moving average",
+        "plain_meaning": "The average closing level over the last 200 weeks, used as a baseline to judge long-term market trends."
+      },
+      {
+        "term": "FII flows",
+        "plain_meaning": "Net capital moving into or out of domestic financial assets from foreign institutional funds."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [
+      "TCS",
+      "State Bank of India",
+      "Nifty"
+    ],
+    "tickers": [
+      "TCS",
+      "SBIN"
+    ],
+    "sectors": [
+      "Banking & Financials",
+      "IT & Tech",
+      "Pharma & Healthcare"
+    ],
+    "macro_themes": [
+      "Institutional Flows"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Economic Times",
+      "headline": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
+      "published_at": "2026-10-17T04:16:40+00:00"
+    },
+    {
+      "name": "Economic Times",
+      "headline": "F&O Talk: Nifty’s break above 23,450 could push index to 23,650; Sudeep Shah picks Tech Mahindra, TCS strategy",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-23450-could-push-index-to-23650-sudeep-shah-picks-tech-mahindra-tcs-strategy/articleshow/135009790.cms",
+      "published_at": "2026-10-17T07:27:50+00:00"
+    },
+    {
+      "name": "Economic Times",
+      "headline": "Nifty reclaims 200 WMA; eyes further gains as key resistance shapes next move",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-reclaims-200-wma-eyes-further-gains-as-key-resistance-shapes-next-move/articleshow/135011480.cms",
+      "published_at": "2026-10-17T09:49:28+00:00"
+    }
+  ],
+  "published_at": "2026-10-17T04:16:40Z",
+  "updated_at": "2026-10-17T18:50:42.483162Z",
+  "confidence": "high",
+  "tier": "free"
+}

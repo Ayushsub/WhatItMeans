@@ -1,0 +1,113 @@
+{
+  "cluster_id": "dcd57a331126",
+  "analysis": {
+    "headline": "SBI raises MCLR lending rates by 15 basis points after RBI policy hike",
+    "hook": "A 15-basis-point increase directly touches five distinct tenors of existing SBI borrowers.",
+    "gist": [
+      "SBI raised marginal cost of funds-based lending rates by 15 basis points.",
+      "Borrowing costs rise for corporate and legacy retail loans linked to MCLR.",
+      "Watch whether competing lenders follow and if credit growth momentum slows down."
+    ],
+    "what_happened": "State Bank of India increased its marginal cost of funds-based lending rates by 15 basis points across five tenors. The adjustment follows the Reserve Bank of India raising the benchmark repo rate by 25 basis points from 5.25% to 5.50% on October 16, 2026.",
+    "who_is_affected": [
+      {
+        "group": "existing SBI borrowers on MCLR contracts",
+        "effect": "Their loan interest rates will rise by 0.15% at their next scheduled rate reset date, increasing interest outgo."
+      },
+      {
+        "group": "corporate borrowers seeking fresh credit",
+        "effect": "New loans and working capital lines linked to SBI's MCLR benchmarks will carry immediately higher borrowing costs."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Banking",
+        "direction": "tailwind",
+        "why": "Lending yields adjust upward ahead of deposit costs, offering near-term support to net interest margins."
+      },
+      {
+        "sector": "Capital-intensive industries",
+        "direction": "headwind",
+        "why": "Higher benchmark rates raise corporate debt servicing costs and lift the hurdle rate for new investments."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "RBI raises the repo rate by 25 basis points to 5.50%",
+        "SBI reflects higher funding costs by raising MCLR by 15 basis points across five tenors",
+        "Contractual interest rates reset upward on linked commercial and retail loans",
+        "Higher debt-service costs reduce corporate cash flows and borrower disposable income"
+      ],
+      "explanation": "The sequence begins when the RBI raises the policy rate, lifting short-term borrowing costs for commercial banks. Within days, SBI adjusted its internal lending benchmark, the MCLR, upward by 15 basis points. Over the following months, loans tied to these tenors reprice on their contractual reset dates. This ultimately translates into higher quarterly finance expenses for businesses and larger monthly payouts for borrowers.",
+      "time_horizon": "months"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Bulls argue that proactive rate increases help SBI protect net interest margins before deposit cost pressures catch up.",
+      "depends_on": [
+        "Deposit rates rising more slowly than asset yields",
+        "Sustained credit demand despite higher borrowing expenses"
+      ]
+    },
+    "bear_case": {
+      "argument": "The bear case rests on the view that successive rate hikes may curb credit demand and elevate repayment strains among borrowers.",
+      "depends_on": [
+        "Corporates deferring planned capital expenditure",
+        "Rising slippages or delinquencies in rate-sensitive loan portfolios"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Peer bank MCLR and lending rate revisions",
+        "why_it_matters": "Shows whether the rate increase spreads across the wider banking system",
+        "when": "ongoing"
+      },
+      {
+        "variable": "SBI term deposit rate changes",
+        "why_it_matters": "Determines whether rising cost of deposits erodes the margin benefit of higher lending rates",
+        "when": "ongoing"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "The report provides specific rate data from SBI and RBI, but comes from a single news source.",
+    "jargon": [
+      {
+        "term": "MCLR",
+        "plain_meaning": "Marginal Cost of Funds-based Lending Rate: an internal benchmark below which a bank cannot lend, tied to its cost of obtaining fresh funds."
+      },
+      {
+        "term": "Repo rate",
+        "plain_meaning": "The interest rate at which the Reserve Bank of India lends short-term funds to commercial banks."
+      },
+      {
+        "term": "Basis point",
+        "plain_meaning": "A financial unit of measurement equal to 0.01 percentage point; 15 basis points equals 0.15%."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [
+      "RBI",
+      "State Bank of India"
+    ],
+    "tickers": [
+      "SBIN"
+    ],
+    "sectors": [],
+    "macro_themes": [
+      "Interest Rates"
+    ]
+  },
+  "sources": [
+    {
+      "name": "The Hindu BusinessLine",
+      "headline": "SBI ups marginal cost of funds-based lending rates by 15 basis points across five tenors",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/sbi-ups-marginal-cost-of-funds-based-lending-rates-by-15-basis-points-across-five-tenors/article71592861.ece",
+      "published_at": "2026-10-16T23:12:20+00:00"
+    }
+  ],
+  "published_at": "2026-10-16T23:12:20Z",
+  "updated_at": "2026-10-17T05:26:30.662286Z",
+  "confidence": "medium",
+  "tier": "free"
+}

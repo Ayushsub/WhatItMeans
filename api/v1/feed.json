@@ -1,0 +1,519 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-10-17T21:12:29.929749+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 34,
+  "items": [
+    {
+      "cluster_id": "2fe0bbb3e670",
+      "headline": "India notifies first tariff cuts on New Zealand imports under FTA",
+      "hook": "Zero-duty sheep meat and cheaper imported wine arrive in domestic markets on October 20.",
+      "gist": [
+        "India notified duty cuts on select New Zealand goods starting October 20.",
+        "Imported sheep meat drops to zero duty alongside lower tariffs on wine.",
+        "Watch domestic meat and wine producer price responses over coming quarters."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T19:11:01+00:00",
+      "url": "story/2fe0bbb3e670.html",
+      "api": "api/v1/clusters/2fe0bbb3e670.json"
+    },
+    {
+      "cluster_id": "229549c88650",
+      "headline": "Sensex drops 252 points as crude prices and inflation weigh",
+      "hook": "A 252-point drop in the Sensex reflects growing friction from energy costs.",
+      "gist": [
+        "Sensex fell 251.89 points to settle at 72,781.89 amid inflation and crude concerns.",
+        "Rising oil prices increase import bills and threaten corporate profit margins.",
+        "Watch crude price trends and upcoming central bank commentary on inflation."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T18:25:33+00:00",
+      "url": "story/229549c88650.html",
+      "api": "api/v1/clusters/229549c88650.json"
+    },
+    {
+      "cluster_id": "b03d0a18585c",
+      "headline": "Ntpc plans green hydrogen exports to Asian and European markets",
+      "hook": "NTPC targets Asian and European markets for green hydrogen exports",
+      "gist": [
+        "NTPC announced plans to export green hydrogen to Asian and European markets",
+        "Exports could open new revenue streams and boost India's clean energy profile",
+        "Policy support, cost of electrolyzers, and overseas demand"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T16:39:09+00:00",
+      "url": "story/b03d0a18585c.html",
+      "api": "api/v1/clusters/b03d0a18585c.json"
+    },
+    {
+      "cluster_id": "ee039ba325e1",
+      "headline": "Hurricane Isaias threatens US Gulf Coast oil and gas facilities",
+      "hook": "Gulf Coast energy infrastructure faces precautionary shut-ins as a Category 2 storm approaches.",
+      "gist": [
+        "Category 2 Hurricane Isaias approaches the US Gulf Coast, triggering energy facility shut-ins.",
+        "Offshore halts can tighten global fuel supply, lifting landed energy costs for net importers.",
+        "Extent of physical damage to coastal refineries and duration of offshore production halts."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-17T16:30:38.405655+00:00",
+      "url": "story/ee039ba325e1.html",
+      "api": "api/v1/clusters/ee039ba325e1.json"
+    },
+    {
+      "cluster_id": "f45d95f7fe18",
+      "headline": "Nifty 50 and Nifty Bank show technical reversal signals in derivatives market",
+      "hook": "Nifty Bank tests a critical barrier as derivative contracts signal potential index reversals.",
+      "gist": [
+        "Reversal patterns emerge in Nifty 50 while Nifty Bank tests a crucial barrier.",
+        "Shifts in derivative positioning can trigger sharp directional momentum across broad equity benchmarks.",
+        "Price action around Nifty Bank's key hurdle level in the upcoming sessions."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-17T16:03:52+00:00",
+      "url": "story/f45d95f7fe18.html",
+      "api": "api/v1/clusters/f45d95f7fe18.json"
+    },
+    {
+      "cluster_id": "8224a602b9c0",
+      "headline": "ADNOC explores expanded strategic fuel storage and long-term LPG deals with India",
+      "hook": "Over 500,000 daily crude barrels tie domestic energy security directly to Abu Dhabi talks.",
+      "gist": [
+        "ADNOC plans more long-term LPG supply agreements with India.",
+        "Bilateral supply covers roughly one in every ten barrels India imports.",
+        "Watch for final storage agreements between ADNOC and ISPRL."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T15:08:27+00:00",
+      "url": "story/8224a602b9c0.html",
+      "api": "api/v1/clusters/8224a602b9c0.json"
+    },
+    {
+      "cluster_id": "8c3ab56068fe",
+      "headline": "Commerce ministry holds fta outreach in jaipur to promote exports",
+      "hook": "Exporters gather in Jaipur for ministry’s FTAs guidance session",
+      "gist": [
+        "Commerce ministry organized an export outreach in Jaipur on Oct 17",
+        "The event aims to help exporters use FTA benefits for higher sales",
+        "Watch exporter uptake of FTA rules and export growth data"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T15:06:04+00:00",
+      "url": "story/8c3ab56068fe.html",
+      "api": "api/v1/clusters/8c3ab56068fe.json"
+    },
+    {
+      "cluster_id": "4f2ded06fc98",
+      "headline": "NpPA caps trade margins on 137 cancer drugs at 30%, prices to fall",
+      "hook": "30% margin cap on 137 cancer drugs could cut prices up to 70%",
+      "gist": [
+        "NPPA limits trade margins on 137 cancer drugs to 30%.",
+        "Retail prices may drop as much as 70% for patients.",
+        "Watch pharma revenues and patient out‑of‑pocket costs."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T14:22:02+00:00",
+      "url": "story/4f2ded06fc98.html",
+      "api": "api/v1/clusters/4f2ded06fc98.json"
+    },
+    {
+      "cluster_id": "ef443d83b65b",
+      "headline": "Retail inflation climbs to 23-month high of 5.5% in September",
+      "hook": "Rising food and fuel costs threaten consumer wallets and push borrowing rate cuts away.",
+      "gist": [
+        "Retail inflation surged to 5.5% in September, up from 4.8% in August.",
+        "Accelerating food and energy prices threaten purchasing power and delay anticipated rate cuts.",
+        "Upcoming food price arrivals and RBI's stance in upcoming policy reviews."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T13:35:32+00:00",
+      "url": "story/ef443d83b65b.html",
+      "api": "api/v1/clusters/ef443d83b65b.json"
+    },
+    {
+      "cluster_id": "fc6131b38fba",
+      "headline": "Sensex slides 548 points as crude oil spikes and foreign funds sell",
+      "hook": "An intraday swing of 796 points erased early equity gains across Mumbai trading.",
+      "gist": [
+        "The BSE Sensex dropped 548 points to close at 71,924.68 after morning gains.",
+        "Surging crude prices and foreign institutional selling pressure domestic macroeconomic stability and margins.",
+        "Global crude oil price movements and daily net foreign portfolio investment flows."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T13:08:00+00:00",
+      "url": "story/fc6131b38fba.html",
+      "api": "api/v1/clusters/fc6131b38fba.json"
+    },
+    {
+      "cluster_id": "81e79b7aedcb",
+      "headline": "Tata Motors and Stellantis partner to manufacture export vehicles for 50 markets",
+      "hook": "Tata Motors will target exports across 50 international markets through a strategic architecture-sharing deal.",
+      "gist": [
+        "Tata Motors and Stellantis expanded their alliance to build vehicles in India.",
+        "Sharing tech and vehicle platforms helps Tata scale export volumes globally.",
+        "Monitor production timelines and execution across the targeted 50 global export markets."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T13:00:49+00:00",
+      "url": "story/81e79b7aedcb.html",
+      "api": "api/v1/clusters/81e79b7aedcb.json"
+    },
+    {
+      "cluster_id": "76dafb016732",
+      "headline": "RBI introduces forex measures to curb rupee volatility",
+      "hook": "Currency risk management rules target speculative bets on the foreign exchange market.",
+      "gist": [
+        "RBI announced regulatory measures on October 17 to reduce forex market volatility.",
+        "Tighter risk management rules aim to stabilize currency swings and curb speculation.",
+        "Foreign exchange liquidity levels and rupee exchange rate movements against major currencies."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T12:59:33+00:00",
+      "url": "story/76dafb016732.html",
+      "api": "api/v1/clusters/76dafb016732.json"
+    },
+    {
+      "cluster_id": "6f94479907b0",
+      "headline": "Debt funds offload ₹51 billion in government bonds following RBI rate hike",
+      "hook": "A ₹378 billion quarterly exit is deepening across domestic debt portfolios.",
+      "gist": [
+        "Debt funds sold ₹51 billion of sovereign bonds after RBI rate hike.",
+        "Higher supply lowers bond prices and pushes market borrowing yields higher.",
+        "Watch whether institutional selling extends toward projected $4.5 billion levels."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T12:31:40+00:00",
+      "url": "story/6f94479907b0.html",
+      "api": "api/v1/clusters/6f94479907b0.json"
+    },
+    {
+      "cluster_id": "e1cb7212aa7a",
+      "headline": "Rupee strengthens to 95.38 against US dollar on FX intervention measures",
+      "hook": "Indian importers face altered dollar purchasing costs after regulatory intervention shifts market demand.",
+      "gist": [
+        "Rupee rose up to 94.96 intraday before closing at 95.38 against the US dollar.",
+        "Dedicated FX windows for oil firms reduced open-market dollar demand, supporting rupee strength.",
+        "Track crude oil price movements and global dollar index trends for sustained currency impact."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-17T12:21:36+00:00",
+      "url": "story/e1cb7212aa7a.html",
+      "api": "api/v1/clusters/e1cb7212aa7a.json"
+    },
+    {
+      "cluster_id": "a965a5725dda",
+      "headline": "Indian shares rebound in early trade on softer crude oil and IT gains",
+      "hook": "Softer crude eases imported cost pressures across 30 benchmark Sensex companies.",
+      "gist": [
+        "Stock indices opened higher supported by retreating global crude oil prices.",
+        "Lower oil bills reduce import costs and help domestic inflation pressures.",
+        "Trajectory of global oil benchmarks and incoming quarterly corporate earnings."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T12:18:55+00:00",
+      "url": "story/a965a5725dda.html",
+      "api": "api/v1/clusters/a965a5725dda.json"
+    },
+    {
+      "cluster_id": "356d68462608",
+      "headline": "RBI grants in-principle payment aggregator approval to Axis Bank's Freecharge",
+      "hook": "A 34% surge in UPI transactions sets up Freecharge's FY27 merchant processing launch.",
+      "gist": [
+        "Freecharge received RBI in-principle approval to operate as a payment aggregator.",
+        "The nod covers PA-O1 and PA-P1 categories starting in financial year 2027.",
+        "Commercial launch timelines and final licence compliance milestones from the RBI."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T11:48:50+00:00",
+      "url": "story/356d68462608.html",
+      "api": "api/v1/clusters/356d68462608.json"
+    },
+    {
+      "cluster_id": "15ea3c68d64b",
+      "headline": "US Fed upcoming rate decision sparks debate among economists",
+      "hook": "Economists debate whether an unexpected rate hike could alter borrowing costs.",
+      "gist": [
+        "Economists are divided on the US Fed rate decision this month.",
+        "US interest rates directly influence global capital flows and Indian rupee stability.",
+        "Watch the upcoming Federal Reserve policy statement for unexpected rate trajectory signals."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-17T11:00:00+00:00",
+      "url": "story/15ea3c68d64b.html",
+      "api": "api/v1/clusters/15ea3c68d64b.json"
+    },
+    {
+      "cluster_id": "25b76f1057c8",
+      "headline": "HDFC Bank deputy MD Kaizad Bharucha to step down as CEO transition nears",
+      "hook": "Two top leaders depart as Anup Bagchi prepares for his three-year term.",
+      "gist": [
+        "Deputy MD Kaizad Bharucha sought to step down from HDFC Bank on December 31.",
+        "Outgoing CEO Sashidhar Jagdishan exits October 26 as Anup Bagchi takes charge October 27.",
+        "Watch management succession plans and operational continuity during the executive leadership reshuffle."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-17T10:55:23+00:00",
+      "url": "story/25b76f1057c8.html",
+      "api": "api/v1/clusters/25b76f1057c8.json"
+    },
+    {
+      "cluster_id": "caab1a894dfc",
+      "headline": "HDFC Bank and Axis Bank report Q2 profit growth as bad loans stay low",
+      "hook": "Axis Bank saw profit jump 38% while HDFC Bank gained just 5%.",
+      "gist": [
+        "Axis Bank and HDFC Bank reported second-quarter profit growth alongside stable asset quality.",
+        "Moderate net interest income growth shows lending margins face ongoing pressure across large lenders.",
+        "Operating cost trends and leadership transition execution at HDFC Bank in coming quarters."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-17T07:42:58+00:00",
+      "url": "story/caab1a894dfc.html",
+      "api": "api/v1/clusters/caab1a894dfc.json"
+    },
+    {
+      "cluster_id": "67ff39d44826",
+      "headline": "Renault targets 50% hybrid and CNG sales mix to lift India market share",
+      "hook": "Sub-1% market share pushes Renault toward ₹16.99 lakh strong hybrids.",
+      "gist": [
+        "Renault targets 50% hybrid and CNG sales mix within three years.",
+        "The move challenges incumbents like Maruti Suzuki in the fuel-efficient SUV segment.",
+        "Customer adoption of ₹16.99 lakh Duster hybrid will determine volume growth."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-17T07:30:31+00:00",
+      "url": "story/67ff39d44826.html",
+      "api": "api/v1/clusters/67ff39d44826.json"
+    },
+    {
+      "cluster_id": "fe7008799579",
+      "headline": "OPEC cuts India's 2026 oil demand growth to 40,000 bpd, sees 2027 surge",
+      "hook": "India’s oil demand growth slowed to just 40,000 barrels daily",
+      "gist": [
+        "OPEC lowered India's 2026 demand growth forecast",
+        "Higher global demand expected in 2027, led by India",
+        "Impacts fuel prices and related industries"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T07:13:49+00:00",
+      "url": "story/fe7008799579.html",
+      "api": "api/v1/clusters/fe7008799579.json"
+    },
+    {
+      "cluster_id": "458a1fa8625e",
+      "headline": "RBI forex reserves drop $60 billion in six weeks to defend rupee",
+      "hook": "India's foreign exchange stockpile shrank by $8.58 billion in a single week.",
+      "gist": [
+        "Forex reserves fell $60 billion in six weeks to $726 billion on October 9.",
+        "Central bank dollar sales absorb local currency liquidity and reduce import cover buffers.",
+        "Weekly RBI statistical releases showing further movements in foreign exchange reserves."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T04:56:20+00:00",
+      "url": "story/458a1fa8625e.html",
+      "api": "api/v1/clusters/458a1fa8625e.json"
+    },
+    {
+      "cluster_id": "03d18fed74bb",
+      "headline": "Finance Ministry clarifies legal backing for IDBI Bank stake sale",
+      "hook": "A rejected 2003 parliamentary amendment now shields the government's disinvestment roadmap.",
+      "gist": [
+        "Centre affirmed its legal authority to dilute its IDBI Bank stake.",
+        "Cites a 2018 court ruling and 2003 debate to counter irregularities.",
+        "Progress on bidding timelines and eventual privatization milestones."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-17T04:31:42+00:00",
+      "url": "story/03d18fed74bb.html",
+      "api": "api/v1/clusters/03d18fed74bb.json"
+    },
+    {
+      "cluster_id": "c55fcef3eddd",
+      "headline": "Nifty IT logs biggest weekly jump since 2008 as index surges 11.7%",
+      "hook": "An 18-year weekly record in software shares masks regional semiconductor weakness.",
+      "gist": [
+        "Nifty IT gained 11.7% in its best weekly rally since 2008.",
+        "Strong quarterly earnings revived institutional buying across large-cap software and banking counters.",
+        "Sustained FII flows and technical resistance levels near 23,450 determine further upside."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-17T04:16:40+00:00",
+      "url": "story/c55fcef3eddd.html",
+      "api": "api/v1/clusters/c55fcef3eddd.json"
+    },
+    {
+      "cluster_id": "1c9eef9e9252",
+      "headline": "Dollar slides as fed hike bets fade, gold dips weekly",
+      "hook": "Dollar loses 0.5% this week while gold slips 0.1%.",
+      "gist": [
+        "Gold down 0.1% as fed signals ease",
+        "Dollar weakens amid fading rate‑hike bets",
+        "Us indices tumble, pressuring export‑linked sectors"
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-17T04:06:22+00:00",
+      "url": "story/1c9eef9e9252.html",
+      "api": "api/v1/clusters/1c9eef9e9252.json"
+    },
+    {
+      "cluster_id": "13083a2e6d4f",
+      "headline": "Fresh debt sale pressures Indian bond yields amid rate‑hike jitters",
+      "hook": "Markets monitor a 7.38%-7.42% yield range following the fresh bond issue",
+      "gist": [
+        "Fresh debt sale announced",
+        "Bond yields expected to rise",
+        "Watch RBI rate outlook"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-17T03:54:45+00:00",
+      "url": "story/13083a2e6d4f.html",
+      "api": "api/v1/clusters/13083a2e6d4f.json"
+    },
+    {
+      "cluster_id": "33fa0bc5131a",
+      "headline": "US waives threatened 100% tariffs on Indian imports of Russian crude",
+      "hook": "Discounted Russian crude flows continue after Washington drops 100% punitive import penalties.",
+      "gist": [
+        "US waived secondary tariff penalties of up to 100% on Russian oil buyers.",
+        "Indian refiners retain access to cheap crude, protecting domestic fuel costs and margins.",
+        "Trade talks and potential reinstatement of tariff threats by Washington remain key risks."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-17T03:47:20+00:00",
+      "url": "story/33fa0bc5131a.html",
+      "api": "api/v1/clusters/33fa0bc5131a.json"
+    },
+    {
+      "cluster_id": "f87ca4c5ca0b",
+      "headline": "Rupee recovers to close at 96.72 as crude oil and US dollar ease",
+      "hook": "Indian currency fluctuations directly hit import bills when Brent crude hovers near $104.",
+      "gist": [
+        "The rupee rose 16 paise to close at 96.72 against the US dollar.",
+        "Easing crude oil prices reduce foreign exchange outflows required for India's massive energy imports.",
+        "Global crude oil price movements and US geopolitical stance regarding Iran leading up to elections."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-17T00:49:03+00:00",
+      "url": "story/f87ca4c5ca0b.html",
+      "api": "api/v1/clusters/f87ca4c5ca0b.json"
+    },
+    {
+      "cluster_id": "fdfe28f3b54d",
+      "headline": "Brent crude reaches $110 a barrel amid supply concerns",
+      "hook": "India’s diesel price outlook tightens as brent hits $110 per barrel",
+      "gist": [
+        "Brent crude rose to $110 a barrel on Oct 16 2026",
+        "Higher fuel prices could pressure Indian construction and transport costs",
+        "Watch diesel price transmission and geopolitical developments"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-16T23:41:15+00:00",
+      "url": "story/fdfe28f3b54d.html",
+      "api": "api/v1/clusters/fdfe28f3b54d.json"
+    },
+    {
+      "cluster_id": "3537723c9343",
+      "headline": "Fairfax signs $5.6 billion deal to acquire controlling stake in IDBI Bank",
+      "hook": "Fairfax acquires a 60.72% stake in IDBI Bank from the Indian government and LIC.",
+      "gist": [
+        "Fairfax is acquiring 60.72% of IDBI Bank for ₹53,000 crore from government and LIC.",
+        "It marks the largest foreign direct investment deal in India's banking sector history.",
+        "Regulatory approvals and strategic execution under former HDFC executives will be watched closely."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-16T23:38:45+00:00",
+      "url": "story/3537723c9343.html",
+      "api": "api/v1/clusters/3537723c9343.json"
+    },
+    {
+      "cluster_id": "c25a68ff512d",
+      "headline": "Jio Platforms sets 30,200 crore rupee mega IPO to open on October 21",
+      "hook": "Nearly 420,000 Reliance group employees receive internal pitches to back the offering.",
+      "gist": [
+        "Jio Platforms files prospectus for a 30,200 crore rupee IPO opening October 21.",
+        "The listing tests market appetite for Reliance's digital business at a 108 billion valuation.",
+        "Watch anchor investor demand on October 19 and grey market premium movements."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-16T23:37:28+00:00",
+      "url": "story/c25a68ff512d.html",
+      "api": "api/v1/clusters/c25a68ff512d.json"
+    },
+    {
+      "cluster_id": "73e01e6f7c32",
+      "headline": "India notifies duty cuts under New Zealand FTA starting October 20",
+      "hook": "Customs duty concessions on kiwi fruit and sheep meat take effect on October 20.",
+      "gist": [
+        "India notified tariff cuts under its new trade agreement with New Zealand.",
+        "Indian auto, textile, and chemical exporters gain duty-free access while agricultural imports cheapen.",
+        "Import volumes of New Zealand produce and Indian export shipments post-October 20."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-16T23:21:21+00:00",
+      "url": "story/73e01e6f7c32.html",
+      "api": "api/v1/clusters/73e01e6f7c32.json"
+    },
+    {
+      "cluster_id": "dcd57a331126",
+      "headline": "SBI raises MCLR lending rates by 15 basis points after RBI policy hike",
+      "hook": "A 15-basis-point increase directly touches five distinct tenors of existing SBI borrowers.",
+      "gist": [
+        "SBI raised marginal cost of funds-based lending rates by 15 basis points.",
+        "Borrowing costs rise for corporate and legacy retail loans linked to MCLR.",
+        "Watch whether competing lenders follow and if credit growth momentum slows down."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-16T23:12:20+00:00",
+      "url": "story/dcd57a331126.html",
+      "api": "api/v1/clusters/dcd57a331126.json"
+    },
+    {
+      "cluster_id": "605672db49cc",
+      "headline": "India faces export tariff risk as US trade talks stall, RBI chief says",
+      "hook": "RBI chief warns US deal delay could hit exporters",
+      "gist": [
+        "US‑India trade deal stalls",
+        "Potential tariffs could pressure Indian exporters",
+        "Watch other FTAs and US tariff moves"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-16T21:30:07+00:00",
+      "url": "story/605672db49cc.html",
+      "api": "api/v1/clusters/605672db49cc.json"
+    }
+  ]
+}
