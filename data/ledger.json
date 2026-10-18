@@ -5759,5 +5759,12 @@
   "entity": "Credit & Liquidity",
   "value": "18.1%",
   "cluster_id": "141821bfb1fd"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "8c7800f12667"
  }
 ]
