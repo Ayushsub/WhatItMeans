@@ -5724,5 +5724,40 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "f83638b2d444"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "92eac9b9b2d9"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "policy_rate",
+  "entity": "HDFC Bank",
+  "value": "20%",
+  "cluster_id": "d3d939121682"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "credit_conditions",
+  "entity": "HDFC Bank",
+  "value": "₹14,843 crore",
+  "cluster_id": "d3d939121682"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "141821bfb1fd"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "18.1%",
+  "cluster_id": "141821bfb1fd"
  }
 ]
