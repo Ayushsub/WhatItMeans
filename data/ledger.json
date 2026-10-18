@@ -5780,5 +5780,12 @@
   "entity": "Growth",
   "value": "7.3%",
   "cluster_id": "26be7bf7c85e"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "ecaef930f2bc"
  }
 ]
