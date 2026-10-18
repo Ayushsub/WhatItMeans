@@ -5696,5 +5696,33 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "fc6131b38fba"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "f9e686f845c6"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "1d59edf6f1d1"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "22221c5313d0"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "f83638b2d444"
  }
 ]
