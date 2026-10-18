@@ -5766,5 +5766,19 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "8c7800f12667"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "2f6142d3986f"
+ },
+ {
+  "date": "2026-10-18",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "7.3%",
+  "cluster_id": "26be7bf7c85e"
  }
 ]
