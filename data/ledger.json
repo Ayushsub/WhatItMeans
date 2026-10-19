@@ -5836,5 +5836,33 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "38239f57fb5d"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "c34eda0c0c1c"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "bba094e60f64"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "7e37f3c37434"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "7e37f3c37434"
  }
 ]
