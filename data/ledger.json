@@ -5864,5 +5864,19 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "7e37f3c37434"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹52,878 crore",
+  "cluster_id": "d50b7375fa21"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "credit_conditions",
+  "entity": "HDFC Bank",
+  "value": "₹5,537 crore",
+  "cluster_id": "89595375fba2"
  }
 ]
