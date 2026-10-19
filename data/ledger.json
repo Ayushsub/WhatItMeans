@@ -5878,5 +5878,19 @@
   "entity": "HDFC Bank",
   "value": "₹5,537 crore",
   "cluster_id": "89595375fba2"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "policy_rate",
+  "entity": "Bajaj Finance",
+  "value": null,
+  "cluster_id": "c1305051a628"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "credit_conditions",
+  "entity": "Bajaj Finance",
+  "value": "₹6,367 crore",
+  "cluster_id": "c1305051a628"
  }
 ]
