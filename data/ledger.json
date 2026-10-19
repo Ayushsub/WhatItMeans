@@ -5787,5 +5787,54 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "ecaef930f2bc"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "c14a9c405b48"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "c14a9c405b48"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "e20ca30f6c19"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹52,100 crore",
+  "cluster_id": "e20ca30f6c19"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "afc1f837ef86"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "8392e69ce159"
+ },
+ {
+  "date": "2026-10-19",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "38239f57fb5d"
  }
 ]
