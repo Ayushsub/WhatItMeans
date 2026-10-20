@@ -5962,5 +5962,19 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "3a21ccb3cb5a"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "874169552dd8"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "₹2.38 lakh crore",
+  "cluster_id": "874169552dd8"
  }
 ]
