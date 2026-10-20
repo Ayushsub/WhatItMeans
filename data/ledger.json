@@ -5892,5 +5892,19 @@
   "entity": "Bajaj Finance",
   "value": "₹6,367 crore",
   "cluster_id": "c1305051a628"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.67%",
+  "cluster_id": "6d43f76530ad"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "6d43f76530ad"
  }
 ]
