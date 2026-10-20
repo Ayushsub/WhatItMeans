@@ -5913,5 +5913,54 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "537f8557a1a6"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "policy_rate",
+  "entity": "Nifty",
+  "value": null,
+  "cluster_id": "f0ac41dc8785"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "f0ac41dc8785"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "cd2251aa0ecd"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "1ad28c9379ab"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "1ad28c9379ab"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹52,878 crore",
+  "cluster_id": "353d88d9dd17"
+ },
+ {
+  "date": "2026-10-20",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "3a21ccb3cb5a"
  }
 ]
