@@ -6046,5 +6046,12 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "43915594edee"
+ },
+ {
+  "date": "2026-10-21",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.50%",
+  "cluster_id": "ef45e6cbb1d7"
  }
 ]
