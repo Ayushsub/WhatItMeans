@@ -6116,5 +6116,12 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "834e27d9198d"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "fiscal_action",
+  "entity": "ITC",
+  "value": null,
+  "cluster_id": "eba389ced84f"
  }
 ]
