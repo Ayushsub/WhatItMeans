@@ -6067,5 +6067,33 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "0dcb9bbd3f30"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "e5b9c4e0ef69"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹30,213 crore",
+  "cluster_id": "e5b9c4e0ef69"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.50%",
+  "cluster_id": "ef45e6cbb1d7"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "ef45e6cbb1d7"
  }
 ]
