@@ -6123,5 +6123,26 @@
   "entity": "ITC",
   "value": null,
   "cluster_id": "eba389ced84f"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "f639d8d2d7ee"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "8e8f97483a93"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹7,918 crore",
+  "cluster_id": "0c3c9dc75f62"
  }
 ]
