@@ -6095,5 +6095,12 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "ef45e6cbb1d7"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "1a016e106237"
  }
 ]
