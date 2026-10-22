@@ -6053,5 +6053,19 @@
   "entity": "RBI",
   "value": "5.50%",
   "cluster_id": "ef45e6cbb1d7"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "fiscal_action",
+  "entity": "Reliance Industries",
+  "value": "₹30,213 crore",
+  "cluster_id": "8fe7e9d8734e"
+ },
+ {
+  "date": "2026-10-22",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "0dcb9bbd3f30"
  }
 ]
