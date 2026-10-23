@@ -6186,5 +6186,26 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "88f01af7adc8"
+ },
+ {
+  "date": "2026-10-23",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "e7be424783dd"
+ },
+ {
+  "date": "2026-10-23",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "8f43942a0f0a"
+ },
+ {
+  "date": "2026-10-23",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "35f417ba33d0"
  }
 ]
