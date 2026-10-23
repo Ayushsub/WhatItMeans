@@ -6165,5 +6165,26 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "dc85d982362b"
+ },
+ {
+  "date": "2026-10-23",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "1936098588be"
+ },
+ {
+  "date": "2026-10-23",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "2.1%",
+  "cluster_id": "1936098588be"
+ },
+ {
+  "date": "2026-10-23",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "88f01af7adc8"
  }
 ]
