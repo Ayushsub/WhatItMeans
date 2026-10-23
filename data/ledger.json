@@ -6221,5 +6221,12 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "8b0d6bad2e66"
+ },
+ {
+  "date": "2026-10-23",
+  "event_type": "fiscal_action",
+  "entity": "Infosys",
+  "value": "₹5,359 crore",
+  "cluster_id": "2c30e441a944"
  }
 ]
