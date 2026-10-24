@@ -6298,5 +6298,12 @@
   "entity": "Credit & Liquidity",
   "value": "₹1,242 crore",
   "cluster_id": "97833ee52149"
+ },
+ {
+  "date": "2026-10-24",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "420027b5d457"
  }
 ]
