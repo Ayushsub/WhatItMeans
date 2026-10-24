@@ -6277,5 +6277,26 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "e9d8e7dca5da"
+ },
+ {
+  "date": "2026-10-24",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "c4ef17c8bb20"
+ },
+ {
+  "date": "2026-10-24",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹5.9 lakh crore",
+  "cluster_id": "b9f369ca907c"
+ },
+ {
+  "date": "2026-10-24",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "₹1,242 crore",
+  "cluster_id": "97833ee52149"
  }
 ]
