@@ -1,0 +1,444 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-10-24T21:22:47.653229+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 29,
+  "items": [
+    {
+      "cluster_id": "ccf14e076bf8",
+      "headline": "Infosys adds 4,480 employees in Q2FY27, freshers hires exceed 8,000",
+      "hook": "Freshers hiring tops 8,000 as attrition falls to 12.7%",
+      "gist": [
+        "Infosys headcount rose by 4,480 in Q2FY27.",
+        "Voluntary attrition eased to 12.7% from 13%.",
+        "Freshers recruitment crossed 8,000."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T16:29:13+00:00",
+      "url": "story/ccf14e076bf8.html",
+      "api": "api/v1/clusters/ccf14e076bf8.json"
+    },
+    {
+      "cluster_id": "d6560013d418",
+      "headline": "IRDAI pushes insurance reform feedback deadline to Oct 31",
+      "hook": "Over 650 stakeholders have already weighed in on the reforms",
+      "gist": [
+        "Deadline extended to Oct 31",
+        "More time may reshape final rules",
+        "Watch for final reform announcement"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T15:48:02+00:00",
+      "url": "story/d6560013d418.html",
+      "api": "api/v1/clusters/d6560013d418.json"
+    },
+    {
+      "cluster_id": "420027b5d457",
+      "headline": "GST rule change forces actual tax payment for input credit from nov 1",
+      "hook": "From Nov 1, GST reforms require suppliers to actually pay declared tax",
+      "gist": [
+        "GST filing rule altered",
+        "ITC now tied to actual tax payment",
+        "Watch compliance and cash‑flow impacts"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T14:05:14+00:00",
+      "url": "story/420027b5d457.html",
+      "api": "api/v1/clusters/420027b5d457.json"
+    },
+    {
+      "cluster_id": "e365cb403b3f",
+      "headline": "US stock investors pivot toward quality equity funds like Invesco S&P 500 Quality ETF",
+      "hook": "Inflows into the Invesco S&P 500 Quality ETF signal shifting equity allocations in 2026.",
+      "gist": [
+        "Investors steadily directed funds into the Invesco S&P 500 Quality ETF throughout 2026.",
+        "Market participants are prioritizing lower financial risk over chasing high speculative equity returns.",
+        "Future capital flows will show if defensive positioning continues across global equity markets."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-24T13:37:00+00:00",
+      "url": "story/e365cb403b3f.html",
+      "api": "api/v1/clusters/e365cb403b3f.json"
+    },
+    {
+      "cluster_id": "94129ab59319",
+      "headline": "Finance ministry urges broking firms to abandon family‑firm model",
+      "hook": "Brokers face a push to restructure ownership after ministry speech",
+      "gist": [
+        "Finance ministry calls for ownership changes",
+        "Aims to boost market trust",
+        "Watch regulatory rollout and broker responses"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T13:15:01+00:00",
+      "url": "story/94129ab59319.html",
+      "api": "api/v1/clusters/94129ab59319.json"
+    },
+    {
+      "cluster_id": "c3bde6200143",
+      "headline": "India reimposes anti-dumping duty on Chinese titanium dioxide imports",
+      "hook": "Five-year levies of up to $681 per tonne directly alter raw material costs.",
+      "gist": [
+        "India reimposed anti-dumping duties of $460 to $681 per tonne on Chinese titanium dioxide.",
+        "Higher import costs protect domestic chemical makers while increasing input expenses for paint producers.",
+        "Pass-through of raw material cost hikes to consumer paint and coating prices over coming quarters."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-24T12:27:27+00:00",
+      "url": "story/c3bde6200143.html",
+      "api": "api/v1/clusters/c3bde6200143.json"
+    },
+    {
+      "cluster_id": "42dff216ae95",
+      "headline": "Smaller small-cap mutual funds outperform large peers amid AUM drag",
+      "hook": "Negative one-year returns in mega funds highlight the cost of bloated asset sizes.",
+      "gist": [
+        "Large small-cap mutual funds recorded negative one-year returns while smaller rivals outperformed.",
+        "Swelling asset sizes make trading illiquid smaller company shares difficult without impacting prices.",
+        "Fund portfolio disclosures and cash allocation levels across small-cap fund categories."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-24T12:24:57+00:00",
+      "url": "story/42dff216ae95.html",
+      "api": "api/v1/clusters/42dff216ae95.json"
+    },
+    {
+      "cluster_id": "5ba7882c03b5",
+      "headline": "India's basmati rice yield expected to rise 5% to 10% on good monsoon",
+      "hook": "Favourable monsoon rains could boost India's basmati rice yield by 10 percent.",
+      "gist": [
+        "India's basmati rice yield is expected to increase by 5% to 10% this year.",
+        "Higher crop yields expand exportable surpluses for rice exporters and stabilize domestic availability.",
+        "Export demand trends and paddy procurement prices in coming harvest months."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T12:22:56+00:00",
+      "url": "story/5ba7882c03b5.html",
+      "api": "api/v1/clusters/5ba7882c03b5.json"
+    },
+    {
+      "cluster_id": "6dcf6f835dae",
+      "headline": "SEBI plans Demat 2.0 and tokenised bond trading",
+      "hook": "Tokenised corporate bonds could soon reach secondary markets under Demat 2.0.",
+      "gist": [
+        "SEBI plans Demat 2.0 alongside graded compliance for brokers.",
+        "Tokenised corporate bonds will become tradable in secondary markets.",
+        "Detailed regulatory frameworks and implementation timelines from SEBI."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T11:37:25+00:00",
+      "url": "story/6dcf6f835dae.html",
+      "api": "api/v1/clusters/6dcf6f835dae.json"
+    },
+    {
+      "cluster_id": "938fc658aa6e",
+      "headline": "AU Small Finance Bank Q2 net profit surges 53% to ₹858 crore",
+      "hook": "Bad loan provisions dropped to ₹359 crore as asset quality improved significantly.",
+      "gist": [
+        "AU Small Finance Bank net profit grew 53% year-on-year to ₹858 crore.",
+        "Lower bad-debt provisioning and strong income growth expanded the lender's quarterly margins.",
+        "Gross non-performing asset trajectories over coming quarters will test credit sustainability."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-24T11:24:55+00:00",
+      "url": "story/938fc658aa6e.html",
+      "api": "api/v1/clusters/938fc658aa6e.json"
+    },
+    {
+      "cluster_id": "b0192b5724e8",
+      "headline": "Tech mahindra leads profit growth as tcs scales AI revenue",
+      "hook": "Tech Mahindra posted top profit growth in Q2FY27",
+      "gist": [
+        "Tech Mahindra posted strongest profit and revenue growth",
+        "Shows varied performance across top Indian IT firms",
+        "Watch AI revenue trends and dividend payouts"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T10:52:04+00:00",
+      "url": "story/b0192b5724e8.html",
+      "api": "api/v1/clusters/b0192b5724e8.json"
+    },
+    {
+      "cluster_id": "69e43c72a933",
+      "headline": "SEBI publishes updated InvIT regulations amended as of October 16, 2026",
+      "hook": "Updated SEBI rules alter governance norms for Infrastructure Investment Trusts from October 2026.",
+      "gist": [
+        "SEBI published updated regulations for Infrastructure Investment Trusts amended through October 16, 2026.",
+        "Not enough information in the source reporting to determine specific economic impacts.",
+        "Detailed notification releases from SEBI explaining specific compliance and operational adjustments."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-24T09:47:18.621369+00:00",
+      "url": "story/69e43c72a933.html",
+      "api": "api/v1/clusters/69e43c72a933.json"
+    },
+    {
+      "cluster_id": "ee039ba325e1",
+      "headline": "Hurricane isaias threatens gulf coast energy production",
+      "hook": "Category 2 hurricane isaias may shut in gulf coast production",
+      "gist": [
+        "Hurricane isaias threatens gulf coast oil output",
+        "Potential supply dip could lift global energy prices",
+        "Higher fuel costs may pressure real estate projects"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T09:47:18.621369+00:00",
+      "url": "story/ee039ba325e1.html",
+      "api": "api/v1/clusters/ee039ba325e1.json"
+    },
+    {
+      "cluster_id": "b9f369ca907c",
+      "headline": "Emerging sectors to drive ₹16.24 lakh crore capex in AI, chips, and defence",
+      "hook": "Projects worth ₹5.9 lakh crore in AI lead India's emerging industrial capital outlay.",
+      "gist": [
+        "AI, chips, and defence lead an investment pipeline exceeding ₹16 lakh crore.",
+        "Massive project pipelines could accelerate long-term industrial credit demand across Indian lenders.",
+        "Tracking actual conversion of indicative outlays into ground-level capital expenditure."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T09:36:42+00:00",
+      "url": "story/b9f369ca907c.html",
+      "api": "api/v1/clusters/b9f369ca907c.json"
+    },
+    {
+      "cluster_id": "d0139ae961d0",
+      "headline": "Parliamentary panel to examine 46 economic subjects including crypto and AI",
+      "hook": "Forty-six economic domains face comprehensive legislative review spanning artificial intelligence and crypto.",
+      "gist": [
+        "Parliamentary finance committee selects 46 economic issues to review in FY27.",
+        "Scrutiny could shape future regulatory policy across technology and financial services.",
+        "Scope and timeline of resulting committee recommendations submitted to Parliament."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-24T09:31:14+00:00",
+      "url": "story/d0139ae961d0.html",
+      "api": "api/v1/clusters/d0139ae961d0.json"
+    },
+    {
+      "cluster_id": "a8ce3a3ab607",
+      "headline": "Kotak Mahindra Bank Q2 consolidated profit rises 26% to Rs 5,645 crore",
+      "hook": "A drop in bad loans to 1.04% shifted quarterly earnings above market estimates.",
+      "gist": [
+        "Kotak Mahindra Bank posted a 26% rise in Q2 consolidated net profit.",
+        "Lower bad-loan ratios and 16% income growth signal stable private banking asset health.",
+        "Credit growth durability and funding costs across subsequent quarters."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-24T08:24:37+00:00",
+      "url": "story/a8ce3a3ab607.html",
+      "api": "api/v1/clusters/a8ce3a3ab607.json"
+    },
+    {
+      "cluster_id": "4a2698b6939a",
+      "headline": "RBI bulletin highlights broad-based rural food price rise",
+      "hook": "Rural households face higher price pressures than urban consumers as commodity inflation spreads.",
+      "gist": [
+        "RBI bulletin reports broad-based food price hikes spreading across multiple commodity categories.",
+        "Higher rural inflation erodes purchasing power in village economies faster than urban centres.",
+        "Future RBI monetary policy decisions for signals on interest rate adjustments."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T08:19:33+00:00",
+      "url": "story/4a2698b6939a.html",
+      "api": "api/v1/clusters/4a2698b6939a.json"
+    },
+    {
+      "cluster_id": "3c45a68675a0",
+      "headline": "KEC International wins ₹2,872 crore transmission line orders from PGCIL",
+      "hook": "A ₹2,872 crore order boost pushes KEC's year-to-date inflows past the ₹13,500 crore mark.",
+      "gist": [
+        "KEC International secured ₹2,872 crore power transmission contracts from PGCIL.",
+        "The deal expands year-to-date order intake past ₹13,500 crore, ensuring revenue visibility.",
+        "Execution speed and margin protection amidst fluctuating raw material costs will determine profitability."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-24T08:03:33+00:00",
+      "url": "story/3c45a68675a0.html",
+      "api": "api/v1/clusters/3c45a68675a0.json"
+    },
+    {
+      "cluster_id": "e0b469914c34",
+      "headline": "India issues 11 crore farmer ids under agristack ahead of deadline",
+      "hook": "11 crore ids now let farmers tap loans, insurance and relief",
+      "gist": [
+        "Government issued 11 crore farmer ids ahead of schedule",
+        "Ids simplify access to credit, insurance and relief for farmers",
+        "Watch adoption rates and integration with banks"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T07:35:00+00:00",
+      "url": "story/e0b469914c34.html",
+      "api": "api/v1/clusters/e0b469914c34.json"
+    },
+    {
+      "cluster_id": "c780225dc82c",
+      "headline": "Gold drops over 3% as higher oil prices and US policy expectations weigh",
+      "hook": "Retail buyers in Chennai face ₹1,42,480 rates after a 3.85% drop ahead of Diwali.",
+      "gist": [
+        "Gold prices dropped over 3% in India during the third week of October 2026.",
+        "Lower festive bullion rates affect festival jewelry buyers and precious metal traders across India.",
+        "Watch US central bank policy signals and crude oil movements for direction before Diwali."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-24T06:37:55+00:00",
+      "url": "story/c780225dc82c.html",
+      "api": "api/v1/clusters/c780225dc82c.json"
+    },
+    {
+      "cluster_id": "80f152a46b00",
+      "headline": "SEBI orders Avadhut Sathe Trading Academy to refund over ₹546 crore",
+      "hook": "Trading academy students face a five-month timeline to claim ₹546 crore in refunds.",
+      "gist": [
+        "SEBI ordered Avadhut Sathe to refund ₹546 crore collected for unregistered advisory services.",
+        "Regulators are clamping down heavily on financial influencers masking advisory operations as education.",
+        "Watch whether penalties and refund orders are contested before the appellate tribunal."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-24T05:31:13+00:00",
+      "url": "story/80f152a46b00.html",
+      "api": "api/v1/clusters/80f152a46b00.json"
+    },
+    {
+      "cluster_id": "17aac9cc3bb0",
+      "headline": "Bpcl q2 fy27 profit falls 21% as fuel price freeze squeezes margins",
+      "hook": "₹1.58 lakh crore revenue rise masks a 21% profit plunge",
+      "gist": [
+        "Profit down 21% YoY",
+        "Margin pressure from fuel price freeze",
+        "Watch fuel price policy and margins"
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-24T04:02:02+00:00",
+      "url": "story/17aac9cc3bb0.html",
+      "api": "api/v1/clusters/17aac9cc3bb0.json"
+    },
+    {
+      "cluster_id": "b5612550ec29",
+      "headline": "AI data centres drive surge in fuel-cell demand for electricity",
+      "hook": "Natural gas and hydrogen reactions emerge as direct power sources for data centres.",
+      "gist": [
+        "AI data centres are driving rapid demand growth for fuel-cell power generation.",
+        "Fuel cells generate electricity via chemical reactions without burning gas or hydrogen.",
+        "Adoption rates by data centre operators and fuel supply availability remain critical."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-10-24T03:56:47+00:00",
+      "url": "story/b5612550ec29.html",
+      "api": "api/v1/clusters/b5612550ec29.json"
+    },
+    {
+      "cluster_id": "b4d9843bb13e",
+      "headline": "US tech earnings and Fed meeting set to test global market rally",
+      "hook": "Earnings reports from Alphabet, Microsoft, and Amazon face upcoming central bank policy decisions.",
+      "gist": [
+        "Global markets prepare for quarterly earnings from major tech firms and central bank decisions.",
+        "The confluence of AI spending updates and interest rate policy will drive market sentiment.",
+        "Upcoming policy announcements from the US Fed and ECB alongside big tech financial reports."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T03:37:13+00:00",
+      "url": "story/b4d9843bb13e.html",
+      "api": "api/v1/clusters/b4d9843bb13e.json"
+    },
+    {
+      "cluster_id": "a70573f1bf7f",
+      "headline": "States announce DA hikes as Centre weighs pay revision for employees",
+      "hook": "Millions of pensioners await Cabinet decisions after six states released festive allowance hikes.",
+      "gist": [
+        "Several states raised dearness allowance while the Centre considers a July 2026 revision.",
+        "Higher allowances lift government workers' disposable income ahead of key festive spending periods.",
+        "Official Cabinet announcements regarding Central employee dearness relief expected around October 28."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T03:29:42+00:00",
+      "url": "story/a70573f1bf7f.html",
+      "api": "api/v1/clusters/a70573f1bf7f.json"
+    },
+    {
+      "cluster_id": "925f5fa2db7e",
+      "headline": "India-Germany trade ties deepen as German firms target multi-fold growth in 3 to 5 years",
+      "hook": "German firms targeting triple growth in India over five years could reshape local manufacturing.",
+      "gist": [
+        "Piyush Goyal concluded a two-day visit to Germany to expand trade and R&D ties.",
+        "India aims for trade pacts covering 75% of global GDP within 12 to 18 months.",
+        "Finalisation of the India-EU free trade agreement and technology transfer timelines."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-24T02:58:45+00:00",
+      "url": "story/925f5fa2db7e.html",
+      "api": "api/v1/clusters/925f5fa2db7e.json"
+    },
+    {
+      "cluster_id": "4e1a7d7a81d9",
+      "headline": "Jio platforms IPO draws 7.4 lakh crore bids, 22.19x subscription",
+      "hook": "Investors placed ₹7.41 lakh crore in bids within minutes",
+      "gist": [
+        "Jio IPO received ₹7.41 lakh crore in bids",
+        "Subscription hit 22.19 times, fully subscribed in 100 minutes",
+        "Potential ₹10.30 lakh crore market cap could reshape telecom landscape"
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-24T02:46:08+00:00",
+      "url": "story/4e1a7d7a81d9.html",
+      "api": "api/v1/clusters/4e1a7d7a81d9.json"
+    },
+    {
+      "cluster_id": "c9d402d0f3b9",
+      "headline": "RBI bought $43.26 billion forex in August as net FDI fell to $3 billion",
+      "hook": "Gross FDI fell to $11 billion in August while foreign inflows spiked currency interventions.",
+      "gist": [
+        "RBI made record net forex purchases of $43.26 billion while gross FDI fell.",
+        "Central bank interventions absorbed heavy dollar inflows from offshore borrowings and deposit schemes.",
+        "Monitor upcoming monthly FDI data and RBI forward swap positions."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-24T02:20:15+00:00",
+      "url": "story/c9d402d0f3b9.html",
+      "api": "api/v1/clusters/c9d402d0f3b9.json"
+    },
+    {
+      "cluster_id": "6b451092d30d",
+      "headline": "Trinidad and Tobago seeks Indian oil firms to process Venezuelan crude",
+      "hook": "Two Indian majors eye a renovated Guaracara refinery for cheap Venezuelan oil",
+      "gist": [
+        "India's ONGC Videsh and Oil India discuss processing Venezuelan crude",
+        "Deal could lower feedstock costs if Guaracara refinery restarts",
+        "Watch refinery renovation progress and Venezuelan export policies"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-24T00:05:09+00:00",
+      "url": "story/6b451092d30d.html",
+      "api": "api/v1/clusters/6b451092d30d.json"
+    }
+  ]
+}

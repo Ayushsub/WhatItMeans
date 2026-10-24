@@ -1,0 +1,114 @@
+{
+  "cluster_id": "ccf14e076bf8",
+  "analysis": {
+    "headline": "Infosys adds 4,480 employees in Q2FY27, freshers hires exceed 8,000",
+    "hook": "Freshers hiring tops 8,000 as attrition falls to 12.7%",
+    "gist": [
+      "Infosys headcount rose by 4,480 in Q2FY27.",
+      "Voluntary attrition eased to 12.7% from 13%.",
+      "Freshers recruitment crossed 8,000."
+    ],
+    "what_happened": "Infosys increased its headcount by 4,480 people in the second quarter of fiscal year 2027. The company hired more than 8,000 fresh graduates and its voluntary attrition rate fell to 12.7% on a last‑twelve‑month basis, down from 13% in the prior quarter.",
+    "who_is_affected": [
+      {
+        "group": "Infosys existing employees",
+        "effect": "lower turnover risk as attrition drops modestly"
+      },
+      {
+        "group": "Fresh graduate job seekers",
+        "effect": "increased hiring opportunities, over 8,000 new roles"
+      },
+      {
+        "group": "Infosys clients",
+        "effect": "potentially faster project delivery due to larger workforce"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT services",
+        "direction": "tailwind",
+        "why": "Hiring surge signals capacity expansion amid demand"
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "step 1: Infosys adds 4,480 staff and hires >8,000 freshers",
+        "step 2: larger workforce reduces project bottlenecks and attrition costs",
+        "step 3: enables taking more or larger client projects, improving revenue potential",
+        "step 4: reflected in higher quarterly earnings or margin improvement"
+      ],
+      "explanation": "The hiring boost first expands the employee base, which eases pressure on existing teams and cuts costs associated with high turnover. With more hands on deck, Infosys can accept additional or bigger contracts, translating into higher top‑line growth. The financial impact appears later in earnings reports as revenue climbs or operating margins improve, though the effect may lag by a quarter as projects ramp up.",
+      "time_horizon": "quarters"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Optimists argue that the hiring surge reflects a strong order book and will translate into revenue growth.",
+      "depends_on": [
+        "sustained client demand",
+        "effective integration of new hires"
+      ]
+    },
+    "bear_case": {
+      "argument": "Pessimists warn that rapid hiring could pressure margins if demand softens.",
+      "depends_on": [
+        "slowing IT spending",
+        "rising wage inflation"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Infosys quarterly revenue growth",
+        "why_it_matters": "validates bull case if revenue accelerates",
+        "when": "next earnings release"
+      },
+      {
+        "variable": "Attrition rate trend",
+        "why_it_matters": "supports bull case if continues falling, bear case if rises",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Margin percentage",
+        "why_it_matters": "bear case if margins compress due to hiring costs",
+        "when": "next quarter"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Based on a single news report.",
+    "jargon": [
+      {
+        "term": "voluntary attrition",
+        "plain_meaning": "the share of employees who quit on their own accord"
+      },
+      {
+        "term": "freshers",
+        "plain_meaning": "newly graduated employees hired for the first time"
+      },
+      {
+        "term": "Q2FY27",
+        "plain_meaning": "the second quarter of fiscal year 2027, covering April‑June 2026"
+      }
+    ]
+  },
+  "tags": {
+    "entities": [
+      "Infosys"
+    ],
+    "tickers": [
+      "INFY"
+    ],
+    "sectors": [],
+    "macro_themes": []
+  },
+  "sources": [
+    {
+      "name": "Mint",
+      "headline": "Infosys headcount rises by 4,480 in Q2FY27, freshers hiring crosses 8,000; check details",
+      "url": "https://www.livemint.com/companies/news/infosys-headcount-rises-by-4-480-in-q2fy27-freshers-hiring-crosses-8-000-check-details-11792856755379.html",
+      "published_at": "2026-10-24T16:29:13+00:00"
+    }
+  ],
+  "published_at": "2026-10-24T16:29:13Z",
+  "updated_at": "2026-10-24T19:37:25.098389Z",
+  "confidence": "medium",
+  "tier": "free"
+}

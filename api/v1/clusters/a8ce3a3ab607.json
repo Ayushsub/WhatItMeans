@@ -1,0 +1,121 @@
+{
+  "cluster_id": "a8ce3a3ab607",
+  "analysis": {
+    "headline": "Kotak Mahindra Bank Q2 consolidated profit rises 26% to Rs 5,645 crore",
+    "hook": "A drop in bad loans to 1.04% shifted quarterly earnings above market estimates.",
+    "gist": [
+      "Kotak Mahindra Bank posted a 26% rise in Q2 consolidated net profit.",
+      "Lower bad-loan ratios and 16% income growth signal stable private banking asset health.",
+      "Credit growth durability and funding costs across subsequent quarters."
+    ],
+    "what_happened": "On October 24, 2026, Kotak Mahindra Bank reported a 26% year-on-year increase in consolidated net profit to Rs 5,645 crore for the July-September quarter. Standalone profit after tax rose 29% to Rs 4,211 crore, supported by a 16% growth in net interest income. Gross non-performing assets improved over the period, falling to 1.04% from 1.39% a year earlier.",
+    "who_is_affected": [
+      {
+        "group": "Bank shareholders",
+        "effect": "Earnings per share expand following a 29% standalone profit rise that exceeded analyst estimates."
+      },
+      {
+        "group": "Institutional depositors and borrowers",
+        "effect": "Lending capacity remains stable as improved balance sheet health reduces provisioning requirements."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Banking & Financials",
+        "direction": "tailwind",
+        "why": "A 35-basis-point reduction in gross bad loans and 16% core income growth reflect firm balance-sheet performance."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "Credit recoveries and controlled slippages lower gross NPAs to 1.04%",
+        "Lender sets aside less money for potential bad debts",
+        "Net interest income advances 16% alongside lower loan provisioning",
+        "Standalone and consolidated bottom-line profits expand by 29% and 26%"
+      ],
+      "explanation": "Over the quarter, improved collections and asset monitoring lowered delinquent loans from 1.39% to 1.04%. Within weeks of these recoveries, the bank reduced the provisioning buffer it must set aside against stressed assets. This reduction, combined with a 16% growth in core lending income, immediately flowed into reported operating margins. By the end of the quarterly reporting cycle, this mechanism resulted in standalone net profit rising 29% to Rs 4,211 crore.",
+      "time_horizon": "quarters"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Bulls argue that expanding core interest income alongside falling bad loans demonstrates resilient underwriting and operating leverage.",
+      "depends_on": [
+        "Sustained credit demand across retail and commercial lending segments",
+        "Stable deposit costs to protect net interest margins"
+      ]
+    },
+    "bear_case": {
+      "argument": "The bear case rests on concerns that intense competition for deposits and broader credit tightening may compress future margins.",
+      "depends_on": [
+        "Rising cost of funds in the banking system",
+        "Potential uptick in retail loan defaults if economic growth moderates"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Net interest margin trajectory",
+        "why_it_matters": "Confirms whether 16% core income growth can persist amid deposit competition",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Gross non-performing asset ratio",
+        "why_it_matters": "Shows whether the improvement to 1.04% is sustained in subsequent quarters",
+        "when": "ongoing"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Multiple mainstream financial news outlets reported consistent earnings figures directly from the bank's regulatory filings.",
+    "jargon": [
+      {
+        "term": "Net interest income (NII)",
+        "plain_meaning": "The difference between the total interest a bank earns from borrowers and the interest it pays out to depositors."
+      },
+      {
+        "term": "Gross non-performing assets (GNPA)",
+        "plain_meaning": "The total value of loans that borrowers have stopped repaying for at least 90 days, expressed as a share of total lending."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [],
+    "tickers": [],
+    "sectors": [
+      "Banking & Financials",
+      "Energy & Utilities",
+      "Real Estate & Infra"
+    ],
+    "macro_themes": [
+      "Credit & Liquidity"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Economic Times",
+      "headline": "Kotak Mahindra Bank Q2 results: Consolidated PAT rises 26% YoY to Rs 5,645 crore; NII up 16%",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-consolidated-pat-rises-26-yoy-to-rs-5645-crore-lenders-nii-up-16/articleshow/135165924.cms",
+      "published_at": "2026-10-24T08:24:37+00:00"
+    },
+    {
+      "name": "The Hindu BusinessLine",
+      "headline": "Kotak Bank Q2 profit rises 29%, beats estimates",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/kotak-bank-q2-profit-rises-29-beats-estimates/article71619508.ece",
+      "published_at": "2026-10-24T09:11:31+00:00"
+    },
+    {
+      "name": "The Hindu",
+      "headline": "Kotak Mahindra Bank Q2 net up 26% on higher income and better asset quality",
+      "url": "https://www.thehindu.com/business/kotak-mahindra-bank-q2-net-up-26-on-higher-income-and-better-asset-quality/article71619693.ece",
+      "published_at": "2026-10-24T11:11:12+00:00"
+    },
+    {
+      "name": "The Hindu BusinessLine",
+      "headline": "Q2 Results Today Live: Kotak Mahindra Bank, AU Small Finance Bank, JK Cement log gains, BPCL profit falls, IDFC First Bank, Netweb Tech, Castrol India, Kajaria Ceramics, Bharat Coking Coal to announce Q2 results",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/q2-results-today-live-updates-kotak-mahindra-bank-au-small-finance-bank-idfc-first-bank-jk-cement-netweb-tech-castrol-india-kajaria-ceramics-bharat-coking-coal-company-results-24-october-2026/article71618989.ece",
+      "published_at": "2026-10-24T11:27:15+00:00"
+    }
+  ],
+  "published_at": "2026-10-24T08:24:37Z",
+  "updated_at": "2026-10-24T14:09:33.974121Z",
+  "confidence": "high",
+  "tier": "free"
+}

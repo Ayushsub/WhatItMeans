@@ -1,0 +1,118 @@
+{
+  "cluster_id": "b0192b5724e8",
+  "analysis": {
+    "headline": "Tech mahindra leads profit growth as tcs scales AI revenue",
+    "hook": "Tech Mahindra posted top profit growth in Q2FY27",
+    "gist": [
+      "Tech Mahindra posted strongest profit and revenue growth",
+      "Shows varied performance across top Indian IT firms",
+      "Watch AI revenue trends and dividend payouts"
+    ],
+    "what_happened": "In the second quarter of FY2027, Tech Mahindra reported the highest profit and revenue growth among India's major IT firms. TCS recorded the largest number of new deals and the biggest AI‑related revenue, while Infosys paid the largest interim dividend.",
+    "who_is_affected": [
+      {
+        "group": "shareholders of Indian IT companies",
+        "effect": "benefit from firms with higher profit growth and dividend payouts"
+      },
+      {
+        "group": "clients seeking AI services",
+        "effect": "gain from TCS's expanding AI revenue offering"
+      },
+      {
+        "group": "employees of IT firms",
+        "effect": "face hiring pressure as firms with strong growth expand workforce"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT & Tech",
+        "direction": "mixed",
+        "why": "Tech Mahindra’s growth supports the sector, but uneven performance creates divergent outlooks"
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "step 1: Q2FY27 results reveal divergent profit and AI revenue performance",
+        "step 2: investors adjust earnings expectations and clients re‑evaluate spend on IT services",
+        "step 3: firms with strong results attract more orders and can raise prices, while weaker peers may see slower hiring",
+        "step 4: impacts appear as stock price moves, dividend announcements and contract wins"
+      ],
+      "explanation": "The earnings release forces analysts to revise forecasts, which pressures share prices within days. Clients respond over weeks by shifting budgets toward firms showing AI strength, influencing order books. Companies then reflect these changes in hiring plans and pricing, showing up in quarterly earnings and dividend decisions. Lag times vary: market pricing reacts in days, client spend shifts in weeks, and corporate hiring in months.",
+      "time_horizon": "weeks"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Analysts argue that Tech Mahindra’s momentum and TCS’s AI scale will drive higher order inflows and sustain earnings growth",
+      "depends_on": [
+        "continued corporate AI spending",
+        "stable macro environment"
+      ]
+    },
+    "bear_case": {
+      "argument": "Skeptics contend that uneven performance and rising competition could curb growth and pressure margins",
+      "depends_on": [
+        "slowing global IT spend",
+        "execution challenges in scaling AI services"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Q3 FY27 earnings of major IT firms",
+        "why_it_matters": "validates bull case if earnings beat expectations",
+        "when": "Q3 FY27 reporting"
+      },
+      {
+        "variable": "New AI services contracts announced",
+        "why_it_matters": "supports bull case if volume rises",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Dividend payout ratios for Infosys and peers",
+        "why_it_matters": "tests bear case if payouts are reduced",
+        "when": "post‑results announcements"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Based on a single article covering multiple firms",
+    "jargon": [
+      {
+        "term": "interim dividend",
+        "plain_meaning": "a dividend paid before the final year‑end payout"
+      },
+      {
+        "term": "AI revenue",
+        "plain_meaning": "income earned from services that use artificial intelligence"
+      },
+      {
+        "term": "profit growth",
+        "plain_meaning": "increase in net earnings compared with the previous period"
+      }
+    ]
+  },
+  "tags": {
+    "entities": [
+      "TCS",
+      "Infosys"
+    ],
+    "tickers": [
+      "TCS",
+      "INFY"
+    ],
+    "sectors": [
+      "IT & Tech"
+    ],
+    "macro_themes": []
+  },
+  "sources": [
+    {
+      "name": "Mint",
+      "headline": "IT stocks Q2 results analysis: Infosys vs TCS vs Wipro vs HCL vs TechM: Who wins profit, revenue, dividend, AI race?",
+      "url": "https://www.livemint.com/market/stock-market-news/it-stocks-q2-results-analysis-infosys-vs-tcs-vs-wipro-vs-hcl-vs-techm-who-wins-profit-revenue-dividend-ai-race-11792836774239.html",
+      "published_at": "2026-10-24T10:52:04+00:00"
+    }
+  ],
+  "published_at": "2026-10-24T10:52:04Z",
+  "updated_at": "2026-10-24T21:22:47.446746Z",
+  "confidence": "medium",
+  "tier": "free"
+}

@@ -1,0 +1,116 @@
+{
+  "cluster_id": "c9d402d0f3b9",
+  "analysis": {
+    "headline": "RBI bought $43.26 billion forex in August as net FDI fell to $3 billion",
+    "hook": "Gross FDI fell to $11 billion in August while foreign inflows spiked currency interventions.",
+    "gist": [
+      "RBI made record net forex purchases of $43.26 billion while gross FDI fell.",
+      "Central bank interventions absorbed heavy dollar inflows from offshore borrowings and deposit schemes.",
+      "Monitor upcoming monthly FDI data and RBI forward swap positions."
+    ],
+    "what_happened": "In August 2026, the Reserve Bank of India recorded net foreign exchange purchases of $43.26 billion to absorb dollar inflows from overseas borrowings and non-resident deposits. During the same month, India's gross foreign direct investment inflows declined to $11 billion from $14 billion in July. Net foreign direct investment slowed to $3 billion in August, down from $7 billion in the previous month.",
+    "who_is_affected": [
+      {
+        "group": "Overseas corporate borrowers",
+        "effect": "Companies raising funds abroad face lower exchange rate volatility due to central bank dollar absorption."
+      },
+      {
+        "group": "Foreign direct investors",
+        "effect": "International companies reduced net equity commitments into Indian businesses to $3 billion in August."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Banking & Financials",
+        "direction": "mixed",
+        "why": "Heavy inflows into dollar deposit schemes increase foreign currency bank balances despite lower foreign direct equity investments."
+      },
+      {
+        "sector": "IT & Computer Services",
+        "direction": "headwind",
+        "why": "Lower gross foreign direct investment reduces foreign capital commitments coming into tech and computer services."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "Inflows from deposit schemes and foreign debt increase dollar supply in domestic forex markets",
+        "RBI buys $43.26 billion net forex to prevent rapid currency appreciation",
+        "RBI executes balancing forward sales and swaps to manage domestic rupee liquidity",
+        "Simultaneous deceleration in foreign direct equity reduces long-term net inflows"
+      ],
+      "explanation": "Substantial foreign currency entering through deposit schemes and external borrowing forces the central bank to intervene directly in foreign exchange spot markets over days and weeks. To maintain exchange rate stability, the Reserve Bank of India absorbs $43.26 billion in dollars. To prevent this intervention from flooding domestic commercial banks with excess rupee liquidity, the central bank uses currency swaps and forward contracts over months. Concurrently, a drop in net foreign direct investment to $3 billion reflects reduced long-term corporate equity capital entering sectors like finance and technology.",
+      "time_horizon": "months"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Bulls argue that record net forex absorption highlights strong global borrowing demand and strengthens the central bank's external balance sheet.",
+      "depends_on": [
+        "Continued inflows into non-resident currency accounts",
+        "A rebound in long-term foreign direct equity investments"
+      ]
+    },
+    "bear_case": {
+      "argument": "Bears contend that the drop in net FDI to $3 billion indicates slowing foreign strategic investment into Indian capital assets.",
+      "depends_on": [
+        "Further declines in monthly gross direct investment inflows",
+        "Persistent reliance on short-term debt capital over direct equity"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Monthly foreign direct investment figures",
+        "why_it_matters": "Shows whether August's drop in FDI was a temporary dip or a broader trend",
+        "when": "ongoing"
+      },
+      {
+        "variable": "RBI forward foreign exchange position",
+        "why_it_matters": "Indicates the ongoing monetary intervention and swap unwinding schedule of the central bank",
+        "when": "ongoing"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Data points are directly drawn from official Reserve Bank of India figures reported across the source articles.",
+    "jargon": [
+      {
+        "term": "FCNR(B) scheme",
+        "plain_meaning": "Foreign currency bank deposit accounts offered to non-resident Indians without currency conversion risk."
+      },
+      {
+        "term": "Net FDI",
+        "plain_meaning": "Foreign direct capital entering a country minus the direct investments made abroad by resident entities."
+      },
+      {
+        "term": "Forex swaps",
+        "plain_meaning": "Agreements where a central bank purchases dollars today and simultaneously commits to sell them back later."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [
+      "RBI"
+    ],
+    "tickers": [],
+    "sectors": [
+      "Banking & Financials"
+    ],
+    "macro_themes": []
+  },
+  "sources": [
+    {
+      "name": "Economic Times",
+      "headline": "RBI’s forward dollar sales surge to record $200 billion in August",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-forex-buys-hit-a-record-43-billion-in-august-balances-it-with-swaps/articleshow/135159794.cms",
+      "published_at": "2026-10-24T02:20:15+00:00"
+    },
+    {
+      "name": "Economic Times",
+      "headline": "Gross FDI inflows to India fall to $11 billion in August",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-net-fdi-inflows-falls-to-3-billion-in-august/articleshow/135160936.cms",
+      "published_at": "2026-10-24T03:24:13+00:00"
+    }
+  ],
+  "published_at": "2026-10-24T02:20:15Z",
+  "updated_at": "2026-10-24T19:37:25.098389Z",
+  "confidence": "high",
+  "tier": "free"
+}
