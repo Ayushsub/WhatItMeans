@@ -6228,5 +6228,19 @@
   "entity": "Infosys",
   "value": "₹5,359 crore",
   "cluster_id": "2c30e441a944"
+ },
+ {
+  "date": "2026-10-24",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "736dd47ece91"
+ },
+ {
+  "date": "2026-10-24",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "736dd47ece91"
  }
 ]
