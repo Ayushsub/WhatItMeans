@@ -6340,5 +6340,33 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "7553f305260f"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "766be71ec117"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "71927f6941ac"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "2c50ad1bb970"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹21 lakh",
+  "cluster_id": "d5c8df8c7afa"
  }
 ]
