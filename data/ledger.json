@@ -6368,5 +6368,19 @@
   "entity": "Institutional Flows",
   "value": "₹21 lakh",
   "cluster_id": "d5c8df8c7afa"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "420027b5d457"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "34f0c8404bdd"
  }
 ]
