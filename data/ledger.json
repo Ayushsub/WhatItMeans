@@ -6319,5 +6319,26 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "1d02d2cdee4c"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "25f483be0bdf"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "25f483be0bdf"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "credit_conditions",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "7553f305260f"
  }
 ]
