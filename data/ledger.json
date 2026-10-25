@@ -6305,5 +6305,19 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "420027b5d457"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "8c55ecf888a0"
+ },
+ {
+  "date": "2026-10-25",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "1d02d2cdee4c"
  }
 ]
