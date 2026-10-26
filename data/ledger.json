@@ -6424,5 +6424,12 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "6013ca319f00"
+ },
+ {
+  "date": "2026-10-26",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "116d4cbec6af"
  }
 ]
