@@ -6431,5 +6431,33 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "116d4cbec6af"
+ },
+ {
+  "date": "2026-10-26",
+  "event_type": "policy_rate",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "1bca34dfcb78"
+ },
+ {
+  "date": "2026-10-26",
+  "event_type": "credit_conditions",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "1bca34dfcb78"
+ },
+ {
+  "date": "2026-10-26",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "5b0c03fe2d2a"
+ },
+ {
+  "date": "2026-10-26",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "8b14c9769342"
  }
 ]
