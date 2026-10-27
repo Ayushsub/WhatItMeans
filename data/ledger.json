@@ -6501,5 +6501,26 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "8cae74ee5efa"
+ },
+ {
+  "date": "2026-10-27",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "aab4c2608d06"
+ },
+ {
+  "date": "2026-10-27",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "aab4c2608d06"
+ },
+ {
+  "date": "2026-10-27",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "9bf1dff28206"
  }
 ]
