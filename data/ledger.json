@@ -6522,5 +6522,26 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "9bf1dff28206"
+ },
+ {
+  "date": "2026-10-27",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "6.25%",
+  "cluster_id": "a448c251f5a0"
+ },
+ {
+  "date": "2026-10-27",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "76%",
+  "cluster_id": "b3f5fb4a2197"
+ },
+ {
+  "date": "2026-10-27",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "32f761996262"
  }
 ]
