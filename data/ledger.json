@@ -6543,5 +6543,12 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "32f761996262"
+ },
+ {
+  "date": "2026-10-27",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "20%",
+  "cluster_id": "0a5cf88e6bf3"
  }
 ]
