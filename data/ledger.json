@@ -6627,5 +6627,12 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "65b52ca2d599"
+ },
+ {
+  "date": "2026-10-28",
+  "event_type": "policy_rate",
+  "entity": "Hindustan Unilever",
+  "value": "3.9%",
+  "cluster_id": "89a19aee532b"
  }
 ]
