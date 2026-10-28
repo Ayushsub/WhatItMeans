@@ -6606,5 +6606,26 @@
   "entity": "Adani Group",
   "value": "24%",
   "cluster_id": "a919556d1c24"
+ },
+ {
+  "date": "2026-10-28",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "b9471a09f2ec"
+ },
+ {
+  "date": "2026-10-28",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹40,000 crore",
+  "cluster_id": "081c299634ca"
+ },
+ {
+  "date": "2026-10-28",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "65b52ca2d599"
  }
 ]
