@@ -6550,5 +6550,33 @@
   "entity": "Credit & Liquidity",
   "value": "20%",
   "cluster_id": "0a5cf88e6bf3"
+ },
+ {
+  "date": "2026-10-28",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "080a20eb1e7c"
+ },
+ {
+  "date": "2026-10-28",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": "2%",
+  "cluster_id": "080a20eb1e7c"
+ },
+ {
+  "date": "2026-10-28",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "₹1 lakh crore",
+  "cluster_id": "fcb7edc78ab8"
+ },
+ {
+  "date": "2026-10-28",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "7b09c2a8e117"
  }
 ]
