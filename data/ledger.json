@@ -6592,5 +6592,19 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "e8eb78dcc331"
+ },
+ {
+  "date": "2026-10-28",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": "₹1,800 crore",
+  "cluster_id": "683300628e22"
+ },
+ {
+  "date": "2026-10-28",
+  "event_type": "policy_rate",
+  "entity": "Adani Group",
+  "value": "24%",
+  "cluster_id": "a919556d1c24"
  }
 ]
