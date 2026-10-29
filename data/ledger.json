@@ -6662,5 +6662,40 @@
   "entity": "Currency",
   "value": null,
   "cluster_id": "32aa6ba083ab"
+ },
+ {
+  "date": "2026-10-29",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "3.75%",
+  "cluster_id": "9655722c4af3"
+ },
+ {
+  "date": "2026-10-29",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "4b419fb62c4a"
+ },
+ {
+  "date": "2026-10-29",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": "₹12.5 lakh crore",
+  "cluster_id": "b982a1ac50d0"
+ },
+ {
+  "date": "2026-10-29",
+  "event_type": "credit_conditions",
+  "entity": "US Fed",
+  "value": "7.50%",
+  "cluster_id": "682b2242bad1"
+ },
+ {
+  "date": "2026-10-29",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "3.4%",
+  "cluster_id": "7bbeb51f7790"
  }
 ]
