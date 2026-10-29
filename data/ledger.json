@@ -6697,5 +6697,26 @@
   "entity": "Growth",
   "value": "3.4%",
   "cluster_id": "7bbeb51f7790"
+ },
+ {
+  "date": "2026-10-29",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "47fd6864ab8d"
+ },
+ {
+  "date": "2026-10-29",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "6c205ab7c536"
+ },
+ {
+  "date": "2026-10-29",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹1,879 crore",
+  "cluster_id": "4f26623712f8"
  }
 ]
