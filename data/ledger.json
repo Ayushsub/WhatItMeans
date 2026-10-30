@@ -6718,5 +6718,47 @@
   "entity": "Fiscal & Budget",
   "value": "₹1,879 crore",
   "cluster_id": "4f26623712f8"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹11,000 crore",
+  "cluster_id": "e6d4893e11b9"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": "₹11,000 crore",
+  "cluster_id": "e6d4893e11b9"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "fiscal_action",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "00c39eeb0f77"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "00c39eeb0f77"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "7e7aac9fea72"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "credit_conditions",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "7e7aac9fea72"
  }
 ]
