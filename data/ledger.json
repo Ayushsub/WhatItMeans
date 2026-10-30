@@ -6802,5 +6802,19 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "3b6136746072"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "policy_rate",
+  "entity": "Reliance Industries",
+  "value": "14%",
+  "cluster_id": "8c96395570eb"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "policy_rate",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "ec8c0cb329a5"
  }
 ]
