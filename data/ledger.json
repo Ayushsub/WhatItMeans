@@ -6781,5 +6781,26 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "992763f1caca"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "6ce975ebc3f1"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "₹232.54 lakh",
+  "cluster_id": "ab9021e731af"
+ },
+ {
+  "date": "2026-10-30",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "3b6136746072"
  }
 ]
