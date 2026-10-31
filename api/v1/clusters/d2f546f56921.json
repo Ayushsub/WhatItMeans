@@ -1,0 +1,110 @@
+{
+  "cluster_id": "d2f546f56921",
+  "analysis": {
+    "headline": "RBI sets 85% compensation rule for digital fraud victims from 2027",
+    "hook": "Victims can claim up to 85% of losses after filing by Dec 31 2026",
+    "gist": [
+      "RBI announced 85% loss compensation rule effective Jan 1 2027",
+      "Banks must cover most of victims' net loss",
+      "Watch filing deadlines and banks' fraud provisions"
+    ],
+    "what_happened": "The Reserve Bank of India issued new guidelines that will take effect on 1 January 2027. Eligible victims of digital banking fraud will be entitled to compensation equal to 85% of their net loss. The rules also specify a complaint‑filing deadline, though the exact cutoff date is not detailed in the source.",
+    "who_is_affected": [
+      {
+        "group": "digital banking customers who suffer fraud losses",
+        "effect": "can recover most of their loss, up to 85% of net amount"
+      },
+      {
+        "group": "banks and other financial institutions",
+        "effect": "face higher liability and may need to increase fraud provisions"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Banking & Financials",
+        "direction": "headwind",
+        "why": "Higher compensation liability raises cost and may tighten credit"
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "step 1: RBI mandates 85% compensation for digital fraud victims starting Jan 1 2027",
+        "step 2: banks must set aside larger provisions to cover potential payouts",
+        "step 3: higher provisioning reduces profit margins or prompts fee increases for customers",
+        "step 4: earnings reports show increased expense, possibly lower net income"
+      ],
+      "explanation": "The rule triggers a regulatory requirement that forces banks to allocate more capital for fraud losses. This allocation reduces available earnings in the short term and may lead banks to pass costs onto customers through higher fees or tighter credit terms. The impact typically appears in quarterly earnings as a rise in the fraud‑provision line item. The lag between the rule’s start and visible earnings impact is usually a few quarters.",
+      "time_horizon": "quarters"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Optimists argue that clear compensation rules lower litigation risk and boost consumer confidence in digital banking, potentially expanding transaction volumes.",
+      "depends_on": [
+        "effective implementation without excessive claims",
+        "fraud incidence remaining low"
+      ]
+    },
+    "bear_case": {
+      "argument": "Pessimists contend that the added compensation burden raises banks' cost base, which could be passed on as higher fees or tighter credit, hurting profitability.",
+      "depends_on": [
+        "frequency of fraud incidents",
+        "banks' ability to absorb higher provisions"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Number of digital fraud complaints filed",
+        "why_it_matters": "validates bear case if complaints surge",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Banks' quarterly fraud provisioning amounts",
+        "why_it_matters": "validates bear case if provisions rise sharply",
+        "when": "each quarter"
+      },
+      {
+        "variable": "Digital transaction volume growth",
+        "why_it_matters": "validates bull case if growth accelerates",
+        "when": "monthly"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Based on a single Mint article; no corroborating sources",
+    "jargon": [
+      {
+        "term": "net loss",
+        "plain_meaning": "the amount of money a victim loses after any insurance or other recoveries"
+      },
+      {
+        "term": "provision",
+        "plain_meaning": "an accounting reserve set aside to cover expected future losses"
+      },
+      {
+        "term": "digital banking fraud",
+        "plain_meaning": "unauthorised or deceptive activities that result in loss of money through online banking channels"
+      }
+    ]
+  },
+  "tags": {
+    "entities": [
+      "RBI"
+    ],
+    "tickers": [],
+    "sectors": [
+      "Banking & Financials"
+    ],
+    "macro_themes": []
+  },
+  "sources": [
+    {
+      "name": "Mint",
+      "headline": "RBI digital fraud new rules Jan 1, 2027: How much compensation can you claim? Check complaint filing deadline",
+      "url": "https://www.livemint.com/money/rbi-digital-fraud-new-rules-jan-1-2027-how-much-compensation-can-you-claim-check-complaint-filing-deadline-11793443343615.html",
+      "published_at": "2026-10-31T11:48:20+00:00"
+    }
+  ],
+  "published_at": "2026-10-31T11:48:20Z",
+  "updated_at": "2026-10-31T13:35:21.862887Z",
+  "confidence": "medium",
+  "tier": "free"
+}

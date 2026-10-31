@@ -1,0 +1,279 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-10-31T18:06:13.412223+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 18,
+  "items": [
+    {
+      "cluster_id": "ee039ba325e1",
+      "headline": "Hurricane isaias threatens us oil output, may lift global crude prices",
+      "hook": "Category 2 hurricane Isaias could halt US oil output this weekend",
+      "gist": [
+        "US production shut-ins announced",
+        "Global oil supply may tighten",
+        "Indian fuel costs could rise"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T17:55:31.923355+00:00",
+      "url": "story/ee039ba325e1.html",
+      "api": "api/v1/clusters/ee039ba325e1.json"
+    },
+    {
+      "cluster_id": "cae1810af807",
+      "headline": "Wall Street awaits US midterm elections, October jobs report, and big tech earnings",
+      "hook": "Upcoming October employment data and Apple earnings could alter global interest rate expectations.",
+      "gist": [
+        "Wall Street focuses on US midterm elections, October jobs data, and major tech earnings.",
+        "Labor data and political outcomes influence the Federal Reserve's future interest rate decisions.",
+        "Upcoming employment figures, election results, and earnings reports from Apple, AMD, and Palantir."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T17:45:50+00:00",
+      "url": "story/cae1810af807.html",
+      "api": "api/v1/clusters/cae1810af807.json"
+    },
+    {
+      "cluster_id": "091c6e3567a4",
+      "headline": "SEBI bars EKI Energy MD Manish Dabkara for 12 months over ₹197 crore revenue overstatement",
+      "hook": "EKI Energy’s reported ₹197.04 crore revenue now under regulator scrutiny",
+      "gist": [
+        "SEBI suspended the MD for 12 months over accounting misstatements",
+        "The firm overstated revenue by ₹197.04 crore and logged fictitious expenses of ₹26.34 crore",
+        "Watch for restated results, share price reaction and further regulatory steps"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T17:01:28+00:00",
+      "url": "story/091c6e3567a4.html",
+      "api": "api/v1/clusters/091c6e3567a4.json"
+    },
+    {
+      "cluster_id": "5084acf1a58f",
+      "headline": "SEBI says current exchange infrastructure can handle higher volumes, regional exchanges face challenges",
+      "hook": "Investors in regional stock markets may lose local trading venues",
+      "gist": [
+        "SEBI confirms existing exchanges can absorb larger trade volumes",
+        "Location‑based exchanges become harder to run",
+        "Regulatory focus shifts to FPI compliance and director governance"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T15:04:17+00:00",
+      "url": "story/5084acf1a58f.html",
+      "api": "api/v1/clusters/5084acf1a58f.json"
+    },
+    {
+      "cluster_id": "56b14ef85c02",
+      "headline": "Government doubles weekly wheat auction to 1.99 lakh tonnes to curb prices",
+      "hook": "A doubled auction supply of 1.99 lakh tonnes faces market caps that restrict buyers.",
+      "gist": [
+        "Government doubled weekly wheat auction quantity to 1.99 lakh tonnes.",
+        "Higher market supply aims to lower rising domestic wheat prices.",
+        "Whether bidder caps are relaxed to allow processors to buy more volume."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T15:02:16+00:00",
+      "url": "story/56b14ef85c02.html",
+      "api": "api/v1/clusters/56b14ef85c02.json"
+    },
+    {
+      "cluster_id": "39c697c3c8eb",
+      "headline": "NCLT extends Supreme Infrastructure deadline to clear ₹2,200 crore debt",
+      "hook": "Lenders including SBI agreed on a framework for a ₹2,200 crore settlement.",
+      "gist": [
+        "NCLT extended the payment deadline to October 31 for Supreme Infrastructure.",
+        "Lenders including SBI and PNB agreed on a settlement framework.",
+        "Execution of payment obligations by Supreme Infrastructure under the agreed framework."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T14:56:15+00:00",
+      "url": "story/39c697c3c8eb.html",
+      "api": "api/v1/clusters/39c697c3c8eb.json"
+    },
+    {
+      "cluster_id": "62d978a7dda1",
+      "headline": "New GST rules simplify registration for small online sellers from November 1",
+      "hook": "Small online merchants gain faster access to stuck cash ledger refunds from November 1.",
+      "gist": [
+        "India simplifies GST registration and automates refunds for small online merchants starting November 1.",
+        "Faster cash ledger refunds improve working capital for small businesses selling across state borders.",
+        "Implementation efficiency of automated refunds on the GST portal over coming weeks."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T14:54:46+00:00",
+      "url": "story/62d978a7dda1.html",
+      "api": "api/v1/clusters/62d978a7dda1.json"
+    },
+    {
+      "cluster_id": "2386ddb6c901",
+      "headline": "LPG under-recovery projected to reach ₹370 per cylinder by December",
+      "hook": "State refiners face growing losses on cooking gas supplied to 33 crore households.",
+      "gist": [
+        "Indian Oil Corporation projects LPG losses reaching ₹370 per cylinder by December 2026.",
+        "Unrecovered costs squeeze profitability for public sector oil marketing companies.",
+        "Government fiscal support or potential retail price adjustments in coming quarters."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-31T13:52:00+00:00",
+      "url": "story/2386ddb6c901.html",
+      "api": "api/v1/clusters/2386ddb6c901.json"
+    },
+    {
+      "cluster_id": "d2f546f56921",
+      "headline": "RBI sets 85% compensation rule for digital fraud victims from 2027",
+      "hook": "Victims can claim up to 85% of losses after filing by Dec 31 2026",
+      "gist": [
+        "RBI announced 85% loss compensation rule effective Jan 1 2027",
+        "Banks must cover most of victims' net loss",
+        "Watch filing deadlines and banks' fraud provisions"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T11:48:20+00:00",
+      "url": "story/d2f546f56921.html",
+      "api": "api/v1/clusters/d2f546f56921.json"
+    },
+    {
+      "cluster_id": "0c471e0b9955",
+      "headline": "SEBI monitors Tata Sons governance amid listing and leadership discussions",
+      "hook": "Regulator oversight intensifies as Tata Group governance and listing discussions face public scrutiny.",
+      "gist": [
+        "SEBI is actively monitoring governance developments and leadership discussions at Tata Sons.",
+        "Scrutiny on the core holding company can influence investor sentiment across group entities.",
+        "Regulatory statements and potential structural changes regarding Tata Sons listing mandate."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T11:41:17+00:00",
+      "url": "story/0c471e0b9955.html",
+      "api": "api/v1/clusters/0c471e0b9955.json"
+    },
+    {
+      "cluster_id": "59d5f95aa814",
+      "headline": "Bank lending to commercial sector jumps 55% to 17.5 lakh cr in apr‑aug",
+      "hook": "Corporate bond issuances fell sharply as yields climbed in FY27",
+      "gist": [
+        "Bank credit surged 55.4% to 17.5 lakh cr Apr‑Aug FY27",
+        "Higher yields push firms to banks, shrinking bond market",
+        "Track bond issuance, RBI policy moves"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T09:32:21+00:00",
+      "url": "story/59d5f95aa814.html",
+      "api": "api/v1/clusters/59d5f95aa814.json"
+    },
+    {
+      "cluster_id": "963e51406764",
+      "headline": "India government to discuss bulk scotch import tariffs with liquor firms",
+      "hook": "Domestic giants and foreign peers meet over 80% bulk Scotch imports",
+      "gist": [
+        "Government holds talks on bulk scotch tariffs",
+        "Potential cost shift for whisky makers",
+        "Watch policy outcome and whisky prices"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T09:21:19+00:00",
+      "url": "story/963e51406764.html",
+      "api": "api/v1/clusters/963e51406764.json"
+    },
+    {
+      "cluster_id": "ea4de007bf54",
+      "headline": "SEBI to ease FII rules and compliance to boost capital markets",
+      "hook": "Foreign funds may face simplified rules as the regulator targets heavy institutional outflows.",
+      "gist": [
+        "SEBI announced upcoming rules to ease compliance for foreign institutional investors and fundraising.",
+        "Simpler regulations aim to stem heavy foreign capital outflows and lower compliance costs.",
+        "The consultation paper on foreign investor compliance expected within weeks."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-31T07:33:24+00:00",
+      "url": "story/ea4de007bf54.html",
+      "api": "api/v1/clusters/ea4de007bf54.json"
+    },
+    {
+      "cluster_id": "0ac56a94668a",
+      "headline": "IGL signs pact with Northern Railway to supply PNG across 22 sites",
+      "hook": "Displacing 2,500 litres of daily diesel sets up steady institutional gas demand.",
+      "gist": [
+        "IGL partnered with Northern Railway to supply piped natural gas across 22 Delhi-NCR facilities.",
+        "Secures 3,000 SCMD of commercial gas volume while cutting railway fuel emissions and costs.",
+        "Expansion of commercial gas contracts across other Indian Railways divisions and transit hubs."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-31T07:19:08+00:00",
+      "url": "story/0ac56a94668a.html",
+      "api": "api/v1/clusters/0ac56a94668a.json"
+    },
+    {
+      "cluster_id": "b02688e9f374",
+      "headline": "India's crude imports hit record 5.4 mb/d; diesel exports rise to 12‑month high",
+      "hook": "700,000 barrels per day of diesel shipped abroad amid domestic shortage",
+      "gist": [
+        "Record crude imports of 5.4 million b/d in October",
+        "Diesel exports climb to 12‑month high",
+        "Potential impact on domestic fuel prices"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T05:08:26+00:00",
+      "url": "story/b02688e9f374.html",
+      "api": "api/v1/clusters/b02688e9f374.json"
+    },
+    {
+      "cluster_id": "5d8a2fd69fec",
+      "headline": "Brent crude jumps 13.6% in October to $117.64 a barrel",
+      "hook": "India’s fuel import bill spikes as Brent hits $117.64 per barrel",
+      "gist": [
+        "Oil prices rose 13.6% in October.",
+        "Higher crude costs pressure Indian importers and consumers.",
+        "Watch fuel prices, inflation and RBI policy."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T04:41:11+00:00",
+      "url": "story/5d8a2fd69fec.html",
+      "api": "api/v1/clusters/5d8a2fd69fec.json"
+    },
+    {
+      "cluster_id": "93a30e6e4598",
+      "headline": "Ntpc profit jumps 39% in q2 fy27, revenue up 21%",
+      "hook": "NTPC’s 39% profit surge comes as it declares first interim dividend",
+      "gist": [
+        "Net profit rose 39% YoY to ₹7,030 cr",
+        "Strong earnings boost cash flow and dividend payout",
+        "Watch power demand and RBI liquidity stance"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-10-31T04:33:16+00:00",
+      "url": "story/93a30e6e4598.html",
+      "api": "api/v1/clusters/93a30e6e4598.json"
+    },
+    {
+      "cluster_id": "3a5ffd7a3edb",
+      "headline": "Government extends cotton import duty exemption until December 31",
+      "hook": "Textile mills gain temporary relief as imports head past 71 lakh bales.",
+      "gist": [
+        "Finance Ministry extended duty-free cotton imports until December 31, 2026.",
+        "Textile mills get cheaper raw cotton amid local crop quality and supply concerns.",
+        "Whether 2026-27 import volumes surpass previous record of 71 lakh bales."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-10-31T01:14:15+00:00",
+      "url": "story/3a5ffd7a3edb.html",
+      "api": "api/v1/clusters/3a5ffd7a3edb.json"
+    }
+  ]
+}

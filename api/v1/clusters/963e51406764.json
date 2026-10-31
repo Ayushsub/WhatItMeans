@@ -1,0 +1,114 @@
+{
+  "cluster_id": "963e51406764",
+  "analysis": {
+    "headline": "India government to discuss bulk scotch import tariffs with liquor firms",
+    "hook": "Domestic giants and foreign peers meet over 80% bulk Scotch imports",
+    "gist": [
+      "Government holds talks on bulk scotch tariffs",
+      "Potential cost shift for whisky makers",
+      "Watch policy outcome and whisky prices"
+    ],
+    "what_happened": "On 31 October 2026 the Indian government announced meetings with major liquor companies, including Diageo and Pernod, to discuss tariff reductions on bulk Scotch whisky imports. About 80% of Scotch arriving from Britain is in bulk form for local blending. Industry players have expressed alarm over the ongoing dispute with foreign peers.",
+    "who_is_affected": [
+      {
+        "group": "domestic blended whisky manufacturers",
+        "effect": "likely lower input costs, potentially improving margins by up to the bulk import share (≈80%)"
+      },
+      {
+        "group": "consumers of Scotch‑based blended whisky",
+        "effect": "possible price moderation, though exact change depends on pass‑through"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "alcoholic beverages",
+        "direction": "mixed",
+        "why": "lower tariffs help manufacturers but any policy uncertainty can weigh on importers"
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "step 1: government signals possible tariff reduction on bulk Scotch imports",
+        "step 2: reduced customs duty forces lower landed cost for bulk whisky",
+        "step 3: manufacturers using bulk whisky can cut production costs or boost margins",
+        "step 4: cost changes appear as either lower retail prices or higher earnings in quarterly results"
+      ],
+      "explanation": "The policy signal first alters the duty rate at customs, which takes effect within weeks. Importers then pay less for bulk Scotch, a change that passes through the supply chain over a month or two. Companies that blend Scotch can either reduce selling prices, stimulating demand, or retain the savings as higher profit margins, which will show up in earnings reports a quarter later. The lag is therefore a few weeks for cost transmission and up to a quarter for earnings impact.",
+      "time_horizon": "months"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Optimists argue that tariff reductions will lower production costs for Indian blended whisky makers, supporting margins and keeping retail prices competitive, as noted by domestic industry representatives.",
+      "depends_on": [
+        "final tariff reduction is implemented",
+        "manufacturers pass cost savings to margins rather than prices"
+      ]
+    },
+    "bear_case": {
+      "argument": "Pessimists contend that any move to exclude bulk Scotch imports—or a failure to reduce tariffs—could raise input costs, squeeze margins and push up whisky prices, a view voiced by foreign spirits associations.",
+      "depends_on": [
+        "tariff rates remain high or increase",
+        "costs are fully passed on to consumers"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "final bulk Scotch tariff rate",
+        "why_it_matters": "validates bull case if reduced, bear case if unchanged or raised",
+        "when": "government decision expected in coming weeks"
+      },
+      {
+        "variable": "import volume of bulk Scotch",
+        "why_it_matters": "shows whether policy change affects supply",
+        "when": "ongoing"
+      },
+      {
+        "variable": "average retail price of blended whisky",
+        "why_it_matters": "indicates pass‑through to consumers",
+        "when": "monthly price surveys"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Only two news reports, but both convey the same policy discussion",
+    "jargon": [
+      {
+        "term": "bulk Scotch imports",
+        "plain_meaning": "large‑quantity shipments of Scotch whisky used for blending in India"
+      },
+      {
+        "term": "tariff",
+        "plain_meaning": "tax or duty imposed on imported goods, affecting their cost"
+      },
+      {
+        "term": "blended whisky",
+        "plain_meaning": "whisky made by mixing Scotch with other spirits, often using bulk imports"
+      }
+    ]
+  },
+  "tags": {
+    "entities": [],
+    "tickers": [],
+    "sectors": [],
+    "macro_themes": [
+      "Trade & Tariffs"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Economic Times",
+      "headline": "Govt to meet liquor firms as domestic giants join foreign peers in Scotch dispute",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/govt-to-meet-liquor-firms-as-domestic-giants-join-foreign-peers-in-scotch-dispute/articleshow/135396203.cms",
+      "published_at": "2026-10-31T09:21:19+00:00"
+    },
+    {
+      "name": "The Hindu BusinessLine",
+      "headline": "India to meet liquor firms as domestic giants join foreign peers in Scotch dispute",
+      "url": "https://www.thehindubusinessline.com/companies/india-to-meet-liquor-firms-as-domestic-giants-join-foreign-peers-in-scotch-dispute/article71648850.ece",
+      "published_at": "2026-10-31T10:04:26+00:00"
+    }
+  ],
+  "published_at": "2026-10-31T09:21:19Z",
+  "updated_at": "2026-10-31T13:35:21.862887Z",
+  "confidence": "medium",
+  "tier": "free"
+}
