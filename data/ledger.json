@@ -6858,5 +6858,33 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "b02688e9f374"
+ },
+ {
+  "date": "2026-10-31",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "3a5ffd7a3edb"
+ },
+ {
+  "date": "2026-10-31",
+  "event_type": "credit_conditions",
+  "entity": "Government",
+  "value": "₹17.5 lakh",
+  "cluster_id": "59d5f95aa814"
+ },
+ {
+  "date": "2026-10-31",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "ea4de007bf54"
+ },
+ {
+  "date": "2026-10-31",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "₹7,030 crore",
+  "cluster_id": "93a30e6e4598"
  }
 ]
