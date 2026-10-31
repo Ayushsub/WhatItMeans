@@ -6816,5 +6816,26 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "ec8c0cb329a5"
+ },
+ {
+  "date": "2026-10-31",
+  "event_type": "policy_rate",
+  "entity": "Reliance Industries",
+  "value": "34%",
+  "cluster_id": "8c96395570eb"
+ },
+ {
+  "date": "2026-10-31",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "8c96395570eb"
+ },
+ {
+  "date": "2026-10-31",
+  "event_type": "fiscal_action",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "05544cfa534d"
  }
 ]
