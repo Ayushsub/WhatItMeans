@@ -6886,5 +6886,19 @@
   "entity": "Credit & Liquidity",
   "value": "₹7,030 crore",
   "cluster_id": "93a30e6e4598"
+ },
+ {
+  "date": "2026-10-31",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "62d978a7dda1"
+ },
+ {
+  "date": "2026-10-31",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "cae1810af807"
  }
 ]
