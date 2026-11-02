@@ -6984,5 +6984,26 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "5cffda50eb1e"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "2c95ae11fc14"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "7718ef471a7b"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "fiscal_action",
+  "entity": "Tata Motors",
+  "value": null,
+  "cluster_id": "7718ef471a7b"
  }
 ]
