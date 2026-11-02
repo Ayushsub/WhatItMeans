@@ -7005,5 +7005,19 @@
   "entity": "Tata Motors",
   "value": null,
   "cluster_id": "7718ef471a7b"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "b5ddcc0d5ad1"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "fiscal_action",
+  "entity": "Reliance Industries",
+  "value": "₹34,843 crore",
+  "cluster_id": "04934a61e85b"
  }
 ]
