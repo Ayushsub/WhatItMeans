@@ -7019,5 +7019,54 @@
   "entity": "Reliance Industries",
   "value": "₹34,843 crore",
   "cluster_id": "04934a61e85b"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "c417a4e1cc5c"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "c417a4e1cc5c"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "fiscal_action",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "bb780aaddab9"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "fiscal_action",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "49bc8c1e144a"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": "5.25%",
+  "cluster_id": "2f28e5406f34"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "45b0703e1a60"
+ },
+ {
+  "date": "2026-11-02",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "45b0703e1a60"
  }
 ]
