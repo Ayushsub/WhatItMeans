@@ -7068,5 +7068,33 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "45b0703e1a60"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "3a9f6c7d12cf"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "3a9f6c7d12cf"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "dd6fdec22c83"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "88e35c6cc2e4"
  }
 ]
