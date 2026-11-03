@@ -7138,5 +7138,26 @@
   "entity": "State Bank of India",
   "value": "₹1.2 lakh",
   "cluster_id": "27f7176ec1ca"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "policy_rate",
+  "entity": "State Bank of India",
+  "value": "14.3%",
+  "cluster_id": "457a2127e348"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "credit_conditions",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "457a2127e348"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "b324e1492511"
  }
 ]
