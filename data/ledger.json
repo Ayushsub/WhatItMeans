@@ -7096,5 +7096,33 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "88e35c6cc2e4"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "3944458c28f9"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "7.31%",
+  "cluster_id": "3944458c28f9"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "8b8f29b3810c"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "7a3894b3da51"
  }
 ]
