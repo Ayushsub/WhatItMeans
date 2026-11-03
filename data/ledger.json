@@ -7124,5 +7124,19 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "7a3894b3da51"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "aa46360217dd"
+ },
+ {
+  "date": "2026-11-03",
+  "event_type": "fiscal_action",
+  "entity": "State Bank of India",
+  "value": "₹1.2 lakh",
+  "cluster_id": "27f7176ec1ca"
  }
 ]
