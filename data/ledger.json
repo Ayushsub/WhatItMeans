@@ -7264,5 +7264,12 @@
   "entity": "Fiscal & Budget",
   "value": null,
   "cluster_id": "5058252170bb"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "17392ea9dc40"
  }
 ]
