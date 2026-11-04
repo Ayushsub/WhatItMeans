@@ -7208,5 +7208,26 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "3c380920fdd1"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "4c8e43c92848"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "a70d08927dc8"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "52e695126bb6"
  }
 ]
