@@ -7229,5 +7229,40 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "52e695126bb6"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "0e4e059fdcb2"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "76e797bb7bd4"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "4b44e3f4475b"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "e5f8b1d4d166"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "5058252170bb"
  }
 ]
