@@ -7166,5 +7166,47 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "a72bbc80e1e7"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "7ba1a1d6b459"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "7ba1a1d6b459"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "policy_rate",
+  "entity": "State Bank of India",
+  "value": null,
+  "cluster_id": "af2803533f18"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "credit_conditions",
+  "entity": "State Bank of India",
+  "value": "-15%",
+  "cluster_id": "af2803533f18"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "ae9ad4906335"
+ },
+ {
+  "date": "2026-11-04",
+  "event_type": "fiscal_action",
+  "entity": "SEBI",
+  "value": null,
+  "cluster_id": "3c380920fdd1"
  }
 ]
