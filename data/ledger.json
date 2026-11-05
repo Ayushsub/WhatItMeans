@@ -7334,5 +7334,40 @@
   "entity": "SEBI",
   "value": null,
   "cluster_id": "5f64f213b6d2"
+ },
+ {
+  "date": "2026-11-05",
+  "event_type": "policy_rate",
+  "entity": "Bajaj Finance",
+  "value": null,
+  "cluster_id": "fa9ace83f589"
+ },
+ {
+  "date": "2026-11-05",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "8fd9a76fb72e"
+ },
+ {
+  "date": "2026-11-05",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": "₹1.5 lakh crore",
+  "cluster_id": "927e7dc69484"
+ },
+ {
+  "date": "2026-11-05",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": "7.17%",
+  "cluster_id": "3879cc7483da"
+ },
+ {
+  "date": "2026-11-05",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "32c779fe853c"
  }
 ]
