@@ -7446,5 +7446,26 @@
   "entity": "RBI",
   "value": null,
   "cluster_id": "46bb96958290"
+ },
+ {
+  "date": "2026-11-06",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "a985b8959dbd"
+ },
+ {
+  "date": "2026-11-06",
+  "event_type": "policy_rate",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "a87c7753bfa0"
+ },
+ {
+  "date": "2026-11-06",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹52,000 crore",
+  "cluster_id": "e8730a85f237"
  }
 ]
