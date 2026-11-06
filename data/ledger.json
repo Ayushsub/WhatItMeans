@@ -7425,5 +7425,12 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "a622e7f7d0b9"
+ },
+ {
+  "date": "2026-11-06",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "333f883fedb2"
  }
 ]
