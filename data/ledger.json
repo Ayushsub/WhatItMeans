@@ -7404,5 +7404,26 @@
   "entity": "Trade & Tariffs",
   "value": null,
   "cluster_id": "c4567ca915a0"
+ },
+ {
+  "date": "2026-11-06",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "e0cea8110df2"
+ },
+ {
+  "date": "2026-11-06",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "0fc637497953"
+ },
+ {
+  "date": "2026-11-06",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "a622e7f7d0b9"
  }
 ]
