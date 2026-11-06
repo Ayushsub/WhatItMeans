@@ -7432,5 +7432,19 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "333f883fedb2"
+ },
+ {
+  "date": "2026-11-06",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "92e0ec7776d9"
+ },
+ {
+  "date": "2026-11-06",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "46bb96958290"
  }
 ]
