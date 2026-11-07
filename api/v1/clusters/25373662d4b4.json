@@ -1,0 +1,116 @@
+{
+  "cluster_id": "25373662d4b4",
+  "analysis": {
+    "headline": "Karnataka flags ethanol levels reaching 31% in petrol samples",
+    "hook": "Karnataka officials found petrol samples containing up to 31.2 percent ethanol content.",
+    "gist": [
+      "Karnataka reported petrol samples containing up to 31.2% ethanol, exceeding E20 limits.",
+      "Excess ethanol reduces vehicle mileage and raises concerns over OMC blending compliance.",
+      "Joint sampling results and official responses from oil marketing companies."
+    ],
+    "what_happened": "On November 6, 2026, Karnataka's Department of Food reported that petrol samples from multiple districts contained ethanol levels of up to 31.2%, exceeding the national 20% (E20) limit. The Union Oil Ministry refuted the claims on November 7, 2026, stating that 893 tested OMC petrol samples met quality standards. The ministry added that Karnataka officials failed to follow standard sampling procedures during their testing.",
+    "who_is_affected": [
+      {
+        "group": "Petrol vehicle owners in Karnataka",
+        "effect": "Higher ethanol blend ratios beyond E20 can reduce vehicle fuel efficiency and potentially damage engine components over time."
+      },
+      {
+        "group": "Public Sector Oil Marketing Companies",
+        "effect": "Facing scrutiny over supply chain blending controls and retail distribution quality assurance."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Energy & Utilities",
+        "direction": "headwind",
+        "why": "Oil marketing companies face potential regulatory scrutiny and audit requirements regarding ethanol blending accuracy."
+      },
+      {
+        "sector": "Automotive",
+        "direction": "headwind",
+        "why": "Vehicle manufacturers could face consumer complaints regarding reduced fuel economy or component wear linked to off-spec fuel."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "step 1: Alleged improper blending causes ethanol content in petrol to exceed the 20% limit",
+        "step 2: Higher ethanol concentration lowers the energy density of the fuel mixture",
+        "step 3: Vehicle owners experience reduced mileage and potential fuel system corrosion",
+        "step 4: Regulatory friction increases compliance and testing oversight costs for oil refiners"
+      ],
+      "explanation": "If petrol contains higher ethanol concentrations than standard E20 calibration, the lower energy density of ethanol directly degrades fuel efficiency within days of fueling. Over several months, excessive ethanol content can cause material degradation in unadapted engine fuel lines. This forces state governments and oil marketing companies into regulatory disputes over testing standards. Consequently, oil marketing companies may face tighter quality-control mandates that raise distribution oversight costs over coming quarters.",
+      "time_horizon": "months"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Bulls argue that oil marketing companies enforce strict quality controls, as evidenced by 893 tested samples fully meeting prescribed E20 standards.",
+      "depends_on": [
+        "Re-testing confirming compliance under standard sampling procedures",
+        "Continued stability in OMC distribution networks"
+      ]
+    },
+    "bear_case": {
+      "argument": "Bears argue that inconsistent blending practices could lead to consumer dissatisfaction, potential engine damage claims, and elevated audit expenses for fuel retailers.",
+      "depends_on": [
+        "Validation of off-spec ethanol levels by independent testing laboratories",
+        "Widespread reporting of fuel-related engine issues by vehicle owners"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Outcome of joint sampling verification between Karnataka authorities and OMCs",
+        "why_it_matters": "Determines whether fuel blending process errors actually occurred or if initial sample protocols were flawed",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Oil Ministry compliance audits across state petrol pumps",
+        "why_it_matters": "Validates nationwide adherence to the E20 blending limit",
+        "when": "ongoing"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "The claims by the Karnataka state government and the subsequent counter-statement by the central Oil Ministry are consistently documented across all sources.",
+    "jargon": [
+      {
+        "term": "E20 Petrol",
+        "plain_meaning": "A petrol blend containing 20% ethanol and 80% conventional gasoline by volume."
+      },
+      {
+        "term": "Oil Marketing Companies (OMCs)",
+        "plain_meaning": "State-owned or private firms responsible for refining, distributing, and retailing petroleum products."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [],
+    "tickers": [],
+    "sectors": [
+      "Energy & Utilities"
+    ],
+    "macro_themes": []
+  },
+  "sources": [
+    {
+      "name": "The Hindu BusinessLine",
+      "headline": "Karnataka flags ethanol levels crossing the permissible 20% limit in petrol samples",
+      "url": "https://www.thehindubusinessline.com/news/national/karnataka-flags-ethanol-levels-crossing-the-permissible-20-limit-in-petrol-samples/article71674289.ece",
+      "published_at": "2026-11-06T16:46:51+00:00"
+    },
+    {
+      "name": "The Hindu",
+      "headline": "Is your petrol really E20? Karnataka claims ethanol levels reached 31%",
+      "url": "https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece",
+      "published_at": "2026-11-07T09:33:32+00:00"
+    },
+    {
+      "name": "Economic Times",
+      "headline": "E20 petrol supplied by PSU oil firms meets prescribed quality standards: Oil Min",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/e20-petrol-supplied-by-psu-oil-firms-meets-prescribed-quality-standards-oil-min/articleshow/135635580.cms",
+      "published_at": "2026-11-07T11:51:05+00:00"
+    }
+  ],
+  "published_at": "2026-11-06T16:46:51Z",
+  "updated_at": "2026-11-07T14:00:22.467961Z",
+  "confidence": "high",
+  "tier": "free"
+}

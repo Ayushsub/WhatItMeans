@@ -1,0 +1,103 @@
+{
+  "cluster_id": "a985b8959dbd",
+  "analysis": {
+    "headline": "Raising PSB foreign investment cap to 49% could trigger Rs 30,000 crore inflows",
+    "hook": "State Bank of India could see Rs 20,000 crore in foreign buying.",
+    "gist": [
+      "Public sector banks requested raising foreign investment caps from 20% to 49%.",
+      "Higher headroom could trigger up to Rs 30,000 crore in passive foreign funds.",
+      "Government approval and subsequent global equity index weight revisions will dictate outcomes."
+    ],
+    "what_happened": "On November 6, 2026, public sector banks requested the Indian government to increase the foreign investment limit in state-owned lenders from 20% to 49%. Lenders estimate that this regulatory change could trigger passive foreign capital inflows of at least Rs 30,000 crore into public sector banks. State Bank of India alone is projected to receive around Rs 20,000 crore due to expected weightage adjustments in global stock indices.",
+    "who_is_affected": [
+      {
+        "group": "Public sector bank shareholders",
+        "effect": "State Bank of India and other public lenders could see higher share demand from foreign institutional investors."
+      },
+      {
+        "group": "Foreign portfolio investors",
+        "effect": "Passive global index funds gain structural room to increase allocations toward Indian state-owned banks."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Banking",
+        "direction": "tailwind",
+        "why": "Higher foreign investment headroom enables up to Rs 30,000 crore in passive foreign equity inflows into public sector lenders."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "Government raises foreign investment limit for public sector banks from 20% to 49%",
+        "Global stock index providers increase the foreign inclusion factor for state-owned banks",
+        "Passive index-tracking foreign funds automatically buy bank equity to align with updated index weights",
+        "Institutional demand injects liquidity and places upward pressure on public bank valuations"
+      ],
+      "explanation": "If the government approves increasing the foreign direct investment limit from 20% to 49%, available headroom for foreign investors expands. Global benchmark providers would then adjust the foreign inclusion weight of public sector banks over several months. Passive index-tracking funds are required to buy the underlying shares to mirror these updated weights, creating structured foreign inflows over subsequent quarters.",
+      "time_horizon": "quarters"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Bulls argue that expanding foreign investment limits to 49% will unlock substantial passive institutional inflows, improving liquidity and valuations across state-owned lenders led by State Bank of India.",
+      "depends_on": [
+        "Government approval of the 49% foreign headroom proposal",
+        "Subsequent index weight increases by major global equity benchmark providers"
+      ]
+    },
+    "bear_case": {
+      "argument": "Bears contend that raising ownership caps provides only a one-time flow adjustment without improving fundamental loan growth or operating margins for public sector banks.",
+      "depends_on": [
+        "Government delay or rejection of the cap revision",
+        "Broader emerging market risk-off sentiment causing foreign capital outflows"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Government decision on PSB foreign investment limits",
+        "why_it_matters": "Determines whether the statutory ceiling expands from 20% to 49%",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Global index provider weightage adjustments",
+        "why_it_matters": "Validates whether the projected Rs 30,000 crore passive inflow materialises",
+        "when": "ongoing"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Reporting relies on a single news source detailing a proposal submitted by public sector banks to the government.",
+    "jargon": [
+      {
+        "term": "Passive foreign inflows",
+        "plain_meaning": "Capital invested automatically by foreign funds tracking stock indices, rather than through active individual stock selection."
+      },
+      {
+        "term": "Foreign investment cap",
+        "plain_meaning": "The legal upper limit on the percentage of a domestic company's equity that overseas investors are permitted to own."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [
+      "State Bank of India"
+    ],
+    "tickers": [
+      "SBIN"
+    ],
+    "sectors": [],
+    "macro_themes": [
+      "Institutional Flows"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Economic Times",
+      "headline": "PSBs see up to Rs 30,000 crore in foreign inflows if investment cap raised to 49%",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/psbs-see-up-to-rs-30000-crore-in-foreign-inflows-if-investment-cap-raised-to-49/articleshow/135617995.cms",
+      "published_at": "2026-11-06T18:38:50+00:00"
+    }
+  ],
+  "published_at": "2026-11-06T18:38:50Z",
+  "updated_at": "2026-11-06T21:27:12.739584Z",
+  "confidence": "medium",
+  "tier": "free"
+}

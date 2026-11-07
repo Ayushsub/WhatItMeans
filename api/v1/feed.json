@@ -1,0 +1,294 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-11-07T14:00:22.777254+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 19,
+  "items": [
+    {
+      "cluster_id": "4c7402a1368d",
+      "headline": "Indian pharma firms scale up API investments to curb import reliance",
+      "hook": "Rising local production of active pharmaceutical ingredients targets protection against global supply shocks.",
+      "gist": [
+        "Indian drugmakers are increasing investments in active pharmaceutical ingredients and advanced therapies.",
+        "Local manufacturing reduces dependency on foreign raw material imports and supply disruptions.",
+        "Track announcements of capital expenditure and government incentive payouts across domestic manufacturers."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-07T12:09:57+00:00",
+      "url": "story/4c7402a1368d.html",
+      "api": "api/v1/clusters/4c7402a1368d.json"
+    },
+    {
+      "cluster_id": "3eb9d163ed7e",
+      "headline": "Tata Steel Q2 net profit rises 18% on higher realisations and cost savings",
+      "hook": "An 18% profit bump provides capital for Tata Steel's ongoing expansion projects.",
+      "gist": [
+        "Tata Steel reported an 18% increase in Q2 net profit, beating market estimates.",
+        "Higher realisations and cost efficiencies are supporting management's aggressive capacity expansion plans.",
+        "Second-half volume growth, seasonal demand, and execution at Neelachal Ispat Nigam."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-11-07T11:32:04+00:00",
+      "url": "story/3eb9d163ed7e.html",
+      "api": "api/v1/clusters/3eb9d163ed7e.json"
+    },
+    {
+      "cluster_id": "cb682ca5681c",
+      "headline": "Indian Railways plans to quadruple tracks across seven major corridors",
+      "hook": "Expanding to four parallel tracks could eventually clear passenger waitlists across four metro routes.",
+      "gist": [
+        "Indian Railways plans to expand seven key transit corridors into four parallel tracks.",
+        "Quadrupling lines aims to separate coal freight from passenger transport, reducing congestion.",
+        "Approvals, land acquisition timelines, and capital expenditure outlay for the quadrupling projects."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-11-07T09:51:07+00:00",
+      "url": "story/cb682ca5681c.html",
+      "api": "api/v1/clusters/cb682ca5681c.json"
+    },
+    {
+      "cluster_id": "63ee0c8f5e83",
+      "headline": "Credit card no‑cost EMI offers hide processing fees and GST, warns Mint",
+      "hook": "Five hidden costs can erode the appeal of no‑cost EMI",
+      "gist": [
+        "No‑cost EMI carries undisclosed fees",
+        "Consumers may pay more than advertised",
+        "Watch fee structures and credit‑limit impacts"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-07T09:06:34+00:00",
+      "url": "story/63ee0c8f5e83.html",
+      "api": "api/v1/clusters/63ee0c8f5e83.json"
+    },
+    {
+      "cluster_id": "1a688ae51944",
+      "headline": "RBI raises gold loan ltv limits and tightens auction safeguards",
+      "hook": "New RBI gold loan rules 2026 tighten valuation and auction safeguards",
+      "gist": [
+        "RBI changed gold loan eligibility and auction rules",
+        "Higher limits could boost borrowing but raise risk",
+        "Watch gold prices and loan default trends"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-07T06:23:20+00:00",
+      "url": "story/1a688ae51944.html",
+      "api": "api/v1/clusters/1a688ae51944.json"
+    },
+    {
+      "cluster_id": "3b6986355c97",
+      "headline": "Openai secures $11 billion funding, valuation rises to $1.25 trillion",
+      "hook": "Openai's first tranche brings $11 billion, sparking investor debate",
+      "gist": [
+        "Openai raised $11 billion, valuing it at $1.25 trillion.",
+        "Funding signals strong investor appetite for AI despite market sell‑off.",
+        "Watch for ripple effects on Indian tech and AI financing."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-07T02:29:53+00:00",
+      "url": "story/3b6986355c97.html",
+      "api": "api/v1/clusters/3b6986355c97.json"
+    },
+    {
+      "cluster_id": "e989e4c8586d",
+      "headline": "US midterm election results may curb datacenter spending and ease Fed rate pressure",
+      "hook": "Midterm election outcomes threaten capital expenditure in datacenters across technology sectors.",
+      "gist": [
+        "US midterm election results indicate a potential slowdown in capital spending on datacenters.",
+        "Lower infrastructure demand could ease broader inflation pressures and reduce Fed rate hike expectations.",
+        "Upcoming data on technology capital expenditure and Federal Reserve policy statements."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-11-07T01:54:35+00:00",
+      "url": "story/e989e4c8586d.html",
+      "api": "api/v1/clusters/e989e4c8586d.json"
+    },
+    {
+      "cluster_id": "8dfef67885f1",
+      "headline": "India keeps broken rice exports open, banks on steady paddy procurement",
+      "hook": "8.08 lakh tonnes of broken rice shipped in 2025 despite past bans",
+      "gist": [
+        "No new export curbs announced",
+        "Export continuity supports farmer income and global market share",
+        "Watch domestic rice stocks and global price trends"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-07T00:31:03+00:00",
+      "url": "story/8dfef67885f1.html",
+      "api": "api/v1/clusters/8dfef67885f1.json"
+    },
+    {
+      "cluster_id": "7204ea984e7a",
+      "headline": "SEBI notifies commencement of settlement regulations for 2026",
+      "hook": "Regulated entities face updated legal resolution framework following SEBI's latest regulatory notification.",
+      "gist": [
+        "SEBI announced the commencement of Settlement Regulations, 2026 on November 6, 2026.",
+        "The framework governs civil and administrative proceedings settlement with the regulator.",
+        "Further operational guidelines and implementation details remain to be watched."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-11-06T21:23:38.281524+00:00",
+      "url": "story/7204ea984e7a.html",
+      "api": "api/v1/clusters/7204ea984e7a.json"
+    },
+    {
+      "cluster_id": "b9e9903c7477",
+      "headline": "Centre orders rice and paddy stock declaration, permits limits in five southern states",
+      "hook": "Five southern states can now set rice stock caps",
+      "gist": [
+        "Government mandates rice stock disclosure",
+        "Aims to curb hoarding and price rise",
+        "Watch rice price trends and stock reports"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-06T19:23:37+00:00",
+      "url": "story/b9e9903c7477.html",
+      "api": "api/v1/clusters/b9e9903c7477.json"
+    },
+    {
+      "cluster_id": "e4288d0e85ab",
+      "headline": "Fed's daly warns of continued US inflation and possible rate hikes",
+      "hook": "US consumers face a high‑inflation treadmill as fed eyes more hikes",
+      "gist": [
+        "Fed official says inflation remains high",
+        "Higher US rates could affect india's trade and financing",
+        "Watch us policy moves and rupee response"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-06T19:05:00+00:00",
+      "url": "story/e4288d0e85ab.html",
+      "api": "api/v1/clusters/e4288d0e85ab.json"
+    },
+    {
+      "cluster_id": "a985b8959dbd",
+      "headline": "Raising PSB foreign investment cap to 49% could trigger Rs 30,000 crore inflows",
+      "hook": "State Bank of India could see Rs 20,000 crore in foreign buying.",
+      "gist": [
+        "Public sector banks requested raising foreign investment caps from 20% to 49%.",
+        "Higher headroom could trigger up to Rs 30,000 crore in passive foreign funds.",
+        "Government approval and subsequent global equity index weight revisions will dictate outcomes."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-06T18:38:50+00:00",
+      "url": "story/a985b8959dbd.html",
+      "api": "api/v1/clusters/a985b8959dbd.json"
+    },
+    {
+      "cluster_id": "a7d796663939",
+      "headline": "Gold and silver slip as US jobs data fuels rate hike expectations",
+      "hook": "Gold fell ₹1,700 to ₹1,42,930 after 165,000 jobs added",
+      "gist": [
+        "Gold and silver prices dropped sharply",
+        "Strong US payrolls raise Fed hike odds",
+        "Watch US yields and dollar strength"
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-06T17:25:16+00:00",
+      "url": "story/a7d796663939.html",
+      "api": "api/v1/clusters/a7d796663939.json"
+    },
+    {
+      "cluster_id": "f2ef0a69315b",
+      "headline": "NBFC credit for gold jewellery jumped 66.1% in September, shows RBI data",
+      "hook": "NBFC credit for gold jewellery reached Rs 3.74 lakh crore after jumping 66.1%.",
+      "gist": [
+        "NBFC credit for gold jewellery and consumer durables grew over 50% in September.",
+        "Rapid retail loan growth boosts lender revenues but heightens central bank scrutiny.",
+        "Whether the RBI introduces stricter capital rules to curb fast-paced lending."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-06T17:13:15+00:00",
+      "url": "story/f2ef0a69315b.html",
+      "api": "api/v1/clusters/f2ef0a69315b.json"
+    },
+    {
+      "cluster_id": "538c5843f9c9",
+      "headline": "CoreWeave bond yields top 16% as AI debt markets face stress",
+      "hook": "Bond yields on AI infrastructure player CoreWeave crossed 16 percent amid debt market strain.",
+      "gist": [
+        "CoreWeave bond yields surpassed 16% as investors raised concerns over AI debt markets.",
+        "Surging borrowing costs could slow capital expenditure across AI data center infrastructure.",
+        "Upcoming earnings from CoreWeave and Nebius alongside crucial US inflation reports."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-06T17:09:53+00:00",
+      "url": "story/538c5843f9c9.html",
+      "api": "api/v1/clusters/538c5843f9c9.json"
+    },
+    {
+      "cluster_id": "25373662d4b4",
+      "headline": "Karnataka flags ethanol levels reaching 31% in petrol samples",
+      "hook": "Karnataka officials found petrol samples containing up to 31.2 percent ethanol content.",
+      "gist": [
+        "Karnataka reported petrol samples containing up to 31.2% ethanol, exceeding E20 limits.",
+        "Excess ethanol reduces vehicle mileage and raises concerns over OMC blending compliance.",
+        "Joint sampling results and official responses from oil marketing companies."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-11-06T16:46:51+00:00",
+      "url": "story/25373662d4b4.html",
+      "api": "api/v1/clusters/25373662d4b4.json"
+    },
+    {
+      "cluster_id": "11dba91b1e61",
+      "headline": "Nifty reclaims 25,000 in best weekly rally in six years",
+      "hook": "Nifty's 8.58% weekly surge lifted index benchmarks while smaller stocks fell behind.",
+      "gist": [
+        "Nifty surged 8.58% over one week, reclaiming the 25,000 mark into Samvat 2083.",
+        "Heavyweight large-cap stocks drove headline gains, leaving smaller-cap equity portfolios trailing behind.",
+        "Whether foreign inflows continue pushing Nifty beyond the 25,000–25,200 resistance boundary."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-11-06T16:41:02+00:00",
+      "url": "story/11dba91b1e61.html",
+      "api": "api/v1/clusters/11dba91b1e61.json"
+    },
+    {
+      "cluster_id": "e8730a85f237",
+      "headline": "Govt invites improved bids for IDBI Bank to maximize stake sale value",
+      "hook": "Finding a fresh bidder for the ₹52,000 crore IDBI Bank deal remains improbable.",
+      "gist": [
+        "Government invites revised bids to maximize value from existing suitors for IDBI Bank.",
+        "Finding new buyers willing to pay ₹52,000 crore is considered very remote.",
+        "Revised bid submission timeline and final valuation offered by existing interested buyers."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-06T14:58:22+00:00",
+      "url": "story/e8730a85f237.html",
+      "api": "api/v1/clusters/e8730a85f237.json"
+    },
+    {
+      "cluster_id": "6436cebfc07c",
+      "headline": "Nasdaq rebounds 1.73% after $2.5 trillion wiped out in AI selloff",
+      "hook": "A $2.5 trillion tech wipeout tests the heavy debt loads behind AI data centres.",
+      "gist": [
+        "US tech stocks rebounded 1.73% after a $2.5 trillion AI-led market selloff.",
+        "Democratic midterm wins prompted fears of stricter regulation and debt strains for data centres.",
+        "Whether mega-cap chipmakers can sustain capex amidst regulatory scrutiny and lingering rate hike fears."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-11-06T14:40:26+00:00",
+      "url": "story/6436cebfc07c.html",
+      "api": "api/v1/clusters/6436cebfc07c.json"
+    }
+  ]
+}
