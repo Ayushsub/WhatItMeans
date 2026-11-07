@@ -7516,5 +7516,19 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "9ee4232a058a"
+ },
+ {
+  "date": "2026-11-07",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": null,
+  "cluster_id": "63ee0c8f5e83"
+ },
+ {
+  "date": "2026-11-07",
+  "event_type": "policy_rate",
+  "entity": "Global Indices",
+  "value": null,
+  "cluster_id": "6436cebfc07c"
  }
 ]
