@@ -7530,5 +7530,12 @@
   "entity": "Global Indices",
   "value": null,
   "cluster_id": "6436cebfc07c"
+ },
+ {
+  "date": "2026-11-07",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "37a73bcb370e"
  }
 ]
