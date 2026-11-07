@@ -7467,5 +7467,33 @@
   "entity": "Fiscal & Budget",
   "value": "₹52,000 crore",
   "cluster_id": "e8730a85f237"
+ },
+ {
+  "date": "2026-11-07",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "2f9b9319e8fd"
+ },
+ {
+  "date": "2026-11-07",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "e989e4c8586d"
+ },
+ {
+  "date": "2026-11-07",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "e989e4c8586d"
+ },
+ {
+  "date": "2026-11-07",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "8dfef67885f1"
  }
 ]
