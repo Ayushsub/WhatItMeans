@@ -7551,5 +7551,19 @@
   "entity": "Inflation",
   "value": null,
   "cluster_id": "a6a4df442309"
+ },
+ {
+  "date": "2026-11-08",
+  "event_type": "fiscal_action",
+  "entity": "Adani Group",
+  "value": "₹35,000 crore",
+  "cluster_id": "1d3a5b13204c"
+ },
+ {
+  "date": "2026-11-08",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "6ffca33bb42b"
  }
 ]
