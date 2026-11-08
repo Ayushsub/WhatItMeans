@@ -7579,5 +7579,12 @@
   "entity": "Growth",
   "value": null,
   "cluster_id": "d41a83103a10"
+ },
+ {
+  "date": "2026-11-08",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "2b971cb36f8d"
  }
 ]
