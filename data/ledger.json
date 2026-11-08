@@ -7537,5 +7537,19 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "37a73bcb370e"
+ },
+ {
+  "date": "2026-11-08",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "d02defe4c84e"
+ },
+ {
+  "date": "2026-11-08",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "a6a4df442309"
  }
 ]
