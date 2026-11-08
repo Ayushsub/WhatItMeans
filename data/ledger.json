@@ -7565,5 +7565,19 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "6ffca33bb42b"
+ },
+ {
+  "date": "2026-11-08",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "f5a8bbe7613b"
+ },
+ {
+  "date": "2026-11-08",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "d41a83103a10"
  }
 ]
