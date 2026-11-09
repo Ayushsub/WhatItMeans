@@ -7586,5 +7586,40 @@
   "entity": "Credit & Liquidity",
   "value": null,
   "cluster_id": "2b971cb36f8d"
+ },
+ {
+  "date": "2026-11-09",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "87bdb8956f91"
+ },
+ {
+  "date": "2026-11-09",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "8f7c4f779f33"
+ },
+ {
+  "date": "2026-11-09",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "36ccb3ae9a4a"
+ },
+ {
+  "date": "2026-11-09",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "ac495098d566"
+ },
+ {
+  "date": "2026-11-09",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "400ddd3f1599"
  }
 ]
