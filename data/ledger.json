@@ -7712,5 +7712,19 @@
   "entity": "Institutional Flows",
   "value": null,
   "cluster_id": "25bc45b58984"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": null,
+  "cluster_id": "11fc7ca7a092"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "fiscal_action",
+  "entity": "Fiscal & Budget",
+  "value": "₹450 crore",
+  "cluster_id": "5cde32b05e46"
  }
 ]
