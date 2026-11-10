@@ -7642,5 +7642,47 @@
   "entity": "Crude & Energy",
   "value": null,
   "cluster_id": "a085d04b8b8d"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "be42586287f7"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "be42586287f7"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "c9e54310c974"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "a90d44148ee5"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "86dd85ea856c"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "dffece143003"
  }
 ]
