@@ -7684,5 +7684,33 @@
   "entity": "US Fed",
   "value": null,
   "cluster_id": "dffece143003"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "3f97a972b357"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "credit_conditions",
+  "entity": "RBI",
+  "value": "16%",
+  "cluster_id": "8377dc4885e8"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "93dce49cc28c"
+ },
+ {
+  "date": "2026-11-10",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": null,
+  "cluster_id": "25bc45b58984"
  }
 ]
