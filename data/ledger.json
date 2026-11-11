@@ -7761,5 +7761,12 @@
   "entity": "Government",
   "value": null,
   "cluster_id": "c065ec58a5c8"
+ },
+ {
+  "date": "2026-11-11",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "8e0b01622005"
  }
 ]
