@@ -7775,5 +7775,26 @@
   "entity": "Growth",
   "value": "7%",
   "cluster_id": "a5cca0f82ed9"
+ },
+ {
+  "date": "2026-11-11",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹32,994 crore",
+  "cluster_id": "6958d717a0c9"
+ },
+ {
+  "date": "2026-11-11",
+  "event_type": "policy_rate",
+  "entity": "HDFC Bank",
+  "value": null,
+  "cluster_id": "152e28dae434"
+ },
+ {
+  "date": "2026-11-11",
+  "event_type": "credit_conditions",
+  "entity": "Reliance Industries",
+  "value": null,
+  "cluster_id": "6ea2ea43cf04"
  }
 ]
