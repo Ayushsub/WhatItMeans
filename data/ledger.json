@@ -7726,5 +7726,40 @@
   "entity": "Fiscal & Budget",
   "value": "₹450 crore",
   "cluster_id": "5cde32b05e46"
+ },
+ {
+  "date": "2026-11-11",
+  "event_type": "energy_price",
+  "entity": "Crude & Energy",
+  "value": null,
+  "cluster_id": "b3f456ba0169"
+ },
+ {
+  "date": "2026-11-11",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "3f9d5ac9502a"
+ },
+ {
+  "date": "2026-11-11",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "3f9d5ac9502a"
+ },
+ {
+  "date": "2026-11-11",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "d527cc8bdc10"
+ },
+ {
+  "date": "2026-11-11",
+  "event_type": "fiscal_action",
+  "entity": "Government",
+  "value": null,
+  "cluster_id": "c065ec58a5c8"
  }
 ]
