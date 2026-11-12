@@ -7796,5 +7796,40 @@
   "entity": "Reliance Industries",
   "value": null,
   "cluster_id": "6ea2ea43cf04"
+ },
+ {
+  "date": "2026-11-12",
+  "event_type": "policy_rate",
+  "entity": "US Fed",
+  "value": null,
+  "cluster_id": "cc6f89fd5491"
+ },
+ {
+  "date": "2026-11-12",
+  "event_type": "inflation_print",
+  "entity": "Inflation",
+  "value": null,
+  "cluster_id": "cc6f89fd5491"
+ },
+ {
+  "date": "2026-11-12",
+  "event_type": "growth_print",
+  "entity": "Growth",
+  "value": "24%",
+  "cluster_id": "d83c57e486a7"
+ },
+ {
+  "date": "2026-11-12",
+  "event_type": "credit_conditions",
+  "entity": "Credit & Liquidity",
+  "value": null,
+  "cluster_id": "84d9fed90fad"
+ },
+ {
+  "date": "2026-11-12",
+  "event_type": "policy_rate",
+  "entity": "Interest Rates",
+  "value": null,
+  "cluster_id": "0422f17a6f33"
  }
 ]
