@@ -7831,5 +7831,33 @@
   "entity": "Interest Rates",
   "value": null,
   "cluster_id": "0422f17a6f33"
+ },
+ {
+  "date": "2026-11-12",
+  "event_type": "policy_rate",
+  "entity": "RBI",
+  "value": null,
+  "cluster_id": "87c67ef8392e"
+ },
+ {
+  "date": "2026-11-12",
+  "event_type": "trade_action",
+  "entity": "Trade & Tariffs",
+  "value": null,
+  "cluster_id": "08027cbeb41a"
+ },
+ {
+  "date": "2026-11-12",
+  "event_type": "currency_move",
+  "entity": "Currency",
+  "value": null,
+  "cluster_id": "8f0f72fcf4a1"
+ },
+ {
+  "date": "2026-11-12",
+  "event_type": "fund_flows",
+  "entity": "Institutional Flows",
+  "value": "₹32,994 crore",
+  "cluster_id": "5d17f14b4e9f"
  }
 ]
