@@ -1,0 +1,69 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-11-13T04:52:43.916039+00:00",
+  "retention_hours": 24,
+  "disclaimer": "Educational content, not investment advice.",
+  "count": 4,
+  "items": [
+    {
+      "cluster_id": "85e0597d01ae",
+      "headline": "Bank earnings rise 20% in Q2 on income growth and lower provisions",
+      "hook": "Indian lenders logged 20% Q2 profit growth as bad-loan provisions declined.",
+      "gist": [
+        "Indian banks reported a 20% rise in Q2 earnings.",
+        "Higher interest income and reduced bad-debt provisions are driving bank profitability.",
+        "Sustained net interest margin expansion and credit growth trajectories in upcoming quarters."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-11-12T07:32:44+00:00",
+      "url": "story/85e0597d01ae.html",
+      "api": "api/v1/clusters/85e0597d01ae.json"
+    },
+    {
+      "cluster_id": "24a7f0022377",
+      "headline": "Bank of Baroda hikes 555-day deposit rates by 10 bps to 7.50%",
+      "hook": "Depositors in Bank of Baroda's 555-day special scheme can earn up to 7.50% interest.",
+      "gist": [
+        "Bank of Baroda raised interest rates on its 555-day deposit scheme by 10 bps.",
+        "Higher deposit rates attract retail funds but elevate the bank's interest expenditure.",
+        "Monitor whether competing public sector lenders follow with similar deposit rate hikes."
+      ],
+      "confidence": "high",
+      "tier": "free",
+      "published_at": "2026-11-12T07:19:59+00:00",
+      "url": "story/24a7f0022377.html",
+      "api": "api/v1/clusters/24a7f0022377.json"
+    },
+    {
+      "cluster_id": "8f0f72fcf4a1",
+      "headline": "Foreign investors buy Rs 7,759 crore of Indian G-Secs in November as outflows end",
+      "hook": "Debt inflows reached Rs 7,759 crore following a two-month period of net selling.",
+      "gist": [
+        "FPIs bought Rs 7,759 crore of Indian government bonds in November, reversing two months of selling.",
+        "Foreign debt inflows help stabilize the Indian rupee and lower borrowing costs for government.",
+        "Future foreign capital flows and movement in global interest rate conditions."
+      ],
+      "confidence": "medium",
+      "tier": "free",
+      "published_at": "2026-11-12T06:57:47+00:00",
+      "url": "story/8f0f72fcf4a1.html",
+      "api": "api/v1/clusters/8f0f72fcf4a1.json"
+    },
+    {
+      "cluster_id": "eb015d44a68f",
+      "headline": "RBI releases September 2026 external borrowing data",
+      "hook": "Indian firms borrowing abroad face foreign exchange risks as RBI publishes September data.",
+      "gist": [
+        "RBI released monthly foreign debt data covering external borrowings for September 2026.",
+        "Foreign commercial debt reflects Indian corporate appetite for overseas capital and currency exposure.",
+        "Detailed breakdown of automatic versus approval route borrowing amounts in official statistics."
+      ],
+      "confidence": "low",
+      "tier": "free",
+      "published_at": "2026-11-12T06:05:00+00:00",
+      "url": "story/eb015d44a68f.html",
+      "api": "api/v1/clusters/eb015d44a68f.json"
+    }
+  ]
+}

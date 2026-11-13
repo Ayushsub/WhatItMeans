@@ -1,0 +1,105 @@
+{
+  "cluster_id": "24a7f0022377",
+  "analysis": {
+    "headline": "Bank of Baroda hikes 555-day deposit rates by 10 bps to 7.50%",
+    "hook": "Depositors in Bank of Baroda's 555-day special scheme can earn up to 7.50% interest.",
+    "gist": [
+      "Bank of Baroda raised interest rates on its 555-day deposit scheme by 10 bps.",
+      "Higher deposit rates attract retail funds but elevate the bank's interest expenditure.",
+      "Monitor whether competing public sector lenders follow with similar deposit rate hikes."
+    ],
+    "what_happened": "Bank of Baroda raised interest rates on its 555-day deposit scheme by 10 basis points on November 12, 2026, taking the maximum return to 7.50% per annum. For general customers, including NRE and NRO account holders, the revised annual interest rates stand at 6.85% for callable deposits and 6.90% for non-callable deposits.",
+    "who_is_affected": [
+      {
+        "group": "Bank of Baroda fixed deposit holders",
+        "effect": "Investors locking money into the 555-day tenure receive an additional 0.10% annual return."
+      },
+      {
+        "group": "Bank of Baroda equity shareholders",
+        "effect": "Higher deposit payout rates modestly increase the bank's interest expenses."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Banking & Financials",
+        "direction": "mixed",
+        "why": "Increasing deposit rates helps banks attract long-term liquidity but raises their overall cost of funds."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "step 1: Bank of Baroda increases interest rate on 555-day deposits by 10 basis points",
+        "step 2: Higher yields incentivize retail and non-resident account holders to park funds",
+        "step 3: Bank secures longer-duration liabilities while its weighted average cost of deposits rises",
+        "step 4: Elevated funding costs apply mild downward pressure on net interest margins"
+      ],
+      "explanation": "By raising yields on special-tenure fixed deposits, Bank of Baroda incentivizes retail savers and non-resident depositors to lock in funds for 555 days. Over the coming weeks, this drives deposit inflows, helping the bank fund its credit expansion and manage liquidity. However, paying higher interest rates increases the bank's total cost of liabilities, which can compress its net interest margin over subsequent quarters unless loan interest rates are also adjusted upward.",
+      "time_horizon": "quarters"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Bulls argue that targeted rate hikes on specific tenures allow the bank to efficiently mobilize stable, medium-term retail deposits without across-the-board rate increases.",
+      "depends_on": [
+        "Steady retail deposit growth in medium-term tenures",
+        "Sustained credit demand allowing profitable loan deployment"
+      ]
+    },
+    "bear_case": {
+      "argument": "Bears point out that competing for retail deposits through higher rates escalates the cost of funds and squeezes net interest margins if lending rates cannot keep pace.",
+      "depends_on": [
+        "Intensifying competition among public sector banks for retail liquidity",
+        "Inability to pass higher funding costs onto corporate or retail borrowers"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Bank of Baroda net interest margin (NIM)",
+        "why_it_matters": "Shows whether higher deposit yields erode core profitability",
+        "when": "quarterly earnings release"
+      },
+      {
+        "variable": "Deposit rates at peer public sector banks",
+        "why_it_matters": "Indicates whether deposit competition across the banking sector is broadening",
+        "when": "ongoing"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Direct rate change announcement from the bank with specific numbers provided in reporting.",
+    "jargon": [
+      {
+        "term": "Basis points (bps)",
+        "plain_meaning": "A financial unit of measurement where 100 basis points equal 1 percentage point; 10 bps equals 0.10%."
+      },
+      {
+        "term": "Callable deposit",
+        "plain_meaning": "A fixed deposit that allows the investor to withdraw money before the full maturity period ends."
+      },
+      {
+        "term": "Non-callable deposit",
+        "plain_meaning": "A fixed deposit where premature withdrawal before maturity is restricted, usually offering a slightly higher interest rate in exchange."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [],
+    "tickers": [],
+    "sectors": [
+      "Banking & Financials"
+    ],
+    "macro_themes": [
+      "Interest Rates"
+    ]
+  },
+  "sources": [
+    {
+      "name": "The Hindu BusinessLine",
+      "headline": "Bank of Baroda raises rates on 555-day deposit scheme by 10 bps to 7.50%",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/bank-of-baroda-raises-rates-on-555-day-deposit-scheme-by-10-bps-to-750/article71692693.ece",
+      "published_at": "2026-11-12T07:19:59+00:00"
+    }
+  ],
+  "published_at": "2026-11-12T07:19:59Z",
+  "updated_at": "2026-11-12T08:06:41.504194Z",
+  "confidence": "high",
+  "tier": "free"
+}

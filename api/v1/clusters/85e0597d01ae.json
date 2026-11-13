@@ -1,0 +1,101 @@
+{
+  "cluster_id": "85e0597d01ae",
+  "analysis": {
+    "headline": "Bank earnings rise 20% in Q2 on income growth and lower provisions",
+    "hook": "Indian lenders logged 20% Q2 profit growth as bad-loan provisions declined.",
+    "gist": [
+      "Indian banks reported a 20% rise in Q2 earnings.",
+      "Higher interest income and reduced bad-debt provisions are driving bank profitability.",
+      "Sustained net interest margin expansion and credit growth trajectories in upcoming quarters."
+    ],
+    "what_happened": "Indian banks recorded a 20% growth in earnings for the second quarter, according to analysis from Kotak. The performance was supported by healthy net interest income growth alongside lower provisioning costs for non-performing loans. Private banks are projected to benefit further from a favorable loan mix and interest rate movements in upcoming quarters.",
+    "who_is_affected": [
+      {
+        "group": "Bank shareholders",
+        "effect": "Earnings per share increase as quarterly sector profits expand by 20%."
+      },
+      {
+        "group": "Bank borrowers",
+        "effect": "A rising rate environment indicates potential increases in borrowing costs across loan portfolios."
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Banking & Financial Services",
+        "direction": "tailwind",
+        "why": "Expanding net interest income and reduced provision requirements directly boost operating profitability."
+      }
+    ],
+    "transmission_mechanism": {
+      "chain": [
+        "Rising interest rates allow banks to reprice loans faster than deposits",
+        "Net interest income expands due to wider profit spreads",
+        "Lower bad-loan provisions reduce operational expenses",
+        "Net profits increase by 20% in quarterly earnings"
+      ],
+      "explanation": "When interest rate cycles shift upward, banks typically adjust loan yields faster than deposit rates, widening their interest spreads over 1 to 2 quarters. This mechanism expands net interest income. Concurrently, improved credit discipline reduces the need to set aside funds for bad loans, directly lowering provisioning expense. Together, these factors boost net profit margins across the sector.",
+      "time_horizon": "quarters"
+    },
+    "market_reaction": "No market reaction reported in these sources.",
+    "bull_case": {
+      "argument": "Bulls argue that rising interest rates and an optimized loan mix will sustain net interest margin expansion and profitability in upcoming quarters.",
+      "depends_on": [
+        "Continued demand for higher-yielding credit products",
+        "Stable asset quality keeping bad-loan provisions low"
+      ]
+    },
+    "bear_case": {
+      "argument": "Bears argue that deposit costs will eventually rise to catch up with loan yields, compressing net interest margins over time.",
+      "depends_on": [
+        "Intensifying competition among banks for retail deposits",
+        "Potential economic slowing impacting borrower repayment capacity"
+      ]
+    },
+    "variables_to_watch": [
+      {
+        "variable": "Net interest margins",
+        "why_it_matters": "Shows whether interest earnings can continue outpacing rising cost of funds",
+        "when": "ongoing"
+      },
+      {
+        "variable": "Provisioning levels",
+        "why_it_matters": "Validates whether low credit costs can be sustained without weakening balance sheets",
+        "when": "ongoing"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "The reporting relies on a single short source snippet summarizing analyst projections.",
+    "jargon": [
+      {
+        "term": "Net interest income",
+        "plain_meaning": "The difference between the interest a bank earns on its loans and the interest it pays out to depositors."
+      },
+      {
+        "term": "Provisions",
+        "plain_meaning": "Funds set aside by a bank to cover expected future losses from defaulted or unpaid loans."
+      }
+    ]
+  },
+  "tags": {
+    "entities": [],
+    "tickers": [],
+    "sectors": [
+      "Banking & Financials"
+    ],
+    "macro_themes": [
+      "Interest Rates"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Economic Times",
+      "headline": "Bank earnings rise 20% in Q2 as lower provisions, healthy income growth support performance: Kotak",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-earnings-rise-20-in-q2-as-lower-provisions-healthy-income-growth-support-performance-kotak/articleshow/135759963.cms",
+      "published_at": "2026-11-12T07:32:44+00:00"
+    }
+  ],
+  "published_at": "2026-11-12T07:32:44Z",
+  "updated_at": "2026-11-12T08:06:41.504194Z",
+  "confidence": "low",
+  "tier": "free"
+}
